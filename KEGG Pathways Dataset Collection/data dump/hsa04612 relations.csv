@@ -1,0 +1,23 @@
+,entry1,entry2,link,value,name,pathway
+0,42,50,PPrel,...,state change,hsa04612
+1,50,48,PPrel,...,state change,hsa04612
+2,48,47,PPrel,...,state change,hsa04612
+3,47,46,PPrel,...,state change,hsa04612
+4,43,45,PPrel,...,state change,hsa04612
+5,45,44,PPrel,...,state change,hsa04612
+6,26,27,PPrel,...,state change,hsa04612
+7,27,18,PPrel,...,state change,hsa04612
+8,18,17,PPrel,...,state change,hsa04612
+9,57,55,PPrel,-->,activation,hsa04612
+10,56,55,PPrel,-->,activation,hsa04612
+11,23,21,PPrel,-->,activation,hsa04612
+12,23,22,PPrel,-->,activation,hsa04612
+13,23,20,PPrel,-->,activation,hsa04612
+14,46,34,PPrel,-->,activation,hsa04612
+15,35,46,PPrel,---,binding/association,hsa04612
+16,33,44,PPrel,---,binding/association,hsa04612
+17,19,17,PPrel,-->,activation,hsa04612
+18,24,18,PPrel,-->,activation,hsa04612
+19,25,27,PPrel,-->,activation,hsa04612
+20,36,48,PPrel,---,binding/association,hsa04612
+21,36,49,PPrel,---,binding/association,hsa04612

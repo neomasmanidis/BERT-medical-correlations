@@ -1,0 +1,56 @@
+,entry1,entry2,link,value,name,pathway
+0,27,25,PPrel,-->,activation,hsa01524
+1,25,24,PPrel,-->,activation,hsa01524
+2,24,23,PPrel,-->,activation,hsa01524
+3,23,17,PPrel,-->,activation,hsa01524
+4,23,22,PPrel,-->,activation,hsa01524
+5,104,105,PPrel,-->,activation,hsa01524
+6,105,106,PPrel,-->,activation,hsa01524
+7,106,107,PPrel,-->,activation,hsa01524
+8,18,58,PPrel,--|,inhibition,hsa01524
+9,18,15,PPrel,--|,inhibition,hsa01524
+10,58,53,PPrel,--|,inhibition,hsa01524
+11,58,54,PPrel,--|,inhibition,hsa01524
+12,15,53,PPrel,--|,inhibition,hsa01524
+13,15,54,PPrel,--|,inhibition,hsa01524
+14,66,58,PPrel,--|,inhibition,hsa01524
+15,66,15,PPrel,--|,inhibition,hsa01524
+16,65,58,PPrel,--|,inhibition,hsa01524
+17,65,15,PPrel,--|,inhibition,hsa01524
+18,21,20,PPrel,---,binding/association,hsa01524
+19,157,16,PPrel,-->,activation,hsa01524
+20,19,17,PPrel,--|,inhibition,hsa01524
+21,19,16,PPrel,--|,inhibition,hsa01524
+22,142,17,PPrel,--|,inhibition,hsa01524
+23,142,149,PPrel,--|,inhibition,hsa01524
+24,129,130,PPrel,--|,inhibition,hsa01524
+25,130,14,PPrel,--|,inhibition,hsa01524
+26,16,17,PPrel,-->,activation,hsa01524
+27,107,142,PPrel,-->,activation,hsa01524
+28,107,142,PPrel,+p,phosphorylation,hsa01524
+29,23,13,PPrel,-->,activation,hsa01524
+30,23,13,PPrel,+p,phosphorylation,hsa01524
+31,23,14,PPrel,-->,activation,hsa01524
+32,23,14,PPrel,+p,phosphorylation,hsa01524
+33,117,18,PPrel,--|,inhibition,hsa01524
+34,117,18,PPrel,+p,phosphorylation,hsa01524
+35,107,18,PPrel,--|,inhibition,hsa01524
+36,107,18,PPrel,+p,phosphorylation,hsa01524
+37,107,16,PPrel,--|,inhibition,hsa01524
+38,107,16,PPrel,+p,phosphorylation,hsa01524
+39,13,14,PPrel,-->,activation,hsa01524
+40,13,14,PPrel,+p,phosphorylation,hsa01524
+41,14,50,GErel,-->,expression,hsa01524
+42,14,50,GErel,-/-,missing interaction,hsa01524
+43,14,46,GErel,-->,expression,hsa01524
+44,14,46,GErel,-/-,missing interaction,hsa01524
+45,14,47,GErel,-->,expression,hsa01524
+46,14,47,GErel,-/-,missing interaction,hsa01524
+47,14,48,GErel,-->,expression,hsa01524
+48,14,48,GErel,-/-,missing interaction,hsa01524
+49,14,49,GErel,-->,expression,hsa01524
+50,14,49,GErel,-/-,missing interaction,hsa01524
+51,104,117,PPrel,-->,activation,hsa01524
+52,104,117,PPrel,..>,indirect effect,hsa01524
+53,107,19,PPrel,-->,activation,hsa01524
+54,107,19,PPrel,..>,indirect effect,hsa01524

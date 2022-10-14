@@ -1,0 +1,22 @@
+,entry1,entry2,link,value,name,pathway
+0,39,36,PPrel,---,binding/association,hsa05416
+1,36,37,PPrel,---,binding/association,hsa05416
+2,88,86,PPrel,-->,activation,hsa05416
+3,98,97,PPrel,-->,activation,hsa05416
+4,103,104,PPrel,-->,activation,hsa05416
+5,105,106,PPrel,-->,activation,hsa05416
+6,106,107,PPrel,-->,activation,hsa05416
+7,167,173,PPrel,-->,activation,hsa05416
+8,124,123,PPrel,-->,activation,hsa05416
+9,37,42,PPrel,---,binding/association,hsa05416
+10,37,42,PPrel,-/-,missing interaction,hsa05416
+11,42,138,PPrel,---,binding/association,hsa05416
+12,42,138,PPrel,-/-,missing interaction,hsa05416
+13,104,105,PPrel,-->,activation,hsa05416
+14,104,105,PPrel,..>,indirect effect,hsa05416
+15,52,166,PPrel,-->,activation,hsa05416
+16,52,166,PPrel,..>,indirect effect,hsa05416
+17,52,167,PPrel,-->,activation,hsa05416
+18,52,167,PPrel,..>,indirect effect,hsa05416
+19,166,172,PPrel,-->,activation,hsa05416
+20,166,172,PPrel,+p,phosphorylation,hsa05416

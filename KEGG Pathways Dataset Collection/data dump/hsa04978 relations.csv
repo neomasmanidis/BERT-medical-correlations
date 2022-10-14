@@ -1,0 +1,15 @@
+,entry1,entry2,link,value,name,pathway
+0,101,200,GErel,-->,expression,hsa04978
+1,101,102,GErel,-->,expression,hsa04978
+2,101,88,GErel,-->,expression,hsa04978
+3,101,94,GErel,-->,expression,hsa04978
+4,101,95,GErel,-->,expression,hsa04978
+5,100,101,PCrel,---,binding/association,hsa04978
+6,144,140,PCrel,---,binding/association,hsa04978
+7,140,143,PCrel,---,binding/association,hsa04978
+8,159,158,PCrel,---,binding/association,hsa04978
+9,85,87,PCrel,---,binding/association,hsa04978
+10,215,213,PCrel,---,binding/association,hsa04978
+11,86,84,PCrel,-+-,dissociation,hsa04978
+12,129,130,PCrel,---,binding/association,hsa04978
+13,111,126,PCrel,---,binding/association,hsa04978

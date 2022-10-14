@@ -1,0 +1,12 @@
+,entry1,entry2,link,value,name,pathway
+0,26,27,PPrel,-->,activation,hsa04962
+1,27,28,PPrel,-->,activation,hsa04962
+2,28,29,PPrel,-->,activation,hsa04962
+3,29,25,PCrel,-->,activation,hsa04962
+4,25,30,PCrel,-->,activation,hsa04962
+5,30,64,PPrel,-->,activation,hsa04962
+6,30,31,PPrel,-->,activation,hsa04962
+7,31,35,GErel,-->,expression,hsa04962
+8,75,74,PPrel,---,binding/association,hsa04962
+9,30,35,PPrel,-->,activation,hsa04962
+10,30,35,PPrel,+p,phosphorylation,hsa04962

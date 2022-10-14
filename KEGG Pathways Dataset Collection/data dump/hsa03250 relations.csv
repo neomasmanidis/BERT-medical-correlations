@@ -1,0 +1,13 @@
+,entry1,entry2,link,value,name,pathway
+0,703,704,PPrel,---,binding/association,hsa03250
+1,712,703,PPrel,---,binding/association,hsa03250
+2,748,747,PPrel,---,binding/association,hsa03250
+3,747,1078,PPrel,---,binding/association,hsa03250
+4,1046,1065,PPrel,---,binding/association,hsa03250
+5,1046,1067,PPrel,---,binding/association,hsa03250
+6,1046,1064,PPrel,---,binding/association,hsa03250
+7,1046,1066,PPrel,---,binding/association,hsa03250
+8,1065,1047,PPrel,+p,phosphorylation,hsa03250
+9,1065,1048,PPrel,+p,phosphorylation,hsa03250
+10,1083,812,PPrel,---,binding/association,hsa03250
+11,1062,420,PPrel,---,binding/association,hsa03250

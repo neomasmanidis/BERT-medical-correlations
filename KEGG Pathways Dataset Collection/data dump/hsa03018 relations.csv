@@ -1,0 +1,6 @@
+,entry1,entry2,link,value,name,pathway
+0,193,191,PCrel,---,binding/association,hsa03018
+1,193,141,PCrel,-->,activation,hsa03018
+2,194,195,PPrel,---,binding/association,hsa03018
+3,193,195,PCrel,-->,activation,hsa03018
+4,193,195,PCrel,---,binding/association,hsa03018

@@ -1,0 +1,21 @@
+,entry1,entry2,link,value,name,pathway
+0,9,16,PPrel,-->,activation,hsa05217
+1,16,15,PPrel,-->,activation,hsa05217
+2,10,12,PPrel,--|,inhibition,hsa05217
+3,15,22,PPrel,--|,inhibition,hsa05217
+4,22,21,PPrel,--|,inhibition,hsa05217
+5,21,23,PPrel,-->,activation,hsa05217
+6,18,8,GErel,-->,expression,hsa05217
+7,18,20,GErel,-->,expression,hsa05217
+8,18,6,GErel,-->,expression,hsa05217
+9,18,7,GErel,-->,expression,hsa05217
+10,18,9,GErel,-->,expression,hsa05217
+11,13,18,PPrel,-/-,missing interaction,hsa05217
+12,4,13,PPrel,---,binding/association,hsa05217
+13,19,13,PPrel,-->,activation,hsa05217
+14,59,65,PPrel,-/-,missing interaction,hsa05217
+15,59,66,PPrel,-/-,missing interaction,hsa05217
+16,59,67,PPrel,-/-,missing interaction,hsa05217
+17,59,68,PPrel,-/-,missing interaction,hsa05217
+18,59,69,PPrel,-/-,missing interaction,hsa05217
+19,59,70,PPrel,-/-,missing interaction,hsa05217

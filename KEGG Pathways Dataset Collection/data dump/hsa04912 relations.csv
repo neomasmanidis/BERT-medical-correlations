@@ -1,0 +1,53 @@
+,entry1,entry2,link,value,name,pathway
+0,10,38,PPrel,20,compound,hsa04912
+1,17,28,PPrel,16,compound,hsa04912
+2,28,29,PPrel,19,compound,hsa04912
+3,17,9,PPrel,15,compound,hsa04912
+4,35,32,PPrel,-->,activation,hsa04912
+5,32,34,PPrel,-->,activation,hsa04912
+6,34,10,PPrel,-->,activation,hsa04912
+7,32,30,PPrel,-->,activation,hsa04912
+8,30,17,PPrel,-->,activation,hsa04912
+9,29,22,PPrel,-->,activation,hsa04912
+10,37,49,PPrel,-->,activation,hsa04912
+11,49,48,PPrel,-->,activation,hsa04912
+12,48,47,PPrel,-->,activation,hsa04912
+13,47,46,PPrel,-->,activation,hsa04912
+14,46,45,PPrel,-->,activation,hsa04912
+15,45,44,PPrel,-->,activation,hsa04912
+16,9,25,PPrel,..>,indirect effect,hsa04912
+17,9,26,PPrel,..>,indirect effect,hsa04912
+18,9,27,PPrel,..>,indirect effect,hsa04912
+19,9,33,PPrel,..>,indirect effect,hsa04912
+20,9,36,PPrel,..>,indirect effect,hsa04912
+21,9,50,PPrel,..>,indirect effect,hsa04912
+22,36,18,PPrel,..>,indirect effect,hsa04912
+23,18,54,PPrel,..>,indirect effect,hsa04912
+24,9,31,PPrel,..>,indirect effect,hsa04912
+25,31,37,PPrel,---,binding/association,hsa04912
+26,38,21,PPrel,-->,activation,hsa04912
+27,38,21,PPrel,+p,phosphorylation,hsa04912
+28,25,23,PPrel,-->,activation,hsa04912
+29,25,23,PPrel,+p,phosphorylation,hsa04912
+30,23,24,PPrel,-->,activation,hsa04912
+31,23,24,PPrel,+p,phosphorylation,hsa04912
+32,54,51,PPrel,-->,activation,hsa04912
+33,54,51,PPrel,+p,phosphorylation,hsa04912
+34,51,52,PPrel,-->,activation,hsa04912
+35,51,52,PPrel,+p,phosphorylation,hsa04912
+36,52,53,PPrel,-->,activation,hsa04912
+37,52,53,PPrel,+p,phosphorylation,hsa04912
+38,36,48,PPrel,-->,activation,hsa04912
+39,36,48,PPrel,+p,phosphorylation,hsa04912
+40,9,44,PPrel,-->,activation,hsa04912
+41,9,44,PPrel,+p,phosphorylation,hsa04912
+42,44,43,PPrel,-->,activation,hsa04912
+43,44,43,PPrel,+p,phosphorylation,hsa04912
+44,43,41,PPrel,-->,activation,hsa04912
+45,43,41,PPrel,+p,phosphorylation,hsa04912
+46,41,40,PPrel,-->,activation,hsa04912
+47,41,40,PPrel,+p,phosphorylation,hsa04912
+48,36,45,PPrel,-->,activation,hsa04912
+49,36,45,PPrel,..>,indirect effect,hsa04912
+50,41,119,PPrel,-->,activation,hsa04912
+51,41,119,PPrel,+p,phosphorylation,hsa04912

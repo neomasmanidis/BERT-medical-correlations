@@ -1,0 +1,33 @@
+,entry1,entry2,link,value,name,pathway
+0,15,14,PPrel,-->,activation,hsa05218
+1,35,34,PPrel,-->,activation,hsa05218
+2,9,34,PPrel,-->,activation,hsa05218
+3,9,28,PPrel,-->,activation,hsa05218
+4,35,28,PPrel,-->,activation,hsa05218
+5,27,16,PPrel,--|,inhibition,hsa05218
+6,20,21,PPrel,--|,inhibition,hsa05218
+7,18,107,PPrel,--|,inhibition,hsa05218
+8,22,23,PPrel,-+-,dissociation,hsa05218
+9,32,11,GErel,-->,expression,hsa05218
+10,32,10,GErel,-->,expression,hsa05218
+11,14,35,PPrel,-->,activation,hsa05218
+12,21,18,GErel,-->,expression,hsa05218
+13,13,19,PCrel,-/-,missing interaction,hsa05218
+14,17,20,PPrel,-/-,missing interaction,hsa05218
+15,29,107,PPrel,-/-,missing interaction,hsa05218
+16,95,101,PPrel,-/-,missing interaction,hsa05218
+17,95,102,PPrel,-/-,missing interaction,hsa05218
+18,95,103,PPrel,-/-,missing interaction,hsa05218
+19,95,104,PPrel,-/-,missing interaction,hsa05218
+20,95,105,PPrel,-/-,missing interaction,hsa05218
+21,95,106,PPrel,-/-,missing interaction,hsa05218
+22,28,27,PPrel,19,compound,hsa05218
+23,28,27,PPrel,-->,activation,hsa05218
+24,6,33,PPrel,-->,activation,hsa05218
+25,6,33,PPrel,+p,phosphorylation,hsa05218
+26,34,33,PPrel,-->,activation,hsa05218
+27,34,33,PPrel,+p,phosphorylation,hsa05218
+28,33,32,PPrel,-->,activation,hsa05218
+29,33,32,PPrel,+p,phosphorylation,hsa05218
+30,107,23,PPrel,-->,activation,hsa05218
+31,107,23,PPrel,+p,phosphorylation,hsa05218

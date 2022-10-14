@@ -1,0 +1,59 @@
+,entry1,entry2,link,value,name,pathway
+0,42,41,PPrel,36,compound,hsa05221
+1,37,42,PPrel,-->,activation,hsa05221
+2,8,42,PPrel,-->,activation,hsa05221
+3,38,33,PPrel,-->,activation,hsa05221
+4,37,35,PPrel,-->,activation,hsa05221
+5,8,35,PPrel,-->,activation,hsa05221
+6,35,34,PPrel,-->,activation,hsa05221
+7,34,26,PPrel,-->,activation,hsa05221
+8,7,42,PPrel,-->,activation,hsa05221
+9,26,42,PPrel,-->,activation,hsa05221
+10,6,42,PPrel,-->,activation,hsa05221
+11,7,47,PPrel,-->,activation,hsa05221
+12,26,47,PPrel,-->,activation,hsa05221
+13,6,47,PPrel,-->,activation,hsa05221
+14,37,18,PPrel,-->,activation,hsa05221
+15,8,18,PPrel,-->,activation,hsa05221
+16,29,17,PPrel,..>,indirect effect,hsa05221
+17,38,39,PPrel,--|,inhibition,hsa05221
+18,18,25,GErel,-->,expression,hsa05221
+19,18,31,GErel,-->,expression,hsa05221
+20,8,10,PPrel,--|,inhibition,hsa05221
+21,8,9,PPrel,--|,inhibition,hsa05221
+22,11,10,PPrel,--|,inhibition,hsa05221
+23,11,9,PPrel,--|,inhibition,hsa05221
+24,23,20,GErel,-->,expression,hsa05221
+25,5,20,GErel,-->,expression,hsa05221
+26,23,19,GErel,-->,expression,hsa05221
+27,5,19,GErel,-->,expression,hsa05221
+28,11,19,GErel,-->,expression,hsa05221
+29,19,21,GErel,-->,expression,hsa05221
+30,19,16,GErel,-->,expression,hsa05221
+31,19,15,GErel,-->,expression,hsa05221
+32,19,22,PPrel,---,binding/association,hsa05221
+33,23,9,PPrel,--|,inhibition,hsa05221
+34,27,142,PPrel,-/-,missing interaction,hsa05221
+35,27,143,PPrel,-/-,missing interaction,hsa05221
+36,27,144,PPrel,-/-,missing interaction,hsa05221
+37,27,145,PPrel,-/-,missing interaction,hsa05221
+38,10,134,PPrel,-/-,missing interaction,hsa05221
+39,24,146,PPrel,-/-,missing interaction,hsa05221
+40,9,135,PPrel,-/-,missing interaction,hsa05221
+41,9,136,PPrel,-/-,missing interaction,hsa05221
+42,9,137,PPrel,-/-,missing interaction,hsa05221
+43,23,132,GErel,--|,repression,hsa05221
+44,23,133,GErel,--|,repression,hsa05221
+45,5,140,GErel,--|,repression,hsa05221
+46,23,5,GErel,-->,expression,hsa05221
+47,23,130,GErel,-->,expression,hsa05221
+48,41,29,PPrel,-->,activation,hsa05221
+49,41,29,PPrel,+p,phosphorylation,hsa05221
+50,41,38,PPrel,-->,activation,hsa05221
+51,41,38,PPrel,+p,phosphorylation,hsa05221
+52,47,46,PPrel,-->,activation,hsa05221
+53,47,46,PPrel,+p,phosphorylation,hsa05221
+54,46,45,PPrel,-->,activation,hsa05221
+55,46,45,PPrel,+p,phosphorylation,hsa05221
+56,41,30,PPrel,--|,inhibition,hsa05221
+57,41,30,PPrel,+p,phosphorylation,hsa05221

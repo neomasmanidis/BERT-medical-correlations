@@ -1,0 +1,63 @@
+,entry1,entry2,link,value,name,pathway
+0,48,45,PPrel,22,compound,hsa04540
+1,67,24,PPrel,21,compound,hsa04540
+2,67,69,PPrel,19,compound,hsa04540
+3,69,24,PPrel,18,compound,hsa04540
+4,52,41,PPrel,20,compound,hsa04540
+5,44,16,PCrel,,,hsa04540
+6,61,37,PCrel,,,hsa04540
+7,68,36,PCrel,,,hsa04540
+8,66,36,PCrel,,,hsa04540
+9,42,26,PCrel,,,hsa04540
+10,65,27,PCrel,,,hsa04540
+11,52,25,PCrel,,,hsa04540
+12,44,28,PPrel,-->,activation,hsa04540
+13,28,56,PPrel,-->,activation,hsa04540
+14,56,55,PPrel,-->,activation,hsa04540
+15,55,54,PPrel,-->,activation,hsa04540
+16,54,53,PPrel,-->,activation,hsa04540
+17,60,59,PPrel,-->,activation,hsa04540
+18,59,58,PPrel,-->,activation,hsa04540
+19,58,57,PPrel,-->,activation,hsa04540
+20,57,56,PPrel,-->,activation,hsa04540
+21,59,49,PPrel,-->,activation,hsa04540
+22,49,39,PPrel,-->,activation,hsa04540
+23,39,40,PPrel,-->,activation,hsa04540
+24,40,38,PPrel,-->,activation,hsa04540
+25,61,62,PPrel,-->,activation,hsa04540
+26,68,62,PPrel,-->,activation,hsa04540
+27,62,48,PPrel,-->,activation,hsa04540
+28,66,64,PPrel,-->,activation,hsa04540
+29,42,63,PPrel,-->,activation,hsa04540
+30,65,63,PPrel,-->,activation,hsa04540
+31,63,67,PPrel,-->,activation,hsa04540
+32,35,51,PPrel,---,binding/association,hsa04540
+33,33,34,PPrel,---,binding/association,hsa04540
+34,34,50,PPrel,---,binding/association,hsa04540
+35,34,47,PPrel,---,binding/association,hsa04540
+36,30,32,PPrel,---,binding/association,hsa04540
+37,31,32,PPrel,---,binding/association,hsa04540
+38,29,31,PPrel,---,binding/association,hsa04540
+39,29,30,PPrel,---,binding/association,hsa04540
+40,64,48,PPrel,--|,inhibition,hsa04540
+41,41,29,PPrel,..>,indirect effect,hsa04540
+42,24,29,PPrel,..>,indirect effect,hsa04540
+43,45,29,PPrel,..>,indirect effect,hsa04540
+44,29,46,PPrel,---,binding/association,hsa04540
+45,49,31,PPrel,..>,indirect effect,hsa04540
+46,45,31,PPrel,..>,indirect effect,hsa04540
+47,24,31,PPrel,..>,indirect effect,hsa04540
+48,41,31,PPrel,..>,indirect effect,hsa04540
+49,49,29,PPrel,..>,indirect effect,hsa04540
+50,23,33,PPrel,-->,activation,hsa04540
+51,23,33,PPrel,+p,phosphorylation,hsa04540
+52,38,31,PPrel,--|,inhibition,hsa04540
+53,38,31,PPrel,+p,phosphorylation,hsa04540
+54,53,31,PPrel,--|,inhibition,hsa04540
+55,53,31,PPrel,+p,phosphorylation,hsa04540
+56,43,29,PPrel,--|,inhibition,hsa04540
+57,43,29,PPrel,+p,phosphorylation,hsa04540
+58,38,29,PPrel,--|,inhibition,hsa04540
+59,38,29,PPrel,+p,phosphorylation,hsa04540
+60,53,29,PPrel,--|,inhibition,hsa04540
+61,53,29,PPrel,+p,phosphorylation,hsa04540

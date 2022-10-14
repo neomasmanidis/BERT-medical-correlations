@@ -1,0 +1,13 @@
+,entry1,entry2,link,value,name,pathway
+0,39,36,PPrel,---,binding/association,hsa05412
+1,36,37,PPrel,---,binding/association,hsa05412
+2,131,132,PPrel,---,binding/association,hsa05412
+3,146,147,PPrel,---,binding/association,hsa05412
+4,148,149,PPrel,---,binding/association,hsa05412
+5,55,56,PPrel,-/-,missing interaction,hsa05412
+6,57,58,PPrel,-/-,missing interaction,hsa05412
+7,59,60,PPrel,-/-,missing interaction,hsa05412
+8,61,62,PPrel,-/-,missing interaction,hsa05412
+9,141,140,PPrel,-->,activation,hsa05412
+10,72,140,PPrel,-->,activation,hsa05412
+11,46,27,PCrel,-->,activation,hsa05412

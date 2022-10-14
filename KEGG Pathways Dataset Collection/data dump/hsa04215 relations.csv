@@ -1,0 +1,22 @@
+,entry1,entry2,link,value,name,pathway
+0,103,99,PPrel,-->,activation,hsa04215
+1,99,100,PPrel,-->,activation,hsa04215
+2,100,22,PPrel,-->,activation,hsa04215
+3,19,25,PPrel,-->,activation,hsa04215
+4,25,21,PPrel,-->,activation,hsa04215
+5,21,22,PPrel,-->,activation,hsa04215
+6,21,23,PPrel,-->,activation,hsa04215
+7,122,56,PPrel,--|,inhibition,hsa04215
+8,56,54,PPrel,--|,inhibition,hsa04215
+9,56,55,PPrel,--|,inhibition,hsa04215
+10,26,24,PPrel,--|,inhibition,hsa04215
+11,27,24,PPrel,--|,inhibition,hsa04215
+12,28,24,PPrel,--|,inhibition,hsa04215
+13,24,21,PPrel,--|,inhibition,hsa04215
+14,24,22,PPrel,--|,inhibition,hsa04215
+15,24,23,PPrel,--|,inhibition,hsa04215
+16,3,5,PPrel,--|,inhibition,hsa04215
+17,89,88,PPrel,--|,inhibition,hsa04215
+18,112,109,PPrel,-->,activation,hsa04215
+19,106,14,PPrel,-->,activation,hsa04215
+20,106,14,PPrel,..>,indirect effect,hsa04215

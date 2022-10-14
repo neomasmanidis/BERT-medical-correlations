@@ -1,0 +1,65 @@
+,id,name,type,link,gene_names,reaction
+0,13,hsa:84992,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:84992,"PIGY, HPMRS6, PIG-Y",rn:R05916
+1,14,hsa:8818,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8818,"DPM2, CDG1U",rn:R05916
+2,15,hsa:9091,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9091,"PIGQ, DEE77, EIEE77, GPI1, c407A10.1",rn:R05916
+3,16,hsa:51227,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51227,"PIGP, DCRC, DCRC-S, DEE55, DSCR5, DSRC, EIEE55, PIG-P",rn:R05916
+4,17,hsa:5283,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5283,"PIGH, GPI-H",rn:R05916
+5,18,hsa:5279,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5279,"PIGC, GPI2, GPIBD16, MRT62",rn:R05916
+6,19,hsa:54965,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54965,"PIGX, PIG-X",rn:R05919
+7,20,gl:G13150,compound,https://www.kegg.jp/dbget-bin/www_bget?G13150,G13150,
+8,21,hsa:128869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:128869,"PIGU, CDC91L1, GAB1, GPIBD21, NEDBSS",
+9,22,hsa:51604,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51604,"PIGT, CGI-06, MCAHS3, NDAP, PNH2",
+10,23,hsa:94005,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:94005,"PIGS, GPIBD18",
+11,24,gl:G12396,compound,https://www.kegg.jp/dbget-bin/www_bget?G12396,G12396,
+12,25,hsa:93183,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:93183,"PIGM, GPI-MT-I",rn:R05919
+13,26,gl:G00145,compound,https://www.kegg.jp/dbget-bin/www_bget?G00145,G00145,
+14,27,gl:G00143,compound,https://www.kegg.jp/dbget-bin/www_bget?G00143,G00143,
+15,28,gl:G00144,compound,https://www.kegg.jp/dbget-bin/www_bget?G00144,G00144,
+16,29,gl:G00146,compound,https://www.kegg.jp/dbget-bin/www_bget?G00146,G00146,
+17,30,gl:G13151,compound,https://www.kegg.jp/dbget-bin/www_bget?G13151,G13151,
+18,31,gl:G13128,compound,https://www.kegg.jp/dbget-bin/www_bget?G13128,G13128,
+19,32,cpd:C00350,compound,https://www.kegg.jp/dbget-bin/www_bget?C00350,C00350,
+20,33,gl:G13152,compound,https://www.kegg.jp/dbget-bin/www_bget?G13152,G13152,
+21,34,gl:G00149,compound,https://www.kegg.jp/dbget-bin/www_bget?G00149,G00149,
+22,35,gl:G00148,compound,https://www.kegg.jp/dbget-bin/www_bget?G00148,G00148,
+23,36,hsa:5281,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5281,PIGF,rn:R08107
+24,37,hsa:9487,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9487,"PIGL, CHIME",rn:R05917
+25,38,hsa:10026,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10026,"PIGK, GPI8, NEDHCAS",
+26,39,hsa:9488,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9488,"PIGB, DEE80, EIEE80, GPI-MT-III, PIG-B",rn:R05922
+27,40,hsa:8733,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8733,"GPAA1, GAA1, GPIBD15, hGAA1",
+28,41,hsa:80055,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:80055,"PGAP1, Bst1, ISPD3024, MRT42, SPG67",
+29,42,hsa:23556,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23556,"PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N",rn:R12351
+30,43,hsa:5277,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5277,"PIGA, GPI3, MCAHS2, PIG-A, PNH1",rn:R05916
+31,44,hsa:2822,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2822,"GPLD1, GPIPLD, GPIPLDM, PIGPLD, PIGPLD1, PLD",rn:R06623
+32,45,hsa:84720,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:84720,"PIGO, HPMRS2",rn:R08107
+33,46,hsa:284098,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:284098,"PIGW, Gwt1, HPMRS5",rn:R05918
+34,47,hsa:55650,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55650,"PIGV, GPI-MT-II, HPMRS1, PIG-V",rn:R12350
+35,48,path:hsa00564,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00564,Glycerophospholipid metabolism,
+36,49,path:hsa00563,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00563,TITLE:Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,
+37,50,path:hsa00510,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00510,N-Glycan biosynthesis,
+38,51,cpd:C00350,compound,https://www.kegg.jp/dbget-bin/www_bget?C00350,C00350,
+39,52,gl:G10617,compound,https://www.kegg.jp/dbget-bin/www_bget?G10617,G10617,
+40,53,cpd:C00154,compound,https://www.kegg.jp/dbget-bin/www_bget?C00154,C00154,
+41,54,gl:G10610,compound,https://www.kegg.jp/dbget-bin/www_bget?G10610,G10610,
+42,55,cpd:C01194,compound,https://www.kegg.jp/dbget-bin/www_bget?C01194,C01194,
+43,65,hsa:80235,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:80235,"PIGZ, GPI-MT-IV, PIG-Z, SMP3",rn:R07129
+44,66,hsa:9488,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9488,"PIGB, DEE80, EIEE80, GPI-MT-III, PIG-B",rn:R05922
+45,67,hsa:55650,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55650,"PIGV, GPI-MT-II, HPMRS1, PIG-V",rn:R12350
+46,68,hsa:93183,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:93183,"PIGM, GPI-MT-I",rn:R05919
+47,69,hsa:5277,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5277,"PIGA, GPI3, MCAHS2, PIG-A, PNH1",rn:R05916
+48,70,hsa:84720,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:84720,"PIGO, HPMRS2",rn:R08107
+49,71,hsa:54872,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54872,"PIGG, GPI7, LAS21, MRT53, PRO4405, RLGS1930",rn:R12702
+50,72,hsa:23556,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23556,"PIGN, MCAHS, MCAHS1, MCD4, MDC4, PIG-N",rn:R12351
+51,73,hsa:10026,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10026,"PIGK, GPI8, NEDHCAS",
+52,75,gl:G13044,compound,https://www.kegg.jp/dbget-bin/www_bget?G13044,G13044,
+53,77,hsa:54872,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54872,"PIGG, GPI7, LAS21, MRT53, PRO4405, RLGS1930",rn:R12702
+54,78,hsa:5281,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5281,PIGF,rn:R12702
+55,79,cpd:C00350,compound,https://www.kegg.jp/dbget-bin/www_bget?C00350,C00350,
+56,81,hsa:65258,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:65258,"MPPE1, Cdc1, PGAP5",
+57,83,gl:G13046,compound,https://www.kegg.jp/dbget-bin/www_bget?G13046,G13046,
+58,89,cpd:C00346,compound,https://www.kegg.jp/dbget-bin/www_bget?C00346,C00346,
+59,90,undefined,group,,,
+60,91,undefined,group,,,
+61,92,undefined,group,,,
+62,93,undefined,group,,,
+63,94,undefined,group,,,

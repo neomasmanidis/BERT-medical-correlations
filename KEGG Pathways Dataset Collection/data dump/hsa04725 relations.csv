@@ -1,0 +1,53 @@
+,entry1,entry2,link,value,name,pathway
+0,107,147,PCrel,-->,activation,hsa04725
+1,107,115,PCrel,-->,activation,hsa04725
+2,147,142,PPrel,-->,activation,hsa04725
+3,115,142,PPrel,-->,activation,hsa04725
+4,107,162,PCrel,-->,activation,hsa04725
+5,107,164,PCrel,-->,activation,hsa04725
+6,107,108,PCrel,-->,activation,hsa04725
+7,107,109,PCrel,-->,activation,hsa04725
+8,107,25,PCrel,-->,activation,hsa04725
+9,107,26,PCrel,-->,activation,hsa04725
+10,107,27,PCrel,-->,activation,hsa04725
+11,107,24,PCrel,-->,activation,hsa04725
+12,108,38,PPrel,-->,activation,hsa04725
+13,109,38,PPrel,-->,activation,hsa04725
+14,25,38,PPrel,-->,activation,hsa04725
+15,38,39,PPrel,-->,activation,hsa04725
+16,39,45,PCrel,-->,activation,hsa04725
+17,39,46,PCrel,-->,activation,hsa04725
+18,45,49,PCrel,-->,activation,hsa04725
+19,51,52,PCrel,-->,activation,hsa04725
+20,46,52,PCrel,-->,activation,hsa04725
+21,26,105,PPrel,-->,activation,hsa04725
+22,27,105,PPrel,-->,activation,hsa04725
+23,105,195,PPrel,-->,activation,hsa04725
+24,105,175,PPrel,-->,activation,hsa04725
+25,178,179,PPrel,-->,activation,hsa04725
+26,36,40,PCrel,-->,activation,hsa04725
+27,40,37,PCrel,-->,activation,hsa04725
+28,37,54,PCrel,-->,activation,hsa04725
+29,37,36,PPrel,-->,activation,hsa04725
+30,54,137,PCrel,-->,activation,hsa04725
+31,54,193,PCrel,-->,activation,hsa04725
+32,193,150,PPrel,-->,activation,hsa04725
+33,24,189,PPrel,-->,activation,hsa04725
+34,189,150,PPrel,-->,activation,hsa04725
+35,151,152,PPrel,-->,activation,hsa04725
+36,142,65,PPrel,--|,inhibition,hsa04725
+37,105,36,PPrel,--|,inhibition,hsa04725
+38,37,134,PPrel,-->,activation,hsa04725
+39,37,134,PPrel,..>,indirect effect,hsa04725
+40,134,135,PPrel,-->,activation,hsa04725
+41,134,135,PPrel,..>,indirect effect,hsa04725
+42,137,134,PPrel,-->,activation,hsa04725
+43,137,134,PPrel,..>,indirect effect,hsa04725
+44,150,151,PPrel,-->,activation,hsa04725
+45,150,151,PPrel,+p,phosphorylation,hsa04725
+46,175,176,PPrel,-->,activation,hsa04725
+47,175,176,PPrel,..>,indirect effect,hsa04725
+48,176,177,PPrel,-->,activation,hsa04725
+49,176,177,PPrel,..>,indirect effect,hsa04725
+50,177,178,PPrel,-->,activation,hsa04725
+51,177,178,PPrel,+p,phosphorylation,hsa04725

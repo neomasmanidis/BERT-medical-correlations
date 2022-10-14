@@ -1,0 +1,24 @@
+,entry1,entry2,link,value,name,pathway
+0,28,29,PCrel,...,state change,hsa04960
+1,28,18,PCrel,-->,activation,hsa04960
+2,14,18,PCrel,-->,activation,hsa04960
+3,18,11,GErel,-->,expression,hsa04960
+4,18,13,GErel,-->,expression,hsa04960
+5,18,19,GErel,-->,expression,hsa04960
+6,18,26,GErel,-->,expression,hsa04960
+7,18,12,GErel,-->,expression,hsa04960
+8,42,38,PPrel,-->,activation,hsa04960
+9,60,38,PPrel,-->,activation,hsa04960
+10,38,39,PPrel,-->,activation,hsa04960
+11,39,40,PPrel,-->,activation,hsa04960
+12,40,48,PCrel,-->,activation,hsa04960
+13,48,41,PCrel,-->,activation,hsa04960
+14,13,64,PPrel,-->,activation,hsa04960
+15,20,11,PPrel,+u,ubiquitination,hsa04960
+16,66,20,PPrel,---,binding/association,hsa04960
+17,41,13,PPrel,-->,activation,hsa04960
+18,41,13,PPrel,+p,phosphorylation,hsa04960
+19,13,20,PPrel,--|,inhibition,hsa04960
+20,13,20,PPrel,+p,phosphorylation,hsa04960
+21,19,40,PPrel,-->,activation,hsa04960
+22,19,40,PPrel,..>,indirect effect,hsa04960

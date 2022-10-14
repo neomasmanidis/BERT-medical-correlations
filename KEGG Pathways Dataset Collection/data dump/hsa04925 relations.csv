@@ -1,0 +1,35 @@
+,entry1,entry2,link,value,name,pathway
+0,44,28,PPrel,-->,activation,hsa04925
+1,28,23,PPrel,-->,activation,hsa04925
+2,23,26,PCrel,-->,activation,hsa04925
+3,26,19,PCrel,-->,activation,hsa04925
+4,23,55,PCrel,-->,activation,hsa04925
+5,55,57,PCrel,-->,activation,hsa04925
+6,43,42,PCrel,-->,activation,hsa04925
+7,42,59,PPrel,-->,activation,hsa04925
+8,48,50,PPrel,-->,activation,hsa04925
+9,50,35,PPrel,-->,activation,hsa04925
+10,35,36,PCrel,-->,activation,hsa04925
+11,36,88,PCrel,-->,activation,hsa04925
+12,72,16,PCrel,-->,activation,hsa04925
+13,16,40,PCrel,-->,activation,hsa04925
+14,34,69,GErel,-->,expression,hsa04925
+15,34,70,GErel,-->,expression,hsa04925
+16,63,69,GErel,-->,expression,hsa04925
+17,63,70,GErel,-->,expression,hsa04925
+18,64,69,GErel,-->,expression,hsa04925
+19,64,70,GErel,-->,expression,hsa04925
+20,20,42,PCrel,-->,activation,hsa04925
+21,151,48,PPrel,,,hsa04925
+22,156,44,PPrel,-->,activation,hsa04925
+23,157,72,PPrel,-->,activation,hsa04925
+24,57,58,PPrel,+p,phosphorylation,hsa04925
+25,57,58,PPrel,..>,indirect effect,hsa04925
+26,58,158,PPrel,-->,activation,hsa04925
+27,58,158,PPrel,+p,phosphorylation,hsa04925
+28,59,158,PPrel,-->,activation,hsa04925
+29,59,158,PPrel,+p,phosphorylation,hsa04925
+30,88,158,PPrel,-->,activation,hsa04925
+31,88,158,PPrel,+p,phosphorylation,hsa04925
+32,23,21,PPrel,--|,inhibition,hsa04925
+33,23,21,PPrel,..>,indirect effect,hsa04925

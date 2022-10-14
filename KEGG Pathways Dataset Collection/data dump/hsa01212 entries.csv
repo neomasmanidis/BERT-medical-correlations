@@ -1,0 +1,331 @@
+,id,name,type,link,gene_names,reaction
+0,2,hsa:2194 hsa:27349,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:27349,,rn:R01626
+1,4,path:hsa01212,map,https://www.kegg.jp/dbget-bin/www_bget?hsa01212,TITLE:Fatty acid metabolism,
+2,5,cpd:C00024,compound,https://www.kegg.jp/dbget-bin/www_bget?C00024,C00024,
+3,6,hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194,"FASN, FAS, OA-519, SDR27X1",rn:R01624
+4,7,hsa:2194 hsa:54995,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:54995,,rn:R04355
+5,9,hsa:2194 hsa:7923 hsa:84869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:7923+hsa:84869,"FASN, FAS, OA-519, SDR27X1...",rn:R04533
+6,10,hsa:109703458 hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:109703458+hsa:2194,HTD2...,rn:R04428
+7,11,cpd:C03939,compound,https://www.kegg.jp/dbget-bin/www_bget?C03939,C03939,
+8,12,cpd:C05744,compound,https://www.kegg.jp/dbget-bin/www_bget?C05744,C05744,
+9,13,cpd:C04618,compound,https://www.kegg.jp/dbget-bin/www_bget?C04618,C04618,
+10,14,cpd:C00083,compound,https://www.kegg.jp/dbget-bin/www_bget?C00083,C00083,
+11,15,cpd:C01209,compound,https://www.kegg.jp/dbget-bin/www_bget?C01209,C01209,
+12,16,cpd:C04246,compound,https://www.kegg.jp/dbget-bin/www_bget?C04246,C04246,
+13,17,hsa:2194 hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:51102,"FASN, FAS, OA-519, SDR27X1...",rn:R04429 rn:R04430
+14,18,cpd:C05745,compound,https://www.kegg.jp/dbget-bin/www_bget?C05745,C05745,
+15,19,hsa:2194 hsa:54995,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:54995,"FASN, FAS, OA-519, SDR27X1...",rn:R04952
+16,20,cpd:C05746,compound,https://www.kegg.jp/dbget-bin/www_bget?C05746,C05746,
+17,21,hsa:2194 hsa:7923 hsa:84869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:7923+hsa:84869,"FASN, FAS, OA-519, SDR27X1...",rn:R04953
+18,22,cpd:C05747,compound,https://www.kegg.jp/dbget-bin/www_bget?C05747,C05747,
+19,23,hsa:109703458 hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:109703458+hsa:2194,HTD2...,rn:R04954
+20,24,cpd:C05748,compound,https://www.kegg.jp/dbget-bin/www_bget?C05748,C05748,
+21,25,hsa:2194 hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:51102,"FASN, FAS, OA-519, SDR27X1...",rn:R04955 rn:R04956
+22,26,cpd:C05749,compound,https://www.kegg.jp/dbget-bin/www_bget?C05749,C05749,
+23,28,hsa:2194 hsa:54995,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:54995,"FASN, FAS, OA-519, SDR27X1...",rn:R04957
+24,30,cpd:C05750,compound,https://www.kegg.jp/dbget-bin/www_bget?C05750,C05750,
+25,31,hsa:2194 hsa:7923 hsa:84869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:7923+hsa:84869,"FASN, FAS, OA-519, SDR27X1...",rn:R04536
+26,32,cpd:C04620,compound,https://www.kegg.jp/dbget-bin/www_bget?C04620,C04620,
+27,33,hsa:109703458 hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:109703458+hsa:2194,HTD2...,rn:R04537
+28,34,cpd:C05751,compound,https://www.kegg.jp/dbget-bin/www_bget?C05751,C05751,
+29,35,hsa:2194 hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:51102,"FASN, FAS, OA-519, SDR27X1...",rn:R04958 rn:R04959
+30,36,cpd:C05752,compound,https://www.kegg.jp/dbget-bin/www_bget?C05752,C05752,
+31,37,hsa:2194 hsa:54995,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:54995,"FASN, FAS, OA-519, SDR27X1...",rn:R04960
+32,39,cpd:C05753,compound,https://www.kegg.jp/dbget-bin/www_bget?C05753,C05753,
+33,40,hsa:2194 hsa:7923 hsa:84869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:7923+hsa:84869,"FASN, FAS, OA-519, SDR27X1...",rn:R04534
+34,41,cpd:C04619,compound,https://www.kegg.jp/dbget-bin/www_bget?C04619,C04619,
+35,42,hsa:109703458 hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:109703458+hsa:2194,HTD2...,rn:R04535
+36,43,cpd:C05754,compound,https://www.kegg.jp/dbget-bin/www_bget?C05754,C05754,
+37,44,hsa:2194 hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:51102,"FASN, FAS, OA-519, SDR27X1...",rn:R04961 rn:R04962
+38,45,cpd:C05755,compound,https://www.kegg.jp/dbget-bin/www_bget?C05755,C05755,
+39,46,hsa:2194 hsa:54995,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:54995,"FASN, FAS, OA-519, SDR27X1...",rn:R04963
+40,48,cpd:C05756,compound,https://www.kegg.jp/dbget-bin/www_bget?C05756,C05756,
+41,49,hsa:2194 hsa:7923 hsa:84869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:7923+hsa:84869,"FASN, FAS, OA-519, SDR27X1...",rn:R04964
+42,50,cpd:C05757,compound,https://www.kegg.jp/dbget-bin/www_bget?C05757,C05757,
+43,51,hsa:109703458 hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:109703458+hsa:2194,HTD2...,rn:R04965
+44,52,cpd:C05758,compound,https://www.kegg.jp/dbget-bin/www_bget?C05758,C05758,
+45,53,hsa:2194 hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:51102,"FASN, FAS, OA-519, SDR27X1...",rn:R04724 rn:R04725
+46,54,cpd:C05223,compound,https://www.kegg.jp/dbget-bin/www_bget?C05223,C05223,
+47,55,hsa:2194 hsa:54995,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:54995,"FASN, FAS, OA-519, SDR27X1...",rn:R04726
+48,57,cpd:C05759,compound,https://www.kegg.jp/dbget-bin/www_bget?C05759,C05759,
+49,58,hsa:2194 hsa:7923 hsa:84869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:7923+hsa:84869,"FASN, FAS, OA-519, SDR27X1...",rn:R04566
+50,59,cpd:C04688,compound,https://www.kegg.jp/dbget-bin/www_bget?C04688,C04688,
+51,60,hsa:109703458 hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:109703458+hsa:2194,HTD2...,rn:R04568
+52,61,cpd:C05760,compound,https://www.kegg.jp/dbget-bin/www_bget?C05760,C05760,
+53,62,hsa:2194 hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:51102,"FASN, FAS, OA-519, SDR27X1...",rn:R04966 rn:R04967
+54,63,cpd:C05761,compound,https://www.kegg.jp/dbget-bin/www_bget?C05761,C05761,
+55,64,hsa:2194 hsa:54995,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:54995,"FASN, FAS, OA-519, SDR27X1...",rn:R04968
+56,66,cpd:C05762,compound,https://www.kegg.jp/dbget-bin/www_bget?C05762,C05762,
+57,67,hsa:2194 hsa:7923 hsa:84869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:7923+hsa:84869,"FASN, FAS, OA-519, SDR27X1...",rn:R04543
+58,68,cpd:C04633,compound,https://www.kegg.jp/dbget-bin/www_bget?C04633,C04633,
+59,69,hsa:109703458 hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:109703458+hsa:2194,HTD2...,rn:R04544
+60,70,cpd:C05763,compound,https://www.kegg.jp/dbget-bin/www_bget?C05763,C05763,
+61,71,hsa:2194 hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194+hsa:51102,"FASN, FAS, OA-519, SDR27X1...",rn:R04969 rn:R04970
+62,72,cpd:C05764,compound,https://www.kegg.jp/dbget-bin/www_bget?C05764,C05764,
+63,73,cpd:C00249,compound,https://www.kegg.jp/dbget-bin/www_bget?C00249,C00249,
+64,74,hsa:2194,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2194,"FASN, FAS, OA-519, SDR27X1",rn:R01706
+65,75,hsa:54995 hsa:79071,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54995+hsa:79071,"OXSM, CEM1, FASN2D, KASI, KS...",rn:R07762
+66,76,cpd:C16219,compound,https://www.kegg.jp/dbget-bin/www_bget?C16219,C16219,
+67,78,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",rn:R07763
+68,79,cpd:C16220,compound,https://www.kegg.jp/dbget-bin/www_bget?C16220,C16220,
+69,80,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",rn:R07764
+70,81,cpd:C16221,compound,https://www.kegg.jp/dbget-bin/www_bget?C16221,C16221,
+71,82,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",rn:R07765
+72,83,cpd:C00412 cpd:C04088,compound,https://www.kegg.jp/dbget-bin/www_bget?C00412+C04088,C00412...,
+73,84,hsa:79993 hsa:83401,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:79993+hsa:83401,ELOVL7...,
+74,87,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+75,89,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+76,91,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+77,92,cpd:C02041,compound,https://www.kegg.jp/dbget-bin/www_bget?C02041,C02041,
+78,93,hsa:64834 hsa:79993 hsa:83401,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64834+hsa:79993+hsa:83401,"ELOVL1, CGI-88, IKSHD, Ssc1...",
+79,96,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+80,98,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+81,100,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+82,101,cpd:C16528,compound,https://www.kegg.jp/dbget-bin/www_bget?C16528,C16528,
+83,102,hsa:64834 hsa:79993,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64834+hsa:79993,"ELOVL1, CGI-88, IKSHD, Ssc1...",
+84,105,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+85,107,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+86,109,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+87,110,cpd:C16529,compound,https://www.kegg.jp/dbget-bin/www_bget?C16529,C16529,
+88,111,cpd:C00136,compound,https://www.kegg.jp/dbget-bin/www_bget?C00136,C00136,
+89,112,hsa:10449 hsa:30 hsa:3032 hsa:38 hsa:39,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10449+hsa:30+hsa:3032+hsa:38+hsa:39,"ACAA2, DSAEC...",rn:R01177
+90,113,cpd:C05269,compound,https://www.kegg.jp/dbget-bin/www_bget?C05269,C05269,
+91,114,hsa:1962 hsa:3030 hsa:3033,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1962+hsa:3030+hsa:3033,"EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE...",rn:R04748
+92,115,cpd:C05268,compound,https://www.kegg.jp/dbget-bin/www_bget?C05268,C05268,
+93,116,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH...",rn:R04749
+94,117,cpd:C05271,compound,https://www.kegg.jp/dbget-bin/www_bget?C05271,C05271,
+95,118,hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51102,"MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1",rn:R06985
+96,119,cpd:C05270,compound,https://www.kegg.jp/dbget-bin/www_bget?C05270,C05270,
+97,121,hsa:10449 hsa:30 hsa:3032,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10449+hsa:30+hsa:3032,"ACAA2, DSAEC...",rn:R04747
+98,123,cpd:C05267,compound,https://www.kegg.jp/dbget-bin/www_bget?C05267,C05267,
+99,124,hsa:1962 hsa:3030 hsa:3033,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1962+hsa:3030+hsa:3033,"EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE...",rn:R04745
+100,125,cpd:C05266,compound,https://www.kegg.jp/dbget-bin/www_bget?C05266,C05266,
+101,126,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH...",rn:R04746
+102,127,cpd:C05276,compound,https://www.kegg.jp/dbget-bin/www_bget?C05276,C05276,
+103,128,hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51102,"MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1",rn:R03776
+104,129,cpd:C01944,compound,https://www.kegg.jp/dbget-bin/www_bget?C01944,C01944,
+105,130,hsa:10449 hsa:30 hsa:3032,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10449+hsa:30+hsa:3032,"ACAA2, DSAEC...",rn:R03778
+106,132,cpd:C05265,compound,https://www.kegg.jp/dbget-bin/www_bget?C05265,C05265,
+107,133,hsa:1962 hsa:3030 hsa:3033,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1962+hsa:3030+hsa:3033,"EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE...",rn:R04743
+108,134,cpd:C05264,compound,https://www.kegg.jp/dbget-bin/www_bget?C05264,C05264,
+109,135,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH...",rn:R04744
+110,136,cpd:C05275,compound,https://www.kegg.jp/dbget-bin/www_bget?C05275,C05275,
+111,137,hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51102,"MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1",rn:R04753
+112,138,cpd:C05274,compound,https://www.kegg.jp/dbget-bin/www_bget?C05274,C05274,
+113,139,hsa:10449 hsa:30 hsa:3032,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10449+hsa:30+hsa:3032,"ACAA2, DSAEC...",rn:R04742
+114,141,cpd:C05263,compound,https://www.kegg.jp/dbget-bin/www_bget?C05263,C05263,
+115,142,hsa:1962 hsa:3030 hsa:3033,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1962+hsa:3030+hsa:3033,"EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE...",rn:R04741
+116,143,cpd:C05262,compound,https://www.kegg.jp/dbget-bin/www_bget?C05262,C05262,
+117,144,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH...",rn:R04170
+118,145,cpd:C03221,compound,https://www.kegg.jp/dbget-bin/www_bget?C03221,C03221,
+119,146,hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51102,"MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1",rn:R03856
+120,147,cpd:C01832,compound,https://www.kegg.jp/dbget-bin/www_bget?C01832,C01832,
+121,148,hsa:10449 hsa:30 hsa:3032,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10449+hsa:30+hsa:3032,"ACAA2, DSAEC...",rn:R03858
+122,150,cpd:C05261,compound,https://www.kegg.jp/dbget-bin/www_bget?C05261,C05261,
+123,151,hsa:1962 hsa:3030 hsa:3033,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1962+hsa:3030+hsa:3033,"EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE...",rn:R04739
+124,152,cpd:C05260,compound,https://www.kegg.jp/dbget-bin/www_bget?C05260,C05260,
+125,153,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH...",rn:R04740
+126,154,cpd:C05273,compound,https://www.kegg.jp/dbget-bin/www_bget?C05273,C05273,
+127,155,hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51102,"MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1",rn:R03989
+128,156,cpd:C02593,compound,https://www.kegg.jp/dbget-bin/www_bget?C02593,C02593,
+129,157,hsa:10449 hsa:30 hsa:3032,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10449+hsa:30+hsa:3032,"ACAA2, DSAEC...",rn:R03991
+130,159,cpd:C05259,compound,https://www.kegg.jp/dbget-bin/www_bget?C05259,C05259,
+131,160,hsa:1962 hsa:3030 hsa:3033,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1962+hsa:3030+hsa:3033,"EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE...",rn:R04737
+132,161,cpd:C05258,compound,https://www.kegg.jp/dbget-bin/www_bget?C05258,C05258,
+133,162,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH...",rn:R04738
+134,163,cpd:C05272,compound,https://www.kegg.jp/dbget-bin/www_bget?C05272,C05272,
+135,164,hsa:51102,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51102,"MECR, CGI-63, DYTOABG, ETR1, FASN2B, NRBF1",rn:R01278
+136,165,cpd:C00154,compound,https://www.kegg.jp/dbget-bin/www_bget?C00154,C00154,
+137,166,hsa:1376,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1376,"CPT2, CPT1, CPTASE, IIAE4",rn:R01923
+138,167,hsa:6319 hsa:79966,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6319+hsa:79966,"SCD, FADS5, MSTP008, SCD1, SCDOS, hSCD1...",rn:R02222 rn:R03370 rn:R12048
+139,168,cpd:C00510 cpd:C01203,compound,https://www.kegg.jp/dbget-bin/www_bget?C00510+C01203,C00510...,
+140,169,ko:K10256 ko:K22993,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K10256+K22993,K10256...,rn:R11043
+141,170,cpd:C02050 cpd:C16160,compound,https://www.kegg.jp/dbget-bin/www_bget?C02050+C16160,C02050...,
+142,171,ko:K23006 ko:K22993,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K23006+K22993,K23006...,rn:R12205
+143,172,cpd:C16162 cpd:C16161,compound,https://www.kegg.jp/dbget-bin/www_bget?C16162+C16161,C16162...,
+144,173,hsa:9415,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9415,"FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13",rn:R07933
+145,174,cpd:C16163,compound,https://www.kegg.jp/dbget-bin/www_bget?C16163,C16163,
+146,175,hsa:60481 hsa:79993 hsa:83401,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:60481+hsa:79993+hsa:83401,"ELOVL5, HELO1, SCA38, dJ483K16.1...",
+147,177,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+148,179,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+149,181,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+150,182,cpd:C16530,compound,https://www.kegg.jp/dbget-bin/www_bget?C16530,C16530,
+151,183,hsa:64834 hsa:83401,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64834+hsa:83401,"ELOVL1, CGI-88, IKSHD, Ssc1...",
+152,185,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+153,187,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+154,189,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+155,190,cpd:C16531,compound,https://www.kegg.jp/dbget-bin/www_bget?C16531,C16531,
+156,191,hsa:64834 hsa:83401,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64834+hsa:83401,"ELOVL1, CGI-88, IKSHD, Ssc1...",
+157,193,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+158,195,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+159,197,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+160,198,cpd:C16532,compound,https://www.kegg.jp/dbget-bin/www_bget?C16532,C16532,
+161,199,hsa:60481,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:60481,"ELOVL5, HELO1, SCA38, dJ483K16.1",
+162,201,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+163,203,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+164,205,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+165,206,cpd:C16180,compound,https://www.kegg.jp/dbget-bin/www_bget?C16180,C16180,
+166,214,cpd:C16645,compound,https://www.kegg.jp/dbget-bin/www_bget?C16645,C16645,
+167,215,hsa:60481 hsa:79993,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:60481+hsa:79993,"ELOVL5, HELO1, SCA38, dJ483K16.1...",
+168,217,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+169,219,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+170,221,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+171,222,cpd:C16179,compound,https://www.kegg.jp/dbget-bin/www_bget?C16179,C16179,
+172,223,hsa:9415,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9415,"FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13",rn:R12170
+173,224,cpd:C16164,compound,https://www.kegg.jp/dbget-bin/www_bget?C16164,C16164,
+174,225,hsa:60481,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:60481,"ELOVL5, HELO1, SCA38, dJ483K16.1",
+175,227,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+176,229,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+177,231,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+178,232,hsa:10449 hsa:30 hsa:3032,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10449+hsa:30+hsa:3032,,rn:R00238
+179,234,hsa:1962 hsa:3033,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1962+hsa:3033,"EHHADH, ECHD, FRTS3, L-PBE, LBFP, LBP, PBFE...",rn:R01975
+180,235,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH...",rn:R03026
+181,236,cpd:C00024,compound,https://www.kegg.jp/dbget-bin/www_bget?C00024,C00024,
+182,237,cpd:C00332,compound,https://www.kegg.jp/dbget-bin/www_bget?C00332,C00332,
+183,238,cpd:C01144,compound,https://www.kegg.jp/dbget-bin/www_bget?C01144,C01144,
+184,239,cpd:C00877,compound,https://www.kegg.jp/dbget-bin/www_bget?C00877,C00877,
+185,240,hsa:35 hsa:36,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:35+hsa:36,"ACADS, ACAD3, SCAD...",rn:R01175
+186,241,cpd:C16165,compound,https://www.kegg.jp/dbget-bin/www_bget?C16165,C16165,
+187,242,hsa:3992,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3992,"FADS1, D5D, FADS6, FADSD5, LLCDL1, TU12",rn:R11060
+188,243,hsa:54898 hsa:60481,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54898+hsa:60481,"ELOVL2, SSC2...",
+189,245,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+190,247,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+191,249,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+192,250,cpd:C16166,compound,https://www.kegg.jp/dbget-bin/www_bget?C16166,C16166,
+193,251,hsa:54898,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54898,"ELOVL2, SSC2",
+194,253,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+195,255,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+196,257,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+197,258,cpd:C16167,compound,https://www.kegg.jp/dbget-bin/www_bget?C16167,C16167,
+198,260,cpd:C16169,compound,https://www.kegg.jp/dbget-bin/www_bget?C16169,C16169,
+199,261,hsa:30 hsa:6342,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:30+hsa:6342,"ACAA1, ACAA, PTHIO, THIO...",rn:R07937
+200,262,hsa:3295,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3295,"HSD17B4, DBP, MFE-2, MPF-2, PRLTS1, SDR8C1",rn:R07936
+201,263,hsa:3295,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3295,"HSD17B4, DBP, MFE-2, MPF-2, PRLTS1, SDR8C1",rn:R07935
+202,264,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, PALMCOX, SCOX...",rn:R07934
+203,265,cpd:C16168,compound,https://www.kegg.jp/dbget-bin/www_bget?C16168,C16168,
+204,266,hsa:9415,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9415,"FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13",rn:R11110
+205,267,hsa:9415,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9415,"FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13",rn:R03814
+206,268,cpd:C03035,compound,https://www.kegg.jp/dbget-bin/www_bget?C03035,C03035,
+207,269,hsa:9415,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9415,"FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13",rn:R12171
+208,270,cpd:C03595,compound,https://www.kegg.jp/dbget-bin/www_bget?C03595,C03595,
+209,271,hsa:60481,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:60481,"ELOVL5, HELO1, SCA38, dJ483K16.1",
+210,273,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+211,275,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+212,277,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+213,278,cpd:C02249,compound,https://www.kegg.jp/dbget-bin/www_bget?C02249,C02249,
+214,279,hsa:3992,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3992,"FADS1, D5D, FADS6, FADSD5, LLCDL1, TU12",rn:R11059
+215,280,hsa:54898 hsa:60481,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54898+hsa:60481,"ELOVL2, SSC2...",
+216,282,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+217,284,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+218,286,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+219,287,cpd:C16170,compound,https://www.kegg.jp/dbget-bin/www_bget?C16170,C16170,
+220,288,hsa:54898,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54898,"ELOVL2, SSC2",
+221,290,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+222,292,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+223,294,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+224,295,cpd:C16171,compound,https://www.kegg.jp/dbget-bin/www_bget?C16171,C16171,
+225,297,cpd:C16173,compound,https://www.kegg.jp/dbget-bin/www_bget?C16173,C16173,
+226,298,hsa:30 hsa:6342,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:30+hsa:6342,"ACAA1, ACAA, PTHIO, THIO...",rn:R07953
+227,299,hsa:3295,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3295,"HSD17B4, DBP, MFE-2, MPF-2, PRLTS1, SDR8C1",rn:R07952
+228,300,hsa:3295,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3295,"HSD17B4, DBP, MFE-2, MPF-2, PRLTS1, SDR8C1",rn:R07951
+229,301,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, PALMCOX, SCOX...",rn:R07950
+230,302,cpd:C16172,compound,https://www.kegg.jp/dbget-bin/www_bget?C16172,C16172,
+231,303,hsa:9415,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9415,"FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13",rn:R11111
+232,304,path:hsa00020,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00020,Citrate cycle (TCA cycle),
+233,305,hsa:31,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:31,"ACACA, ACAC, ACACAD, ACC, ACC1, ACCA",rn:R00742
+234,308,cpd:C02990,compound,https://www.kegg.jp/dbget-bin/www_bget?C02990,C02990,
+235,309,hsa:2180 hsa:2181 hsa:2182 hsa:23205 hsa:23305 hsa:51703 hsa:81616,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2180+hsa:2181+hsa:2182+hsa:23205+hsa:23305+hsa:51703+hsa:81616,"ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...",rn:R01280
+236,310,cpd:C00154,compound,https://www.kegg.jp/dbget-bin/www_bget?C00154,C00154,
+237,311,hsa:126129 hsa:1374 hsa:1375,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:126129+hsa:1374+hsa:1375,"CPT1C, CATL1, CPT1-B, CPT1P, CPTI-B, CPTIC, SPG73...",rn:R01923
+238,312,hsa:33 hsa:34 hsa:35 hsa:36 hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:33+hsa:34+hsa:35+hsa:36+hsa:51+hsa:8310,"ACADL, ACAD4, LCAD...",rn:R04751
+239,313,hsa:33 hsa:34 hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:33+hsa:34+hsa:51+hsa:8310,"ACADL, ACAD4, LCAD...",rn:R03777
+240,314,hsa:33 hsa:34 hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:33+hsa:34+hsa:51+hsa:8310,"ACADL, ACAD4, LCAD...",rn:R04754
+241,315,hsa:33 hsa:34 hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:33+hsa:34+hsa:51+hsa:8310,"ACADL, ACAD4, LCAD...",rn:R03857
+242,316,hsa:33 hsa:34 hsa:37 hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:33+hsa:34+hsa:37+hsa:51+hsa:8310,"ACADL, ACAD4, LCAD...",rn:R03990
+243,317,hsa:33 hsa:34 hsa:37 hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:33+hsa:34+hsa:37+hsa:51+hsa:8310,"ACADL, ACAD4, LCAD...",rn:R01279
+244,318,hsa:5538 hsa:9374,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5538+hsa:9374,"PPT1, CLN1, INCL, PPT...",rn:R01274
+245,319,cpd:C00024,compound,https://www.kegg.jp/dbget-bin/www_bget?C00024,C00024,
+246,320,cpd:C16374,compound,https://www.kegg.jp/dbget-bin/www_bget?C16374,C16374,
+247,321,cpd:C16375,compound,https://www.kegg.jp/dbget-bin/www_bget?C16375,C16375,
+248,322,cpd:C16376,compound,https://www.kegg.jp/dbget-bin/www_bget?C16376,C16376,
+249,323,cpd:C16387,compound,https://www.kegg.jp/dbget-bin/www_bget?C16387,C16387,
+250,324,cpd:C16388,compound,https://www.kegg.jp/dbget-bin/www_bget?C16388,C16388,
+251,325,cpd:C16389,compound,https://www.kegg.jp/dbget-bin/www_bget?C16389,C16389,
+252,326,hsa:79071,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:79071,"ELOVL6, FACE, FAE, LCE",rn:R07758
+253,327,cpd:C16216,compound,https://www.kegg.jp/dbget-bin/www_bget?C16216,C16216,
+254,328,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",rn:R07759
+255,329,cpd:C16217,compound,https://www.kegg.jp/dbget-bin/www_bget?C16217,C16217,
+256,330,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",rn:R07760
+257,331,cpd:C16218,compound,https://www.kegg.jp/dbget-bin/www_bget?C16218,C16218,
+258,332,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",rn:R07761
+259,334,ko:K00648 ko:K18473,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00648+K18473,K00648...,rn:R10707
+260,335,ko:K00668 ko:K11533,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00668+K11533,K00668...,rn:R10700
+261,336,hsa:64834,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64834,"ELOVL1, CGI-88, IKSHD, Ssc1",
+262,339,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+263,341,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+264,343,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+265,344,cpd:C21932,compound,https://www.kegg.jp/dbget-bin/www_bget?C21932,C21932,
+266,345,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+267,348,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+268,350,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+269,352,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+270,353,cpd:C21934,compound,https://www.kegg.jp/dbget-bin/www_bget?C21934,C21934,
+271,354,hsa:64834 hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64834+hsa:6785,"ELOVL1, CGI-88, IKSHD, Ssc1...",
+272,356,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+273,358,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+274,360,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+275,361,cpd:C17279,compound,https://www.kegg.jp/dbget-bin/www_bget?C17279,C17279,
+276,362,hsa:9415,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9415,"FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13",rn:R12167
+277,363,cpd:C21935,compound,https://www.kegg.jp/dbget-bin/www_bget?C21935,C21935,
+278,364,hsa:60481,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:60481,"ELOVL5, HELO1, SCA38, dJ483K16.1",
+279,366,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+280,368,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+281,370,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+282,371,cpd:C21937,compound,https://www.kegg.jp/dbget-bin/www_bget?C21937,C21937,
+283,372,hsa:9415,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9415,"FADS2, D6D, DES6, FADSD6, LLCDL2, SLL0262, TU13",rn:R12168
+284,373,hsa:3992,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3992,"FADS1, D5D, FADS6, FADSD5, LLCDL1, TU12",rn:R12169
+285,374,cpd:C21939,compound,https://www.kegg.jp/dbget-bin/www_bget?C21939,C21939,
+286,382,cpd:C21941,compound,https://www.kegg.jp/dbget-bin/www_bget?C21941,C21941,
+287,383,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+288,385,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+289,387,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+290,389,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+291,390,cpd:C21949,compound,https://www.kegg.jp/dbget-bin/www_bget?C21949,C21949,
+292,391,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+293,393,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+294,395,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+295,397,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+296,398,cpd:C21953,compound,https://www.kegg.jp/dbget-bin/www_bget?C21953,C21953,
+297,399,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+298,401,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+299,403,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+300,405,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+301,406,cpd:C21951,compound,https://www.kegg.jp/dbget-bin/www_bget?C21951,C21951,
+302,407,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+303,409,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+304,411,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+305,413,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+306,414,cpd:C21959,compound,https://www.kegg.jp/dbget-bin/www_bget?C21959,C21959,
+307,415,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+308,417,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+309,419,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+310,421,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+311,422,cpd:C21961,compound,https://www.kegg.jp/dbget-bin/www_bget?C21961,C21961,
+312,423,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+313,425,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+314,427,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+315,429,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+316,430,cpd:C21965,compound,https://www.kegg.jp/dbget-bin/www_bget?C21965,C21965,
+317,431,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+318,433,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+319,435,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+320,437,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+321,438,cpd:C21963,compound,https://www.kegg.jp/dbget-bin/www_bget?C21963,C21963,
+322,439,hsa:6785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6785,"ELOVL4, ADMD, CT118, ISQMR, SCA34, STGD2, STGD3",
+323,441,hsa:51144,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51144,"HSD17B12, KAR, SDR12C1",
+324,443,hsa:201562 hsa:401494 hsa:51495 hsa:9200,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201562+hsa:401494+hsa:51495+hsa:9200,"HACD2, PTPLB...",
+325,445,hsa:9524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9524,"TECR, GPSN2, MRT14, SC2, TER",
+326,446,cpd:C21967,compound,https://www.kegg.jp/dbget-bin/www_bget?C21967,C21967,
+327,447,hsa:197322,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:197322,ACSF3,rn:R12300
+328,448,cpd:C00383,compound,https://www.kegg.jp/dbget-bin/www_bget?C00383,C00383,
+329,449,cpd:C00229,compound,https://www.kegg.jp/dbget-bin/www_bget?C00229,C00229,

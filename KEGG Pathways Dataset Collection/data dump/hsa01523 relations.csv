@@ -1,0 +1,10 @@
+,entry1,entry2,link,value,name,pathway
+0,31,65,PCrel,--|,inhibition,hsa01523
+1,103,65,PCrel,--|,inhibition,hsa01523
+2,96,68,PCrel,--|,inhibition,hsa01523
+3,32,68,PCrel,--|,inhibition,hsa01523
+4,128,131,GErel,-->,expression,hsa01523
+5,128,130,GErel,-->,expression,hsa01523
+6,128,129,GErel,-->,expression,hsa01523
+7,127,128,PPrel,-->,activation,hsa01523
+8,127,128,PPrel,..>,indirect effect,hsa01523

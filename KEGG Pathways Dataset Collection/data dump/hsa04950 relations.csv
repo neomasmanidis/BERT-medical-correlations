@@ -1,0 +1,33 @@
+,entry1,entry2,link,value,name,pathway
+0,40,32,GErel,-->,expression,hsa04950
+1,32,28,GErel,-->,expression,hsa04950
+2,10,7,GErel,-->,expression,hsa04950
+3,10,29,GErel,-->,expression,hsa04950
+4,29,33,GErel,-->,expression,hsa04950
+5,29,36,GErel,-->,expression,hsa04950
+6,29,22,GErel,-->,expression,hsa04950
+7,29,14,GErel,-->,expression,hsa04950
+8,38,12,GErel,-->,expression,hsa04950
+9,16,12,GErel,-->,expression,hsa04950
+10,30,12,GErel,-->,expression,hsa04950
+11,30,21,GErel,-->,expression,hsa04950
+12,30,11,GErel,-->,expression,hsa04950
+13,30,19,GErel,-->,expression,hsa04950
+14,18,19,GErel,-->,expression,hsa04950
+15,18,11,GErel,-->,expression,hsa04950
+16,18,21,GErel,-->,expression,hsa04950
+17,25,19,GErel,-->,expression,hsa04950
+18,25,11,GErel,-->,expression,hsa04950
+19,25,21,GErel,-->,expression,hsa04950
+20,16,19,GErel,-->,expression,hsa04950
+21,12,26,GErel,-->,expression,hsa04950
+22,12,31,GErel,-->,expression,hsa04950
+23,20,31,GErel,-->,expression,hsa04950
+24,20,17,GErel,-->,expression,hsa04950
+25,20,13,GErel,-->,expression,hsa04950
+26,31,27,GErel,-->,expression,hsa04950
+27,31,24,GErel,-->,expression,hsa04950
+28,8,29,PPrel,--|,inhibition,hsa04950
+29,34,32,PPrel,..>,indirect effect,hsa04950
+30,35,32,PPrel,..>,indirect effect,hsa04950
+31,33,37,PPrel,..>,indirect effect,hsa04950

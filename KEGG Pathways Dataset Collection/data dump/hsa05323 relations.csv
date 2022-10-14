@@ -1,0 +1,9 @@
+,entry1,entry2,link,value,name,pathway
+0,90,91,PCrel,-->,activation,hsa05323
+1,90,125,PCrel,-->,activation,hsa05323
+2,33,34,PCrel,-->,activation,hsa05323
+3,101,97,PCrel,-->,activation,hsa05323
+4,118,117,PCrel,---,binding/association,hsa05323
+5,87,88,PCrel,---,binding/association,hsa05323
+6,111,112,PCrel,-->,activation,hsa05323
+7,111,112,PCrel,..>,indirect effect,hsa05323

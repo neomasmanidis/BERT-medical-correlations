@@ -1,0 +1,103 @@
+,entry1,entry2,link,value,name,pathway
+0,252,253,PPrel,-->,activation,hsa04613
+1,253,254,PPrel,-->,activation,hsa04613
+2,22,40,PPrel,-->,activation,hsa04613
+3,40,44,PCrel,-->,activation,hsa04613
+4,44,46,PCrel,-->,activation,hsa04613
+5,40,42,PCrel,-->,activation,hsa04613
+6,22,29,PPrel,-->,activation,hsa04613
+7,29,36,PCrel,-->,activation,hsa04613
+8,36,58,PCrel,-->,activation,hsa04613
+9,36,307,PCrel,-->,activation,hsa04613
+10,180,178,PPrel,-->,activation,hsa04613
+11,177,178,PPrel,-->,activation,hsa04613
+12,466,461,PCrel,-->,activation,hsa04613
+13,466,462,PCrel,-->,activation,hsa04613
+14,467,461,PCrel,-->,activation,hsa04613
+15,467,462,PCrel,-->,activation,hsa04613
+16,488,315,PCrel,-->,activation,hsa04613
+17,415,414,PCrel,-->,activation,hsa04613
+18,294,190,PPrel,-->,activation,hsa04613
+19,297,296,PPrel,-->,activation,hsa04613
+20,298,295,PPrel,-->,activation,hsa04613
+21,491,193,PCrel,-->,activation,hsa04613
+22,491,179,PCrel,-->,activation,hsa04613
+23,492,193,PPrel,-->,activation,hsa04613
+24,492,179,PPrel,-->,activation,hsa04613
+25,187,186,PPrel,-->,activation,hsa04613
+26,188,189,PPrel,-->,activation,hsa04613
+27,498,217,PCrel,-->,activation,hsa04613
+28,46,264,PPrel,-->,activation,hsa04613
+29,21,20,PPrel,-->,activation,hsa04613
+30,21,19,PPrel,-->,activation,hsa04613
+31,21,461,PPrel,-->,activation,hsa04613
+32,21,462,PPrel,-->,activation,hsa04613
+33,21,315,PPrel,-->,activation,hsa04613
+34,21,190,PPrel,-->,activation,hsa04613
+35,21,296,PPrel,-->,activation,hsa04613
+36,21,295,PPrel,-->,activation,hsa04613
+37,19,22,PPrel,---,binding/association,hsa04613
+38,28,20,PPrel,---,binding/association,hsa04613
+39,28,19,PPrel,---,binding/association,hsa04613
+40,461,22,PPrel,---,binding/association,hsa04613
+41,462,22,PPrel,---,binding/association,hsa04613
+42,315,22,PPrel,---,binding/association,hsa04613
+43,190,22,PPrel,---,binding/association,hsa04613
+44,296,22,PPrel,---,binding/association,hsa04613
+45,295,22,PPrel,---,binding/association,hsa04613
+46,499,204,PPrel,---,binding/association,hsa04613
+47,204,200,PPrel,---,binding/association,hsa04613
+48,198,459,PPrel,...,state change,hsa04613
+49,199,454,PPrel,...,state change,hsa04613
+50,459,260,PPrel,...,state change,hsa04613
+51,454,259,PPrel,...,state change,hsa04613
+52,201,262,PPrel,...,state change,hsa04613
+53,322,262,PPrel,...,state change,hsa04613
+54,480,200,PPrel,---,binding/association,hsa04613
+55,475,472,PCrel,-->,activation,hsa04613
+56,254,48,PPrel,-->,activation,hsa04613
+57,254,48,PPrel,+p,phosphorylation,hsa04613
+58,48,49,PPrel,-->,activation,hsa04613
+59,48,49,PPrel,+p,phosphorylation,hsa04613
+60,47,48,PPrel,-->,activation,hsa04613
+61,47,48,PPrel,+p,phosphorylation,hsa04613
+62,49,498,PPrel,-->,activation,hsa04613
+63,49,498,PPrel,..>,indirect effect,hsa04613
+64,197,498,PPrel,-->,activation,hsa04613
+65,197,498,PPrel,..>,indirect effect,hsa04613
+66,217,199,PCrel,-->,activation,hsa04613
+67,217,199,PCrel,..>,indirect effect,hsa04613
+68,46,498,PPrel,-->,activation,hsa04613
+69,46,498,PPrel,..>,indirect effect,hsa04613
+70,52,201,PCrel,-->,activation,hsa04613
+71,52,201,PCrel,..>,indirect effect,hsa04613
+72,42,52,PCrel,-->,activation,hsa04613
+73,42,52,PCrel,..>,indirect effect,hsa04613
+74,58,263,PPrel,-->,activation,hsa04613
+75,58,263,PPrel,..>,indirect effect,hsa04613
+76,263,264,PPrel,-->,activation,hsa04613
+77,263,264,PPrel,..>,indirect effect,hsa04613
+78,190,323,PCrel,-->,activation,hsa04613
+79,190,323,PCrel,..>,indirect effect,hsa04613
+80,296,323,PCrel,-->,activation,hsa04613
+81,296,323,PCrel,..>,indirect effect,hsa04613
+82,295,323,PCrel,-->,activation,hsa04613
+83,295,323,PCrel,..>,indirect effect,hsa04613
+84,323,322,PCrel,-->,activation,hsa04613
+85,323,322,PCrel,..>,indirect effect,hsa04613
+86,193,496,PPrel,-->,activation,hsa04613
+87,193,496,PPrel,..>,indirect effect,hsa04613
+88,179,497,PPrel,-->,activation,hsa04613
+89,179,497,PPrel,..>,indirect effect,hsa04613
+90,213,46,PCrel,-->,activation,hsa04613
+91,213,46,PCrel,..>,indirect effect,hsa04613
+92,472,498,PPrel,--|,inhibition,hsa04613
+93,472,498,PPrel,..>,indirect effect,hsa04613
+94,414,40,PPrel,-->,activation,hsa04613
+95,414,40,PPrel,..>,indirect effect,hsa04613
+96,414,29,PPrel,-->,activation,hsa04613
+97,414,29,PPrel,..>,indirect effect,hsa04613
+98,22,49,PPrel,-->,activation,hsa04613
+99,22,49,PPrel,..>,indirect effect,hsa04613
+100,218,229,PCrel,-->,activation,hsa04613
+101,218,229,PCrel,..>,indirect effect,hsa04613

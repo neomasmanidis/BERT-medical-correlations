@@ -1,0 +1,16 @@
+,entry1,entry2,link,value,name,pathway
+0,38,35,PPrel,---,binding/association,hsa05410
+1,35,36,PPrel,---,binding/association,hsa05410
+2,45,44,PPrel,---,binding/association,hsa05410
+3,45,46,PPrel,---,binding/association,hsa05410
+4,46,44,PPrel,---,binding/association,hsa05410
+5,46,47,PPrel,---,binding/association,hsa05410
+6,44,49,PPrel,---,binding/association,hsa05410
+7,49,47,PPrel,---,binding/association,hsa05410
+8,49,204,PPrel,---,binding/association,hsa05410
+9,204,82,PPrel,---,binding/association,hsa05410
+10,204,50,PPrel,---,binding/association,hsa05410
+11,57,204,PPrel,---,binding/association,hsa05410
+12,36,48,PPrel,---,binding/association,hsa05410
+13,48,106,PPrel,---,binding/association,hsa05410
+14,31,107,PPrel,---,binding/association,hsa05410

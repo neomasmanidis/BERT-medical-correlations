@@ -1,0 +1,35 @@
+,id,name,type,link,gene_names,reaction
+0,9,ko:K03801,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03801,K03801,rn:R12428
+1,10,path:hsa00785,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00785,TITLE:Lipoic acid metabolism,
+2,11,path:hsa00061,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00061,Fatty acid biosynthesis,
+3,12,hsa:11019,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11019,"LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD",rn:R12423
+4,13,ko:K03801 ko:K23763,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03801+K23763,K03801...,rn:R12427
+5,14,cpd:C16241,compound,https://www.kegg.jp/dbget-bin/www_bget?C16241,C16241,
+6,15,cpd:C16238,compound,https://www.kegg.jp/dbget-bin/www_bget?C16238,C16238,
+7,16,cpd:C22160,compound,https://www.kegg.jp/dbget-bin/www_bget?C22160,C22160,
+8,17,cpd:C15972,compound,https://www.kegg.jp/dbget-bin/www_bget?C15972,C15972,
+9,22,hsa:51601,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51601,"LIPT1, LIPT1D",rn:R12450
+10,23,hsa:116285,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:116285,"ACSM1, BUCS1, MACS1",rn:R07770
+11,24,ko:K03800,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03800,K03800,rn:R12449
+12,25,cpd:C22159,compound,https://www.kegg.jp/dbget-bin/www_bget?C22159,C22159,
+13,26,cpd:C06423,compound,https://www.kegg.jp/dbget-bin/www_bget?C06423,C06423,
+14,27,ko:K03800,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03800,K03800,rn:R12429
+15,28,cpd:C15973,compound,https://www.kegg.jp/dbget-bin/www_bget?C15973,C15973,
+16,30,cpd:C01944,compound,https://www.kegg.jp/dbget-bin/www_bget?C01944,C01944,
+17,31,ko:K23750,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K23750,K23750,rn:R12431
+18,33,ko:K03800,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03800,K03800,rn:R12433
+19,34,cpd:C02051,compound,https://www.kegg.jp/dbget-bin/www_bget?C02051,C02051,
+20,36,ko:K18821,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K18821,K18821,rn:R12426
+21,37,cpd:C05752,compound,https://www.kegg.jp/dbget-bin/www_bget?C05752,C05752,
+22,38,cpd:C02972,compound,https://www.kegg.jp/dbget-bin/www_bget?C02972,C02972,
+23,40,hsa:11019,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11019,"LIAS, HGCLAS, HUSSY-01, LAS, LIP1, LS, PDHLD",rn:R12424
+24,42,hsa:51601,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51601,"LIPT1, LIPT1D",rn:R12432
+25,44,ko:K16869,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K16869,K16869,rn:R12425
+26,45,hsa:51601,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51601,"LIPT1, LIPT1D",rn:R12427
+27,47,hsa:387787,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:387787,LIPT2,rn:R12428
+28,48,cpd:C02147,compound,https://www.kegg.jp/dbget-bin/www_bget?C02147,C02147,
+29,50,ko:K03800,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03800,K03800,rn:R12434
+30,51,cpd:C22161,compound,https://www.kegg.jp/dbget-bin/www_bget?C22161,C22161,
+31,53,ko:K23763,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K23763,K23763,rn:R12435
+32,54,ko:K16869,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K16869,K16869,rn:R12432
+33,56,ko:K09711 ko:K24689,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K09711+K24689,K09711...,rn:R12691

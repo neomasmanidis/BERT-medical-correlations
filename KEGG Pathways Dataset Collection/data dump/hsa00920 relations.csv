@@ -1,0 +1,12 @@
+,entry1,entry2,link,value,name,pathway
+0,48,33,ECrel,29,compound,hsa00920
+1,48,45,ECrel,49,compound,hsa00920
+2,48,44,ECrel,49,compound,hsa00920
+3,119,120,maplink,118,compound,hsa00920
+4,96,33,ECrel,31,compound,hsa00920
+5,161,160,ECrel,165,compound,hsa00920
+6,75,208,maplink,72,compound,hsa00920
+7,75,211,ECrel,39,compound,hsa00920
+8,211,213,ECrel,209,compound,hsa00920
+9,213,96,ECrel,31,compound,hsa00920
+10,213,33,ECrel,31,compound,hsa00920

@@ -1,0 +1,37 @@
+,entry1,entry2,link,value,name,pathway
+0,136,131,PPrel,-->,activation,hsa05134
+1,130,131,PPrel,-->,activation,hsa05134
+2,131,133,PPrel,-->,activation,hsa05134
+3,179,182,PPrel,-->,activation,hsa05134
+4,222,62,PPrel,-->,activation,hsa05134
+5,62,65,PPrel,-->,activation,hsa05134
+6,62,64,PPrel,-->,activation,hsa05134
+7,200,201,PCrel,,,hsa05134
+8,200,202,PCrel,,,hsa05134
+9,204,201,PPrel,-->,activation,hsa05134
+10,204,202,PPrel,-->,activation,hsa05134
+11,198,208,PPrel,-->,activation,hsa05134
+12,201,208,PPrel,-->,activation,hsa05134
+13,202,208,PPrel,-->,activation,hsa05134
+14,158,223,PPrel,---,binding/association,hsa05134
+15,157,156,PPrel,---,binding/association,hsa05134
+16,82,76,PPrel,-+-,dissociation,hsa05134
+17,182,192,GErel,-->,expression,hsa05134
+18,66,67,PPrel,-->,activation,hsa05134
+19,66,67,PPrel,..>,indirect effect,hsa05134
+20,66,62,PPrel,-->,activation,hsa05134
+21,66,62,PPrel,..>,indirect effect,hsa05134
+22,62,67,PPrel,-->,activation,hsa05134
+23,62,67,PPrel,..>,indirect effect,hsa05134
+24,208,210,GErel,-->,expression,hsa05134
+25,208,210,GErel,..>,indirect effect,hsa05134
+26,208,211,GErel,-->,expression,hsa05134
+27,208,211,GErel,..>,indirect effect,hsa05134
+28,208,212,GErel,-->,expression,hsa05134
+29,208,212,GErel,..>,indirect effect,hsa05134
+30,208,214,GErel,-->,expression,hsa05134
+31,208,214,GErel,..>,indirect effect,hsa05134
+32,208,213,GErel,-->,expression,hsa05134
+33,208,213,GErel,..>,indirect effect,hsa05134
+34,208,215,GErel,-->,expression,hsa05134
+35,208,215,GErel,..>,indirect effect,hsa05134

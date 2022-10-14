@@ -1,0 +1,52 @@
+,entry1,entry2,link,value,name,pathway
+0,51,52,PPrel,...,state change,hsa05020
+1,63,56,PPrel,...,state change,hsa05020
+2,273,274,PPrel,...,state change,hsa05020
+3,34,150,PPrel,---,binding/association,hsa05020
+4,86,88,PPrel,---,binding/association,hsa05020
+5,86,89,PPrel,---,binding/association,hsa05020
+6,86,91,PPrel,-->,activation,hsa05020
+7,86,107,PPrel,-->,activation,hsa05020
+8,118,119,GErel,-->,expression,hsa05020
+9,91,93,PCrel,-->,activation,hsa05020
+10,93,92,PCrel,-->,activation,hsa05020
+11,275,276,PPrel,...,state change,hsa05020
+12,244,242,PPrel,--|,inhibition,hsa05020
+13,199,233,PPrel,--|,inhibition,hsa05020
+14,2,277,PPrel,--|,inhibition,hsa05020
+15,233,187,PPrel,--|,inhibition,hsa05020
+16,187,190,PPrel,-->,activation,hsa05020
+17,190,191,PPrel,-->,activation,hsa05020
+18,141,167,PPrel,-->,activation,hsa05020
+19,181,220,PCrel,-->,activation,hsa05020
+20,169,166,PPrel,-->,activation,hsa05020
+21,168,166,PPrel,-->,activation,hsa05020
+22,166,167,PPrel,-->,activation,hsa05020
+23,247,216,PPrel,-->,activation,hsa05020
+24,247,248,PPrel,-->,activation,hsa05020
+25,71,251,PPrel,-->,activation,hsa05020
+26,251,255,PPrel,-->,activation,hsa05020
+27,255,252,PPrel,-->,activation,hsa05020
+28,252,253,PPrel,-->,activation,hsa05020
+29,253,278,PPrel,-->,activation,hsa05020
+30,278,116,PPrel,-->,activation,hsa05020
+31,116,254,PPrel,-->,activation,hsa05020
+32,254,118,GErel,-->,expression,hsa05020
+33,278,143,PCrel,-->,activation,hsa05020
+34,191,196,GErel,-->,expression,hsa05020
+35,72,136,PPrel,-->,activation,hsa05020
+36,72,136,PPrel,..>,indirect effect,hsa05020
+37,86,97,PPrel,-->,activation,hsa05020
+38,86,97,PPrel,..>,indirect effect,hsa05020
+39,86,99,PPrel,--|,inhibition,hsa05020
+40,86,99,PPrel,..>,indirect effect,hsa05020
+41,199,178,PPrel,-->,activation,hsa05020
+42,199,178,PPrel,..>,indirect effect,hsa05020
+43,199,179,PPrel,-->,activation,hsa05020
+44,199,179,PPrel,..>,indirect effect,hsa05020
+45,220,188,PPrel,-->,activation,hsa05020
+46,220,188,PPrel,-p,dephosphorylation,hsa05020
+47,216,210,PPrel,--|,inhibition,hsa05020
+48,216,210,PPrel,+p,phosphorylation,hsa05020
+49,248,210,PPrel,--|,inhibition,hsa05020
+50,248,210,PPrel,+p,phosphorylation,hsa05020

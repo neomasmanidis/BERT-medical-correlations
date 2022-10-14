@@ -1,0 +1,12 @@
+,entry1,entry2,link,value,name,pathway
+0,137,135,PCrel,-->,activation,hsa04973
+1,135,139,PCrel,-->,activation,hsa04973
+2,139,136,PCrel,-->,activation,hsa04973
+3,189,147,PPrel,-->,activation,hsa04973
+4,147,148,PPrel,-->,activation,hsa04973
+5,148,150,PCrel,-->,activation,hsa04973
+6,150,149,PCrel,-->,activation,hsa04973
+7,136,50,PPrel,-->,activation,hsa04973
+8,136,50,PPrel,..>,indirect effect,hsa04973
+9,149,115,PPrel,-->,activation,hsa04973
+10,149,115,PPrel,..>,indirect effect,hsa04973

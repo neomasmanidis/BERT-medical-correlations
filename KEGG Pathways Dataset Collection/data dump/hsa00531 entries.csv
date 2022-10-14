@@ -1,0 +1,81 @@
+,id,name,type,link,gene_names,reaction
+0,14,hsa:6448,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6448,"SGSH, HSS, MPS3A, SFMD",rn:R07814
+1,22,gl:G01391,compound,https://www.kegg.jp/dbget-bin/www_bget?G01391,G01391,
+2,23,gl:G13074,compound,https://www.kegg.jp/dbget-bin/www_bget?G13074,G13074,
+3,24,gl:G13073,compound,https://www.kegg.jp/dbget-bin/www_bget?G13073,G13073,
+4,25,gl:G01977,compound,https://www.kegg.jp/dbget-bin/www_bget?G01977,G01977,
+5,26,gl:G01945,compound,https://www.kegg.jp/dbget-bin/www_bget?G01945,G01945,
+6,27,gl:G02632,compound,https://www.kegg.jp/dbget-bin/www_bget?G02632,G02632,
+7,28,gl:G09660,compound,https://www.kegg.jp/dbget-bin/www_bget?G09660,G09660,
+8,29,gl:G13040,compound,https://www.kegg.jp/dbget-bin/www_bget?G13040,G13040,
+9,30,gl:G13039,compound,https://www.kegg.jp/dbget-bin/www_bget?G13039,G13039,
+10,31,gl:G13038,compound,https://www.kegg.jp/dbget-bin/www_bget?G13038,G13038,
+11,32,gl:G13037,compound,https://www.kegg.jp/dbget-bin/www_bget?G13037,G13037,
+12,33,gl:G13036,compound,https://www.kegg.jp/dbget-bin/www_bget?G13036,G13036,
+13,34,gl:G13035,compound,https://www.kegg.jp/dbget-bin/www_bget?G13035,G13035,
+14,35,gl:G13034,compound,https://www.kegg.jp/dbget-bin/www_bget?G13034,G13034,
+15,36,gl:G00872,compound,https://www.kegg.jp/dbget-bin/www_bget?G00872,G00872,
+16,37,gl:G13043,compound,https://www.kegg.jp/dbget-bin/www_bget?G13043,G13043,
+17,38,gl:G12336,compound,https://www.kegg.jp/dbget-bin/www_bget?G12336,G12336,
+18,39,gl:G13042,compound,https://www.kegg.jp/dbget-bin/www_bget?G13042,G13042,
+19,40,gl:G13041,compound,https://www.kegg.jp/dbget-bin/www_bget?G13041,G13041,
+20,41,hsa:60495,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:60495,"HPSE2, HPA2, HPR2, UFS, UFS1",rn:R07811
+21,42,hsa:10855,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10855,"HPSE, HPA, HPA1, HPR1, HPSE1, HSE1",rn:R07811
+22,43,path:hsa00534,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,
+23,44,path:hsa00533,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00533,Glycosaminoglycan biosynthesis - keratan sulfate,
+24,45,path:hsa00532,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,
+25,46,hsa:2799,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2799,"GNS, G6S",rn:R07808
+26,47,path:hsa00531,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00531,TITLE:Glycosaminoglycan degradation,
+27,48,cpd:C00925,compound,https://www.kegg.jp/dbget-bin/www_bget?C00925,C00925,
+28,50,hsa:3423,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3423,"IDS, ID2S, MPS2, SIDS",rn:R07821
+29,51,hsa:3423,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3423,"IDS, ID2S, MPS2, SIDS",rn:R07812
+30,52,hsa:2588,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2588,"GALNS, GALNAC6S, GAS, GalN6S, MPS4A",rn:R07806
+31,53,hsa:3425,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3425,"IDUA, IDA, MPS1, MPSI",rn:R07822
+32,54,hsa:3425,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3425,"IDUA, IDA, MPS1, MPSI",rn:R07813
+33,55,hsa:411,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:411,"ARSB, ASB, G4S, MPS6",rn:R07823
+34,56,hsa:2720,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2720,"GLB1, EBP, ELNR1, MPS4B",rn:R07807
+35,57,hsa:23553 hsa:3373 hsa:6677 hsa:8372 hsa:8692,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23553+hsa:3373+hsa:6677+hsa:8372+hsa:8692,"HYAL4, CSHY, HYAL-4...",rn:R07824
+36,58,hsa:138050,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:138050,"HGSNAT, HGNAT, MPS3C, RP73, TMEM76",rn:R07815
+37,59,hsa:3073 hsa:3074,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3073+hsa:3074,"HEXA, TSD...",rn:R07810
+38,60,hsa:23553 hsa:3373 hsa:6677 hsa:8372 hsa:8692,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23553+hsa:3373+hsa:6677+hsa:8372+hsa:8692,"HYAL4, CSHY, HYAL-4...",rn:R07825
+39,61,hsa:4669,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4669,"NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD",rn:R07816
+40,63,hsa:3073 hsa:3074,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3073+hsa:3074,"HEXA, TSD...",rn:R07809
+41,64,hsa:2990,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2990,"GUSB, BG, MPS7",rn:R07818
+42,65,hsa:2799,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2799,"GNS, G6S",rn:R07819
+43,66,cpd:C00426,compound,https://www.kegg.jp/dbget-bin/www_bget?C00426,C00426,
+44,67,cpd:C00634,compound,https://www.kegg.jp/dbget-bin/www_bget?C00634,C00634,
+45,68,cpd:C00573,compound,https://www.kegg.jp/dbget-bin/www_bget?C00573,C00573,
+46,76,hsa:23553 hsa:3373 hsa:6677 hsa:8372 hsa:8692,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23553+hsa:3373+hsa:6677+hsa:8372+hsa:8692,"HYAL4, CSHY, HYAL-4...",rn:R07824
+47,77,hsa:411,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:411,"ARSB, ASB, G4S, MPS6",rn:R07823
+48,78,hsa:2990,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2990,"GUSB, BG, MPS7",
+49,79,hsa:2588,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2588,"GALNS, GALNAC6S, GAS, GalN6S, MPS4A",
+50,80,hsa:23553 hsa:3373 hsa:6677 hsa:8372 hsa:8692,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23553+hsa:3373+hsa:6677+hsa:8372+hsa:8692,"HYAL4, CSHY, HYAL-4...",rn:R07824
+51,81,hsa:411,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:411,"ARSB, ASB, G4S, MPS6",rn:R07823
+52,82,hsa:2990,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2990,"GUSB, BG, MPS7",
+53,83,hsa:3423,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3423,"IDS, ID2S, MPS2, SIDS",rn:R07821
+54,84,hsa:3425,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3425,"IDUA, IDA, MPS1, MPSI",rn:R07822
+55,85,hsa:4669,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4669,"NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD",rn:R07816
+56,87,hsa:2990,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2990,"GUSB, BG, MPS7",rn:R07818
+57,88,hsa:3423,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3423,"IDS, ID2S, MPS2, SIDS",rn:R07812
+58,89,hsa:3425,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3425,"IDUA, IDA, MPS1, MPSI",rn:R07813
+59,90,hsa:4669,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4669,"NAGLU, CMT2V, MPS-IIIB, MPS3B, NAG, UFHSD",
+60,91,hsa:10855 hsa:60495,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10855+hsa:60495,"HPSE, HPA, HPA1, HPR1, HPSE1, HSE1...",rn:R07811
+61,92,hsa:6448,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6448,"SGSH, HSS, MPS3A, SFMD",rn:R07814
+62,94,hsa:2799,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2799,"GNS, G6S",rn:R07819
+63,95,hsa:3073 hsa:3074,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3073+hsa:3074,"HEXA, TSD...",rn:R07809
+64,96,hsa:2799,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2799,"GNS, G6S",rn:R07808
+65,97,hsa:2720,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2720,"GLB1, EBP, ELNR1, MPS4B",
+66,98,hsa:2588,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2588,"GALNS, GALNAC6S, GAS, GalN6S, MPS4A",rn:R07806
+67,99,hsa:2720,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2720,"GLB1, EBP, ELNR1, MPS4B",rn:R07807
+68,100,hsa:2799,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2799,"GNS, G6S",
+69,176,gl:G10505,compound,https://www.kegg.jp/dbget-bin/www_bget?G10505,G10505,
+70,178,hsa:23553 hsa:3373 hsa:6677 hsa:8372 hsa:8692,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23553+hsa:3373+hsa:6677+hsa:8372+hsa:8692,"HYAL4, CSHY, HYAL-4...",rn:R10905
+71,179,gl:G00526,compound,https://www.kegg.jp/dbget-bin/www_bget?G00526,G00526,
+72,181,hsa:2990,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2990,"GUSB, BG, MPS7",rn:R10830
+73,182,gl:G00711,compound,https://www.kegg.jp/dbget-bin/www_bget?G00711,G00711,
+74,184,gl:G10008,compound,https://www.kegg.jp/dbget-bin/www_bget?G10008,G10008,
+75,185,ko:K01207,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01207,K01207,rn:R10831
+76,186,hsa:2990,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2990,"GUSB, BG, MPS7",rn:R10830
+77,190,ko:K01207,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01207,K01207,rn:R10831
+78,194,hsa:2990,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2990,"GUSB, BG, MPS7",
+79,198,hsa:3073 hsa:3074,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3073+hsa:3074,"HEXA, TSD...",

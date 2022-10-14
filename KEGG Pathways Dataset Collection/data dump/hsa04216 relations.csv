@@ -1,0 +1,25 @@
+,entry1,entry2,link,value,name,pathway
+0,15,11,GErel,--|,repression,hsa04216
+1,23,176,PCrel,--|,inhibition,hsa04216
+2,116,176,PCrel,--|,inhibition,hsa04216
+3,135,176,PCrel,--|,inhibition,hsa04216
+4,117,176,PCrel,--|,inhibition,hsa04216
+5,134,17,PCrel,--|,inhibition,hsa04216
+6,31,11,PPrel,---,binding/association,hsa04216
+7,38,39,PCrel,---,binding/association,hsa04216
+8,39,37,PPrel,---,binding/association,hsa04216
+9,58,59,PPrel,---,binding/association,hsa04216
+10,60,59,PCrel,---,binding/association,hsa04216
+11,53,52,PCrel,---,binding/association,hsa04216
+12,52,51,PPrel,---,binding/association,hsa04216
+13,71,70,PCrel,---,binding/association,hsa04216
+14,74,73,PCrel,---,binding/association,hsa04216
+15,81,80,PCrel,---,binding/association,hsa04216
+16,90,80,PPrel,---,binding/association,hsa04216
+17,146,145,PCrel,---,binding/association,hsa04216
+18,35,118,PCrel,--|,inhibition,hsa04216
+19,149,118,PCrel,-->,activation,hsa04216
+20,22,118,PCrel,-->,activation,hsa04216
+21,22,118,PCrel,..>,indirect effect,hsa04216
+22,105,118,PCrel,-->,activation,hsa04216
+23,105,118,PCrel,..>,indirect effect,hsa04216

@@ -1,0 +1,67 @@
+,entry1,entry2,link,value,name,pathway
+0,19,20,PPrel,-->,activation,hsa05321
+1,20,70,GErel,-->,expression,hsa05321
+2,71,94,PPrel,-->,activation,hsa05321
+3,94,96,PPrel,-->,activation,hsa05321
+4,96,98,GErel,-->,expression,hsa05321
+5,98,226,GErel,-->,expression,hsa05321
+6,70,226,PPrel,-->,activation,hsa05321
+7,70,89,PPrel,-->,activation,hsa05321
+8,226,92,PPrel,-->,activation,hsa05321
+9,89,92,PPrel,-->,activation,hsa05321
+10,92,155,GErel,-->,expression,hsa05321
+11,192,238,PPrel,-->,activation,hsa05321
+12,194,100,GErel,-->,expression,hsa05321
+13,195,100,GErel,-->,expression,hsa05321
+14,184,181,GErel,-->,expression,hsa05321
+15,181,257,PPrel,-->,activation,hsa05321
+16,257,259,PPrel,-->,activation,hsa05321
+17,59,174,PPrel,-->,activation,hsa05321
+18,59,175,PPrel,-->,activation,hsa05321
+19,174,187,PPrel,-->,activation,hsa05321
+20,175,187,PPrel,-->,activation,hsa05321
+21,187,241,GErel,-->,expression,hsa05321
+22,187,264,GErel,-->,expression,hsa05321
+23,241,180,GErel,-->,expression,hsa05321
+24,241,182,GErel,-->,expression,hsa05321
+25,264,180,GErel,-->,expression,hsa05321
+26,264,182,GErel,-->,expression,hsa05321
+27,265,241,PPrel,--|,inhibition,hsa05321
+28,117,119,PPrel,-->,activation,hsa05321
+29,117,232,PPrel,-->,activation,hsa05321
+30,119,121,PPrel,-->,activation,hsa05321
+31,232,121,PPrel,-->,activation,hsa05321
+32,121,123,GErel,-->,expression,hsa05321
+33,123,145,GErel,-->,expression,hsa05321
+34,123,153,GErel,-->,expression,hsa05321
+35,127,125,GErel,-->,expression,hsa05321
+36,126,125,GErel,-->,expression,hsa05321
+37,121,146,GErel,-->,expression,hsa05321
+38,38,46,PPrel,-->,activation,hsa05321
+39,40,46,PPrel,-->,activation,hsa05321
+40,293,46,PPrel,-->,activation,hsa05321
+41,46,48,GErel,-->,expression,hsa05321
+42,98,230,GErel,--|,inhibition,hsa05321
+43,98,230,GErel,-->,expression,hsa05321
+44,98,231,GErel,--|,inhibition,hsa05321
+45,98,231,GErel,-->,expression,hsa05321
+46,226,238,GErel,-->,expression,hsa05321
+47,226,238,GErel,..>,indirect effect,hsa05321
+48,89,238,GErel,-->,expression,hsa05321
+49,89,238,GErel,..>,indirect effect,hsa05321
+50,238,194,PPrel,-->,activation,hsa05321
+51,238,194,PPrel,..>,indirect effect,hsa05321
+52,238,195,PPrel,-->,activation,hsa05321
+53,238,195,PPrel,..>,indirect effect,hsa05321
+54,61,183,PPrel,-->,activation,hsa05321
+55,61,183,PPrel,..>,indirect effect,hsa05321
+56,62,184,PPrel,-->,activation,hsa05321
+57,62,184,PPrel,..>,indirect effect,hsa05321
+58,259,174,PPrel,-->,activation,hsa05321
+59,259,174,PPrel,..>,indirect effect,hsa05321
+60,123,125,GErel,-->,expression,hsa05321
+61,123,125,GErel,..>,indirect effect,hsa05321
+62,189,268,PPrel,-->,activation,hsa05321
+63,189,268,PPrel,..>,indirect effect,hsa05321
+64,123,250,PPrel,--|,inhibition,hsa05321
+65,123,250,PPrel,..>,indirect effect,hsa05321

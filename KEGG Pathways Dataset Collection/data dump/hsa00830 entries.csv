@@ -1,0 +1,66 @@
+,id,name,type,link,gene_names,reaction
+0,4,cpd:C05917,compound,https://www.kegg.jp/dbget-bin/www_bget?C05917,C05917,
+1,5,path:hsa00830,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00830,TITLE:Retinol metabolism,
+2,7,cpd:C00473,compound,https://www.kegg.jp/dbget-bin/www_bget?C00473,C00473,
+3,9,hsa:124 hsa:125 hsa:126 hsa:127 hsa:128 hsa:130 hsa:131,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:124+hsa:125+hsa:126+hsa:127+hsa:128+hsa:130+hsa:131,"ADH1A, ADH1...",rn:R02124
+4,10,cpd:C00376,compound,https://www.kegg.jp/dbget-bin/www_bget?C00376,C00376,
+5,12,hsa:53630,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:53630,"BCO1, BCDO, BCDO1, BCMO, BCMO1, BCO",rn:R00032
+6,13,cpd:C02094,compound,https://www.kegg.jp/dbget-bin/www_bget?C02094,C02094,
+7,15,hsa:216 hsa:220 hsa:8854,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:216+hsa:220+hsa:8854,"ALDH1A1, ALDC, ALDH-E1, ALDH1, ALDH11, HEL-9, HEL-S-53e, HEL12, PUMB1, RALDH1...",rn:R02123
+8,16,cpd:C00777,compound,https://www.kegg.jp/dbget-bin/www_bget?C00777,C00777,
+9,17,hsa:316,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:316,"AOX1, AO, AOH1",rn:R02125
+10,18,cpd:C02075 cpd:C02588,compound,https://www.kegg.jp/dbget-bin/www_bget?C02075+C02588,C02075...,
+11,21,hsa:9227,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9227,"LRAT, LCA14",rn:R08387
+12,22,cpd:C00899,compound,https://www.kegg.jp/dbget-bin/www_bget?C00899,C00899,
+13,23,cpd:C02110,compound,https://www.kegg.jp/dbget-bin/www_bget?C02110,C02110,
+14,25,hsa:157506 hsa:51109 hsa:5959,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:157506+hsa:51109+hsa:5959,"RDH10, SDR16C4...",rn:R03048 rn:R08380
+15,27,cpd:C16682,compound,https://www.kegg.jp/dbget-bin/www_bget?C16682,C16682,
+16,29,cpd:C16681,compound,https://www.kegg.jp/dbget-bin/www_bget?C16681,C16681,
+17,31,cpd:C15493,compound,https://www.kegg.jp/dbget-bin/www_bget?C15493,C15493,
+18,33,cpd:C15492,compound,https://www.kegg.jp/dbget-bin/www_bget?C15492,C15492,
+19,34,hsa:54884,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54884,RETSAT,rn:R07163
+20,35,hsa:6121,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6121,"RPE65, BCO3, LCA2, RP20, mRPE65, p63, rd12, sRPE65",rn:R08388
+21,36,hsa:145226 hsa:51109 hsa:5959,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:145226+hsa:51109+hsa:5959,"RDH12, LCA13, RP53, SDR7C2...",rn:R08382 rn:R08383
+22,41,cpd:C00778,compound,https://www.kegg.jp/dbget-bin/www_bget?C00778,C00778,
+23,42,cpd:C05914,compound,https://www.kegg.jp/dbget-bin/www_bget?C05914,C05914,
+24,43,cpd:C05915,compound,https://www.kegg.jp/dbget-bin/www_bget?C05915,C05915,
+25,44,cpd:C05916,compound,https://www.kegg.jp/dbget-bin/www_bget?C05916,C05916,
+26,46,hsa:158835 hsa:8694,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:158835+hsa:8694,"AWAT2, ARAT, DC4, DGAT2L4, MFAT, WS...",rn:R08381
+27,48,cpd:C03455,compound,https://www.kegg.jp/dbget-bin/www_bget?C03455,C03455,
+28,49,hsa:9227,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9227,"LRAT, LCA14",rn:R08389
+29,50,hsa:158835 hsa:8694,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:158835+hsa:8694,"AWAT2, ARAT, DC4, DGAT2L4, MFAT, WS...",rn:R02366 rn:R02367
+30,51,cpd:C05916,compound,https://www.kegg.jp/dbget-bin/www_bget?C05916,C05916,
+31,54,cpd:C11061,compound,https://www.kegg.jp/dbget-bin/www_bget?C11061,C11061,
+32,56,hsa:1592 hsa:340665 hsa:56603,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1592+hsa:340665+hsa:56603,"CYP26A1, CP26, CYP26, P450RAI, P450RAI1...",rn:R08392
+33,57,cpd:C16677,compound,https://www.kegg.jp/dbget-bin/www_bget?C16677,C16677,
+34,58,hsa:100861540 hsa:1551 hsa:1576 hsa:1577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:100861540+hsa:1551+hsa:1576+hsa:1577,"CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...",rn:R08392
+35,59,hsa:1543 hsa:1544,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1544,"CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...",rn:R08392
+36,61,cpd:C16678,compound,https://www.kegg.jp/dbget-bin/www_bget?C16678,C16678,
+37,64,cpd:C16683,compound,https://www.kegg.jp/dbget-bin/www_bget?C16683,C16683,
+38,66,hsa:1592 hsa:340665 hsa:56603,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1592+hsa:340665+hsa:56603,"CYP26A1, CP26, CYP26, P450RAI, P450RAI1...",
+39,67,hsa:1592,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1592,"CYP26A1, CP26, CYP26, P450RAI, P450RAI1",
+40,68,path:map00906,map,https://www.kegg.jp/dbget-bin/www_bget?map00906,Carotenoid biosynthesis,
+41,69,hsa:112724 hsa:145226 hsa:157506 hsa:50700 hsa:51109 hsa:8608,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:112724+hsa:145226+hsa:157506+hsa:50700+hsa:51109+hsa:8608,"RDH13, SDR7C3...",rn:R02124 rn:R08379
+42,70,hsa:10170 hsa:10901 hsa:317749 hsa:9249,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10170+hsa:10901+hsa:317749+hsa:9249,"DHRS9, 3-alpha-HSD, 3ALPHA-HSD, RDH-E2, RDH-TBE, RDH15, RDHL, RDHTBE, RETSDR8, SDR9C4...",rn:R02124 rn:R08379
+43,72,cpd:C16680,compound,https://www.kegg.jp/dbget-bin/www_bget?C16680,C16680,
+44,73,cpd:C16679,compound,https://www.kegg.jp/dbget-bin/www_bget?C16679,C16679,
+45,75,hsa:1592 hsa:340665 hsa:56603,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1592+hsa:340665+hsa:56603,"CYP26A1, CP26, CYP26, P450RAI, P450RAI1...",rn:R08390
+46,76,hsa:1548 hsa:1549 hsa:1555 hsa:29785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1555+hsa:29785,"CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...",rn:R08391
+47,77,hsa:100861540 hsa:1551 hsa:1577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:100861540+hsa:1551+hsa:1577,"CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...",rn:R08391
+48,78,hsa:100861540 hsa:1551 hsa:1576 hsa:1577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:100861540+hsa:1551+hsa:1576+hsa:1577,"CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...",rn:R08390
+49,79,hsa:1543,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1543,"CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX",rn:R08390
+50,80,ko:K07425,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K07425,K07425,rn:R08390
+51,81,hsa:1548 hsa:1549 hsa:1555 hsa:1558 hsa:1559 hsa:1562,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1555+hsa:1558+hsa:1559+hsa:1562,"CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...",rn:R08390
+52,82,hsa:1543 hsa:1544,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1544,"CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...",
+53,83,hsa:100861540 hsa:1551 hsa:1576 hsa:1577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:100861540+hsa:1551+hsa:1576+hsa:1577,"CYP3A7-CYP3A51P, CYP3A7, CYP3A7-3AP1, CYP3A7-CYP3AP1, CYP3A7.1L, CYPIIIA7...",
+54,84,hsa:1548 hsa:1549 hsa:1555 hsa:1558 hsa:1559 hsa:1562 hsa:29785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1555+hsa:1558+hsa:1559+hsa:1562+hsa:29785,"CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...",rn:R08392
+55,85,hsa:1548 hsa:1549 hsa:1555 hsa:1558 hsa:1559 hsa:1562 hsa:29785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1555+hsa:1558+hsa:1559+hsa:1562+hsa:29785,"CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...",
+56,87,hsa:10901 hsa:317749,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10901+hsa:317749,"DHRS4, CR, NRDR, PHCR, PSCD, SCAD-SRL, SDR-SRL, SDR25C1, SDR25C2...",rn:R08383
+57,88,hsa:316,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:316,"AOX1, AO, AOH1",rn:R08384
+58,89,hsa:216 hsa:220 hsa:8854,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:216+hsa:220+hsa:8854,"ALDH1A1, ALDC, ALDH-E1, ALDH1, ALDH11, HEL-9, HEL-S-53e, HEL12, PUMB1, RALDH1...",rn:R08385
+59,90,hsa:10720 hsa:10941 hsa:54490 hsa:54575 hsa:54576 hsa:54577 hsa:54578 hsa:54579 hsa:54600 hsa:54657 hsa:54658 hsa:54659 hsa:574537 hsa:7363 hsa:7364 hsa:7365 hsa:7366 hsa:7367 hsa:79799,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10720+hsa:10941+hsa:54490+hsa:54575+hsa:54576+hsa:54577+hsa:54578+hsa:54579+hsa:54600+hsa:54657+hsa:54658+hsa:54659+hsa:574537+hsa:7363+hsa:7364+hsa:7365+hsa:7366+hsa:7367+hsa:79799,UGT2B11...,rn:R02902
+60,91,hsa:8228,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8228,"PNPLA4, DXS1283E, GS2, iPLA2eta",rn:R02368
+61,93,hsa:195814 hsa:8630,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:195814+hsa:8630,"SDR16C5, EPHD-2, RDH#2, RDH-E2, RDHE2, retSDR2...",rn:R02124
+62,95,cpd:C21797,compound,https://www.kegg.jp/dbget-bin/www_bget?C21797,C21797,
+63,96,hsa:339761,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:339761,CYP27C1,rn:R11952
+64,97,hsa:54905,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54905,CYP2W1,rn:R08392

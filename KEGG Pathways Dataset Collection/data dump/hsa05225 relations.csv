@@ -1,0 +1,88 @@
+,entry1,entry2,link,value,name,pathway
+0,113,9,PPrel,-->,activation,hsa05225
+1,29,30,PPrel,-->,activation,hsa05225
+2,9,19,PPrel,-->,activation,hsa05225
+3,19,20,PPrel,-->,activation,hsa05225
+4,20,21,PPrel,-->,activation,hsa05225
+5,21,11,PPrel,-->,activation,hsa05225
+6,11,12,PPrel,-->,activation,hsa05225
+7,122,224,PCrel,-->,activation,hsa05225
+8,122,226,PCrel,-->,activation,hsa05225
+9,226,123,PCrel,-->,activation,hsa05225
+10,225,123,PCrel,-->,activation,hsa05225
+11,123,124,PPrel,-->,activation,hsa05225
+12,9,46,PPrel,-->,activation,hsa05225
+13,30,19,PPrel,-->,activation,hsa05225
+14,30,46,PPrel,-->,activation,hsa05225
+15,46,50,PCrel,-->,activation,hsa05225
+16,50,47,PCrel,-->,activation,hsa05225
+17,26,27,PPrel,-->,activation,hsa05225
+18,47,193,PPrel,--|,inhibition,hsa05225
+19,193,194,PPrel,--|,inhibition,hsa05225
+20,88,89,PPrel,-/-,missing interaction,hsa05225
+21,250,186,PCrel,-->,activation,hsa05225
+22,51,50,PCrel,-/-,missing interaction,hsa05225
+23,100,106,PPrel,-/-,missing interaction,hsa05225
+24,100,107,PPrel,-/-,missing interaction,hsa05225
+25,100,108,PPrel,-/-,missing interaction,hsa05225
+26,100,109,PPrel,-/-,missing interaction,hsa05225
+27,100,110,PPrel,-/-,missing interaction,hsa05225
+28,100,111,PPrel,-/-,missing interaction,hsa05225
+29,199,251,PPrel,-/-,missing interaction,hsa05225
+30,201,202,PPrel,-+-,dissociation,hsa05225
+31,128,252,PPrel,-->,activation,hsa05225
+32,252,129,PPrel,-/-,missing interaction,hsa05225
+33,129,131,PPrel,---,binding/association,hsa05225
+34,74,253,PPrel,-->,activation,hsa05225
+35,73,71,PPrel,-->,activation,hsa05225
+36,71,70,PPrel,---,binding/association,hsa05225
+37,71,69,PPrel,--|,inhibition,hsa05225
+38,68,64,PPrel,-->,activation,hsa05225
+39,64,63,GErel,-->,expression,hsa05225
+40,64,62,GErel,-->,expression,hsa05225
+41,175,162,PCrel,--|,inhibition,hsa05225
+42,176,162,PCrel,--|,inhibition,hsa05225
+43,177,162,PCrel,--|,inhibition,hsa05225
+44,178,162,PCrel,--|,inhibition,hsa05225
+45,172,162,PCrel,--|,inhibition,hsa05225
+46,173,162,PCrel,--|,inhibition,hsa05225
+47,174,162,PCrel,--|,inhibition,hsa05225
+48,162,152,PPrel,--|,inhibition,hsa05225
+49,153,165,GErel,-->,expression,hsa05225
+50,153,166,GErel,-->,expression,hsa05225
+51,153,167,GErel,-->,expression,hsa05225
+52,153,168,GErel,-->,expression,hsa05225
+53,141,142,PPrel,-->,activation,hsa05225
+54,142,39,PPrel,-->,activation,hsa05225
+55,39,40,PPrel,-->,activation,hsa05225
+56,40,34,PPrel,-->,activation,hsa05225
+57,34,35,PPrel,-->,activation,hsa05225
+58,142,217,PPrel,-->,activation,hsa05225
+59,217,55,PPrel,-->,activation,hsa05225
+60,55,60,PCrel,-->,activation,hsa05225
+61,60,56,PCrel,-->,activation,hsa05225
+62,43,44,PPrel,-->,activation,hsa05225
+63,256,257,PPrel,---,binding/association,hsa05225
+64,257,258,PPrel,---,binding/association,hsa05225
+65,12,13,PPrel,-->,activation,hsa05225
+66,12,13,PPrel,+p,phosphorylation,hsa05225
+67,13,14,PPrel,-->,activation,hsa05225
+68,13,14,PPrel,+p,phosphorylation,hsa05225
+69,9,122,PPrel,-->,activation,hsa05225
+70,9,122,PPrel,..>,indirect effect,hsa05225
+71,224,225,PCrel,-->,activation,hsa05225
+72,224,225,PCrel,..>,indirect effect,hsa05225
+73,47,26,PPrel,-->,activation,hsa05225
+74,47,26,PPrel,..>,indirect effect,hsa05225
+75,251,201,PPrel,-->,activation,hsa05225
+76,251,201,PPrel,+p,phosphorylation,hsa05225
+77,254,255,PPrel,--|,inhibition,hsa05225
+78,254,255,PPrel,+p,phosphorylation,hsa05225
+79,35,36,PPrel,-->,activation,hsa05225
+80,35,36,PPrel,+p,phosphorylation,hsa05225
+81,36,37,PPrel,-->,activation,hsa05225
+82,36,37,PPrel,+p,phosphorylation,hsa05225
+83,56,43,PPrel,-->,activation,hsa05225
+84,56,43,PPrel,..>,indirect effect,hsa05225
+85,56,214,PPrel,--|,inhibition,hsa05225
+86,56,214,PPrel,+p,phosphorylation,hsa05225

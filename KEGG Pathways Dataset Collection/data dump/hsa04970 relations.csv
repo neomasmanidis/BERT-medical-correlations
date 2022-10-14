@@ -1,0 +1,30 @@
+,entry1,entry2,link,value,name,pathway
+0,69,36,PCrel,-->,activation,hsa04970
+1,36,41,PPrel,-->,activation,hsa04970
+2,41,42,PPrel,-->,activation,hsa04970
+3,42,43,PCrel,-->,activation,hsa04970
+4,43,47,PCrel,-->,activation,hsa04970
+5,69,37,PCrel,-->,activation,hsa04970
+6,37,51,PPrel,-->,activation,hsa04970
+7,51,52,PPrel,-->,activation,hsa04970
+8,52,64,PCrel,-->,activation,hsa04970
+9,64,65,PCrel,-->,activation,hsa04970
+10,70,38,PCrel,-->,activation,hsa04970
+11,38,51,PPrel,-->,activation,hsa04970
+12,52,54,PCrel,-->,activation,hsa04970
+13,54,53,PCrel,-->,activation,hsa04970
+14,55,73,PCrel,-->,activation,hsa04970
+15,73,74,PPrel,-->,activation,hsa04970
+16,74,144,PCrel,-->,activation,hsa04970
+17,144,75,PCrel,-->,activation,hsa04970
+18,75,84,PCrel,-->,activation,hsa04970
+19,84,76,PCrel,-->,activation,hsa04970
+20,76,77,PPrel,-->,activation,hsa04970
+21,77,142,PCrel,-->,activation,hsa04970
+22,142,72,PCrel,-->,activation,hsa04970
+23,55,90,PCrel,..>,indirect effect,hsa04970
+24,55,130,PCrel,..>,indirect effect,hsa04970
+25,55,39,PCrel,..>,indirect effect,hsa04970
+26,55,164,PCrel,..>,indirect effect,hsa04970
+27,164,67,PPrel,...,state change,hsa04970
+28,47,48,PPrel,..>,indirect effect,hsa04970

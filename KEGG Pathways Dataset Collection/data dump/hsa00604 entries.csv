@@ -1,0 +1,70 @@
+,id,name,type,link,gene_names,reaction
+0,17,hsa:6482 hsa:6483,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483,"ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...",rn:R05949
+1,35,hsa:2720,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2720,"GLB1, EBP, ELNR1, MPS4B",rn:R06010
+2,36,hsa:3073 hsa:3074,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3073+hsa:3074,"HEXA, TSD...",rn:R06004
+3,37,hsa:6489,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6489,"ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI",rn:R05947
+4,38,gl:G00129,compound,https://www.kegg.jp/dbget-bin/www_bget?G00129,G00129,
+5,39,gl:G00128,compound,https://www.kegg.jp/dbget-bin/www_bget?G00128,G00128,
+6,40,gl:G00127,compound,https://www.kegg.jp/dbget-bin/www_bget?G00127,G00127,
+7,41,gl:G00132,compound,https://www.kegg.jp/dbget-bin/www_bget?G00132,G00132,
+8,42,gl:G00131,compound,https://www.kegg.jp/dbget-bin/www_bget?G00131,G00131,
+9,43,gl:G00130,compound,https://www.kegg.jp/dbget-bin/www_bget?G00130,G00130,
+10,44,gl:G00170,compound,https://www.kegg.jp/dbget-bin/www_bget?G00170,G00170,
+11,45,gl:G00122,compound,https://www.kegg.jp/dbget-bin/www_bget?G00122,G00122,
+12,46,gl:G00121,compound,https://www.kegg.jp/dbget-bin/www_bget?G00121,G00121,
+13,47,gl:G00120,compound,https://www.kegg.jp/dbget-bin/www_bget?G00120,G00120,
+14,48,gl:G00119,compound,https://www.kegg.jp/dbget-bin/www_bget?G00119,G00119,
+15,49,gl:G00118,compound,https://www.kegg.jp/dbget-bin/www_bget?G00118,G00118,
+16,50,gl:G00169,compound,https://www.kegg.jp/dbget-bin/www_bget?G00169,G00169,
+17,51,gl:G00168,compound,https://www.kegg.jp/dbget-bin/www_bget?G00168,G00168,
+18,52,gl:G00166,compound,https://www.kegg.jp/dbget-bin/www_bget?G00166,G00166,
+19,53,gl:G00126,compound,https://www.kegg.jp/dbget-bin/www_bget?G00126,G00126,
+20,54,gl:G00167,compound,https://www.kegg.jp/dbget-bin/www_bget?G00167,G00167,
+21,55,gl:G00125,compound,https://www.kegg.jp/dbget-bin/www_bget?G00125,G00125,
+22,56,hsa:29906,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29906,"ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV",rn:R05947
+23,57,hsa:9197,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9197,"SLC33A1, ACATN, AT-1, AT1, CCHLND, SPG42",
+24,58,hsa:8705,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8705,"B3GALT4, BETA3GALT4, GALT2, GALT4",rn:R05953
+25,59,hsa:2583,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2583,"B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26",rn:R05952
+26,60,hsa:29906,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29906,"ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV",rn:R05950
+27,61,hsa:30815,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:30815,"ST6GALNAC6, SIAT7-F, SIAT7F, ST6GALNACVI",rn:R05951
+28,62,hsa:30815,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:30815,"ST6GALNAC6, SIAT7-F, SIAT7F, ST6GALNACVI",rn:R05945
+29,63,path:hsa00600,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00600,Sphingolipid metabolism,
+30,64,gl:G00115,compound,https://www.kegg.jp/dbget-bin/www_bget?G00115,G00115,
+31,65,hsa:29906,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29906,"ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV",rn:R05958
+32,66,hsa:256435,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:256435,"ST6GALNAC3, PRO7177, SIAT7C, ST6GALNACIII, STY",rn:R05959
+33,67,hsa:6489,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6489,"ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI",rn:R05940
+34,68,hsa:27090,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:27090,"ST6GALNAC4, IV, SIAT3-C, SIAT3C, SIAT7-D, SIAT7D, ST6GALNACIV, ST6GalNAc",rn:R05959
+35,69,hsa:29906,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29906,"ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV",rn:R05943
+36,70,hsa:8705,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8705,"B3GALT4, BETA3GALT4, GALT2, GALT4",rn:R05948
+37,71,hsa:9197,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9197,"SLC33A1, ACATN, AT-1, AT1, CCHLND, SPG42",
+38,72,hsa:6482 hsa:6483,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483,"ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...",rn:R05942
+39,73,hsa:8869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8869,"ST3GAL5, SATI, SIAT9, SIATGM3S, SPDRS, ST3Gal_V, ST3GalV",rn:R05937
+40,74,hsa:2583,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2583,"B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26",rn:R05938
+41,76,hsa:8705,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8705,"B3GALT4, BETA3GALT4, GALT2, GALT4",rn:R05956
+42,77,hsa:8705,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8705,"B3GALT4, BETA3GALT4, GALT2, GALT4",rn:R05941
+43,79,hsa:2583,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2583,"B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26",rn:R05939
+44,80,hsa:6482 hsa:6483,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483,"ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...",rn:R05957
+45,81,hsa:2583,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2583,"B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26",rn:R05946
+46,82,path:hsa00604,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00604,TITLE:Glycosphingolipid biosynthesis - ganglio series,
+47,83,hsa:30815,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:30815,"ST6GALNAC6, SIAT7-F, SIAT7F, ST6GALNACVI",rn:R05959
+48,84,hsa:81849,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:81849,"ST6GALNAC5, SIAT7-E, SIAT7E, ST6GalNAcV",rn:R05959
+49,86,gl:G00092,compound,https://www.kegg.jp/dbget-bin/www_bget?G00092,G00092,
+50,87,gl:G00123,compound,https://www.kegg.jp/dbget-bin/www_bget?G00123,G00123,
+51,88,gl:G00124,compound,https://www.kegg.jp/dbget-bin/www_bget?G00124,G00124,
+52,89,gl:G00112,compound,https://www.kegg.jp/dbget-bin/www_bget?G00112,G00112,
+53,90,gl:G00111,compound,https://www.kegg.jp/dbget-bin/www_bget?G00111,G00111,
+54,91,gl:G00110,compound,https://www.kegg.jp/dbget-bin/www_bget?G00110,G00110,
+55,92,gl:G00109,compound,https://www.kegg.jp/dbget-bin/www_bget?G00109,G00109,
+56,93,gl:G00108,compound,https://www.kegg.jp/dbget-bin/www_bget?G00108,G00108,
+57,94,gl:G00113,compound,https://www.kegg.jp/dbget-bin/www_bget?G00113,G00113,
+58,95,gl:G00114,compound,https://www.kegg.jp/dbget-bin/www_bget?G00114,G00114,
+59,96,gl:G00116,compound,https://www.kegg.jp/dbget-bin/www_bget?G00116,G00116,
+60,97,gl:G00117,compound,https://www.kegg.jp/dbget-bin/www_bget?G00117,G00117,
+61,101,hsa:8705,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8705,"B3GALT4, BETA3GALT4, GALT2, GALT4",rn:R05956 rn:R05941 rn:R05948 rn:R05953
+62,102,hsa:29906,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29906,"ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV",rn:R05958 rn:R05943 rn:R05950 rn:R05955
+63,103,hsa:6482 hsa:6483,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6482+hsa:6483,"ST3GAL1, Gal-NAc6S, SIAT4A, SIATFL, ST3GalA, ST3GalA.1, ST3GalIA, ST3GalIA,1, ST3O...",rn:R05957 rn:R05942 rn:R05949 rn:R05954
+64,105,hsa:256435 hsa:27090 hsa:30815 hsa:81849,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:256435+hsa:27090+hsa:30815+hsa:81849,"ST6GALNAC3, PRO7177, SIAT7C, ST6GALNACIII, STY...",rn:R05959 rn:R05945 rn:R05951
+65,106,hsa:29906 hsa:6489,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29906+hsa:6489,"ST8SIA5, SIAT8-E, SIAT8E, ST8SiaV...",rn:R05947
+66,107,hsa:6489,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6489,"ST8SIA1, GD3S, SIAT8, SIAT8-A, SIAT8A, ST8SiaI",rn:R05940
+67,108,hsa:2583,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2583,"B4GALNT1, GALGT, GALNACT, GalNAc-T, SPG26",rn:R05938 rn:R05939 rn:R05946 rn:R05952
+68,109,hsa:8869,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8869,"ST3GAL5, SATI, SIAT9, SIATGM3S, SPDRS, ST3Gal_V, ST3GalV",rn:R05937

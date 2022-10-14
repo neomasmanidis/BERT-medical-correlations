@@ -1,0 +1,94 @@
+,entry1,entry2,link,value,name,pathway
+0,15,16,PPrel,-->,activation,hsa05226
+1,16,17,PPrel,-->,activation,hsa05226
+2,17,8,PPrel,-->,activation,hsa05226
+3,8,9,PPrel,-->,activation,hsa05226
+4,36,40,PCrel,-->,activation,hsa05226
+5,40,37,PCrel,-->,activation,hsa05226
+6,21,22,PPrel,-->,activation,hsa05226
+7,239,118,PCrel,-->,activation,hsa05226
+8,79,85,PPrel,-/-,missing interaction,hsa05226
+9,79,86,PPrel,-/-,missing interaction,hsa05226
+10,79,87,PPrel,-/-,missing interaction,hsa05226
+11,79,88,PPrel,-/-,missing interaction,hsa05226
+12,79,89,PPrel,-/-,missing interaction,hsa05226
+13,79,90,PPrel,-/-,missing interaction,hsa05226
+14,95,240,PPrel,-->,activation,hsa05226
+15,240,96,PPrel,-/-,missing interaction,hsa05226
+16,96,98,PPrel,---,binding/association,hsa05226
+17,61,241,PPrel,-->,activation,hsa05226
+18,60,58,PPrel,-->,activation,hsa05226
+19,58,57,PPrel,---,binding/association,hsa05226
+20,58,56,PPrel,--|,inhibition,hsa05226
+21,55,51,PPrel,-->,activation,hsa05226
+22,51,50,GErel,-->,expression,hsa05226
+23,51,49,GErel,-->,expression,hsa05226
+24,108,109,PPrel,-->,activation,hsa05226
+25,109,31,PPrel,-->,activation,hsa05226
+26,31,32,PPrel,-->,activation,hsa05226
+27,32,26,PPrel,-->,activation,hsa05226
+28,26,27,PPrel,-->,activation,hsa05226
+29,109,129,PPrel,-->,activation,hsa05226
+30,129,42,PPrel,-->,activation,hsa05226
+31,42,47,PCrel,-->,activation,hsa05226
+32,47,43,PCrel,-->,activation,hsa05226
+33,238,244,PPrel,-->,activation,hsa05226
+34,244,15,PPrel,-->,activation,hsa05226
+35,244,36,PPrel,-->,activation,hsa05226
+36,185,186,PPrel,--|,inhibition,hsa05226
+37,189,187,PPrel,-->,activation,hsa05226
+38,187,31,PPrel,-->,activation,hsa05226
+39,187,129,PPrel,-->,activation,hsa05226
+40,43,232,PPrel,--|,inhibition,hsa05226
+41,153,154,PPrel,---,binding/association,hsa05226
+42,153,156,PPrel,---,binding/association,hsa05226
+43,155,223,PPrel,-->,activation,hsa05226
+44,223,157,GErel,-->,expression,hsa05226
+45,223,158,GErel,-->,expression,hsa05226
+46,149,226,GErel,-->,expression,hsa05226
+47,149,229,GErel,-->,expression,hsa05226
+48,149,227,GErel,-->,expression,hsa05226
+49,149,228,GErel,-->,expression,hsa05226
+50,149,184,GErel,--|,repression,hsa05226
+51,171,170,PPrel,-+-,dissociation,hsa05226
+52,247,144,PCrel,-->,activation,hsa05226
+53,9,10,PPrel,-->,activation,hsa05226
+54,9,10,PPrel,+p,phosphorylation,hsa05226
+55,10,11,PPrel,-->,activation,hsa05226
+56,10,11,PPrel,+p,phosphorylation,hsa05226
+57,37,21,PPrel,-->,activation,hsa05226
+58,37,21,PPrel,..>,indirect effect,hsa05226
+59,242,243,PPrel,--|,inhibition,hsa05226
+60,242,243,PPrel,+p,phosphorylation,hsa05226
+61,27,28,PPrel,-->,activation,hsa05226
+62,27,28,PPrel,+p,phosphorylation,hsa05226
+63,28,29,PPrel,-->,activation,hsa05226
+64,28,29,PPrel,+p,phosphorylation,hsa05226
+65,43,35,PPrel,-->,activation,hsa05226
+66,43,35,PPrel,..>,indirect effect,hsa05226
+67,37,185,PPrel,--|,inhibition,hsa05226
+68,37,185,PPrel,+p,phosphorylation,hsa05226
+69,153,155,PPrel,---,binding/association,hsa05226
+70,153,155,PPrel,-/-,missing interaction,hsa05226
+71,203,209,GErel,-->,expression,hsa05226
+72,203,209,GErel,-/-,missing interaction,hsa05226
+73,203,210,GErel,-->,expression,hsa05226
+74,203,210,GErel,-/-,missing interaction,hsa05226
+75,203,211,GErel,-->,expression,hsa05226
+76,203,211,GErel,-/-,missing interaction,hsa05226
+77,203,212,GErel,-->,expression,hsa05226
+78,203,212,GErel,-/-,missing interaction,hsa05226
+79,203,213,GErel,-->,expression,hsa05226
+80,203,213,GErel,-/-,missing interaction,hsa05226
+81,203,214,GErel,-->,expression,hsa05226
+82,203,214,GErel,-/-,missing interaction,hsa05226
+83,194,245,PCrel,-->,activation,hsa05226
+84,194,245,PCrel,-/-,missing interaction,hsa05226
+85,169,246,PPrel,--|,inhibition,hsa05226
+86,169,246,PPrel,-/-,missing interaction,hsa05226
+87,246,171,PPrel,-->,activation,hsa05226
+88,246,171,PPrel,+p,phosphorylation,hsa05226
+89,96,191,GErel,-->,expression,hsa05226
+90,96,191,GErel,-/-,missing interaction,hsa05226
+91,96,192,GErel,-->,expression,hsa05226
+92,96,192,GErel,-/-,missing interaction,hsa05226

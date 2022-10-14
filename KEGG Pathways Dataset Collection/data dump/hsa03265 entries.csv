@@ -1,0 +1,10 @@
+,id,name,type,link,gene_names,reaction
+0,24,path:hsa03265,map,https://www.kegg.jp/dbget-bin/www_bget?hsa03265,TITLE:Virion - Lyssavirus,
+1,16,hsa:4804,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4804,"NGFR, CD271, Gp80-LNGFR, TNFRSF16, p75(NTR), p75NTR",
+2,17,hsa:1134,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1134,"CHRNA1, ACHRA, ACHRD, CHRNA, CMS1A, CMS1B, CMS2A, FCCMS, SCCMS",
+3,18,hsa:4684 hsa:4685,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4684+hsa:4685,"NCAM1, CD56, MSK39, NCAM...",
+4,14,ko:K26025,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K26025,K26025,
+5,13,ko:K25341,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K25341,K25341,
+6,15,ko:K21316,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K21316,K21316,
+7,29,ko:K24589,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K24589,K24589,
+8,30,ko:K25342,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K25342,K25342,

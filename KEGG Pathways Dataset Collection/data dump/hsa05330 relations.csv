@@ -1,0 +1,8 @@
+,entry1,entry2,link,value,name,pathway
+0,82,83,PPrel,-->,activation,hsa05330
+1,44,45,PPrel,-->,activation,hsa05330
+2,68,59,PPrel,-->,activation,hsa05330
+3,112,113,PPrel,-->,activation,hsa05330
+4,127,85,PPrel,-->,activation,hsa05330
+5,120,118,PPrel,-->,activation,hsa05330
+6,78,128,PPrel,---,binding/association,hsa05330

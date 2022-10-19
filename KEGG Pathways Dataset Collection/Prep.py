@@ -1,4 +1,3 @@
-import collections
 import csv
 from tqdm import tqdm
 import requests
@@ -14,11 +13,8 @@ for entry in s:
     maps.append(entry[8:13])  # keep only map number, organism will be human only (hsa)
 
 not_hsa = []        # Will store maps that do not provide kgml file
-only_entries = []   # Will store maps that provide an entries table, but don't provide a relation table
-useful_maps = []    # Will store maps that provided a kgml file, entries and relations table
-
-df_all_relations = pd.DataFrame(columns=['entry1', 'entry2', 'link', 'value', 'name', 'pathway'])
-df_all_entries = pd.DataFrame(columns=['id', 'name', 'type', 'link', 'gene_names'])
+only_entries = []   # Will store maps that provide an entries table, but don't provide a relation or reactions table
+useful_maps = []    # Will store maps that provided a kgml file, entries and relations or reactions table
 
 print("Loading data from each map..")
 status = tqdm(maps)
@@ -45,18 +41,14 @@ for m in status:
         df_entries = df_entries[['id', 'name', 'type', 'link', 'gene_names', 'reaction']]
         # Store to csv in "data dump" folder
         df_entries.to_csv('data dump/hsa' + m + ' entries.csv')
-        # Append data from current map to total data
-        df_all_entries = pd.concat([df_all_entries, df_entries], ignore_index=True)
 
         # ----- Handle Relations data -----
         if 'relation' in data['pathway'].keys():
             # Check if single entry or list of dictionaries
             if isinstance(data['pathway']['relation'], list):
                 df_relations = pd.DataFrame.from_dict(data['pathway']['relation'])
-            elif isinstance(data['pathway']['relation'], collections.OrderedDict):
-                df_relations = pd.DataFrame.from_dict(data['pathway']['relation'], orient='index').T
             else:
-                raise Exception("Unexpected data type")
+                df_relations = pd.DataFrame.from_dict(data['pathway']['relation'], orient='index').T
 
             if 'subtype' in df_relations.keys():  # If there are subtype data (Relation type name/value)
                 # Check for multiple subtypes
@@ -81,7 +73,6 @@ for m in status:
                                           df_relations['subtype'].apply(pd.Series)], axis=1)
                 # Append supplementary rows
                 df_relations = pd.concat([df_relations, df_supp], ignore_index=True)
-                useful_maps.append('hsa' + m)
 
             else:  # If no subtype data, then fill in blanks
                 df_relations['@name'] = ''
@@ -95,19 +86,53 @@ for m in status:
             df_relations['pathway'] = 'hsa' + m
             # Store to csv in "data dump" folder
             df_relations.to_csv('data dump/hsa' + m + ' relations.csv')
-            # Append data from current map to total data
-            df_all_relations = pd.concat([df_all_relations, df_relations], ignore_index=True)
 
-        else:
+        # ----- Handle Reactions data -----
+        if 'reaction' in data['pathway'].keys():
+            # Check if single entry or list of dictionaries
+            if isinstance(data['pathway']['reaction'], list):
+                df_reactions = pd.DataFrame.from_dict(data['pathway']['reaction'])
+            else:
+                df_reactions = pd.DataFrame.from_dict(data['pathway']['reaction'], orient='index').T
+
+            df_reactions_relations = pd.DataFrame()
+            for i, row in df_reactions.iterrows():
+                if isinstance(df_reactions['substrate'][i], list):
+                    substrate_list = df_reactions['substrate'][i]
+                else:
+                    substrate_list = [df_reactions['substrate'][i]]
+
+                if isinstance(df_reactions['product'][i], list):
+                    product_list = df_reactions['product'][i]
+                else:
+                    product_list = [df_reactions['product'][i]]
+
+                for j in range(0, len(substrate_list)):
+                    for k in range(0, len(product_list)):
+                        # print(substrate_list[j]['@name'] + ' -> ' + product_list[k]['@name'])
+                        temp = pd.DataFrame({'head id': substrate_list[j]['@name'],
+                                             'head name': substrate_list[j]['@name'],
+                                             'tail id': product_list[k]['@name'],
+                                             'tail name': product_list[k]['@name'], 'link type': 'reaction',
+                                             'relation name': df_reactions['@name'][i],
+                                             'relation value': df_reactions['@type'][i],
+                                             'entry1': substrate_list[j]['@id'],
+                                             'entry2': product_list[k]['@id'],
+                                             'pathway': 'hsa'+m},
+                                            index=[0])
+                        df_reactions_relations = pd.concat([df_reactions_relations, temp], ignore_index=True)
+
+            df_reactions_relations.to_csv('data dump/hsa' + m + ' reactions.csv')
+
+        if 'relation' not in data['pathway'].keys() and 'reaction' not in data['pathway'].keys():
             only_entries.append(m)
+        else:
+            useful_maps.append('hsa' + m)
 
     else:
         # print("No kgml file found")
         not_hsa.append(m)
 
-# Store total data
-df_all_relations.to_csv("All relations.csv")
-df_all_entries.to_csv("All entries.csv")
 
 with open('Useful maps.csv', 'w', encoding='UTF8', newline='') as f:
     writer = csv.writer(f)

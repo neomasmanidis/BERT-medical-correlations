@@ -1,0 +1,21 @@
+,head id,head name,tail id,tail name,link type,relation name,relation value,entry1,entry2,pathway
+0,cpd:C03372,cpd:C03372,cpd:C03715,cpd:C03715,reaction,rn:R04311,irreversible,18,19,hsa00565
+1,cpd:C04598,cpd:C04598,cpd:C04317,cpd:C04317,reaction,rn:R04452,irreversible,17,11,hsa00565
+2,cpd:C03820,cpd:C03820,cpd:C04598,cpd:C04598,reaction,rn:R04321,irreversible,16,17,hsa00565
+3,cpd:C04475,cpd:C04475,cpd:C04756,cpd:C04756,reaction,rn:R04571,irreversible,26,10,hsa00565
+4,cpd:C03201,cpd:C03201,cpd:C04475,cpd:C04475,reaction,rn:R06364,irreversible,14,26,hsa00565
+5,cpd:C04635,cpd:C04635,cpd:C15646,cpd:C15646,reaction,rn:R07388,irreversible,15,6,hsa00565
+6,cpd:C05977,cpd:C05977,cpd:C03201,cpd:C03201,reaction,rn:R04162,irreversible,27,14,hsa00565
+7,cpd:C01233,cpd:C01233,cpd:C04635,cpd:C04635,reaction,rn:R03415,irreversible,12,15,hsa00565
+8,cpd:C05212,cpd:C05212,cpd:C04317,cpd:C04317,reaction,rn:R07387,irreversible,20,11,hsa00565
+9,cpd:C04756,cpd:C04756,cpd:C03454,cpd:C03454,reaction,rn:R07384,reversible,10,23,hsa00565
+10,cpd:C04756,cpd:C04756,cpd:C15647,cpd:C15647,reaction,rn:R07385,irreversible,10,5,hsa00565
+11,cpd:C04756,cpd:C04756,cpd:C04635,cpd:C04635,reaction,rn:R07379,irreversible,10,15,hsa00565
+12,cpd:C04317,cpd:C04317,cpd:C05212,cpd:C05212,reaction,rn:R03438,irreversible,11,20,hsa00565
+13,cpd:C04317,cpd:C04317,cpd:C04598,cpd:C04598,reaction,rn:R03437,irreversible,11,17,hsa00565
+14,cpd:C03201,cpd:C03201,cpd:C05212,cpd:C05212,reaction,rn:R07389,irreversible,14,20,hsa00565
+15,cpd:C04517,cpd:C04517,cpd:C00670,cpd:C00670,reaction,rn:R02745,irreversible,22,24,hsa00565
+16,cpd:C04635,cpd:C04635,cpd:C15645,cpd:C15645,reaction,rn:R07380,irreversible,15,7,hsa00565
+17,cpd:C04635,cpd:C04635,cpd:C04756,cpd:C04756,reaction,rn:R04413,irreversible,15,10,hsa00565
+18,cpd:C03201,cpd:C03201,cpd:C20859,cpd:C20859,reaction,rn:R10804,irreversible,14,89,hsa00565
+19,cpd:C20859,cpd:C20859,cpd:C20825,cpd:C20825,reaction,rn:R10805,irreversible,89,90,hsa00565

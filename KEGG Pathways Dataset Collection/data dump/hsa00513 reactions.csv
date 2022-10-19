@@ -1,0 +1,26 @@
+,head id,head name,tail id,tail name,link type,relation name,relation value,entry1,entry2,pathway
+0,gl:G10694,gl:G10694,gl:G00012,gl:G00012,reaction,rn:R12479,irreversible,295,21,hsa00513
+1,gl:G00015,gl:G00015,gl:G00016,gl:G00016,reaction,rn:R05988,irreversible,159,115,hsa00513
+2,gl:G00016,gl:G00016,gl:G00017,gl:G00017,reaction,rn:R05989,irreversible,115,118,hsa00513
+3,gl:G10694,gl:G10694,gl:G00012,gl:G00012,reaction,rn:R12479,irreversible,304,153,hsa00513
+4,gl:G00012,gl:G00012,gl:G00013,gl:G00013,reaction,rn:R05983,irreversible,153,152,hsa00513
+5,gl:G00013,gl:G00013,gl:G00014,gl:G00014,reaction,rn:R05984,irreversible,152,151,hsa00513
+6,gl:G00014,gl:G00014,gl:G00015,gl:G00015,reaction,rn:R05985,irreversible,151,159,hsa00513
+7,gl:G10694,gl:G10694,gl:G00012,gl:G00012,reaction,rn:R12479,irreversible,298,168,hsa00513
+8,gl:G00012,gl:G00012,gl:G00013,gl:G00013,reaction,rn:R05983,irreversible,168,169,hsa00513
+9,gl:G00013,gl:G00013,gl:G00014,gl:G00014,reaction,rn:R05984,irreversible,169,170,hsa00513
+10,gl:G00014,gl:G00014,gl:G10770,gl:G10770,reaction,rn:R09319,irreversible,170,176,hsa00513
+11,gl:G13057,gl:G13057,gl:G13058,gl:G13058,reaction,rn:R09323,irreversible,180,183,hsa00513
+12,gl:G00013,gl:G00013,gl:G00014,gl:G00014,reaction,rn:R05984,irreversible,229,230,hsa00513
+13,gl:G00012,gl:G00012,gl:G00013,gl:G00013,reaction,rn:R05983,irreversible,228,229,hsa00513
+14,gl:G10694,gl:G10694,gl:G00012,gl:G00012,reaction,rn:R12479,irreversible,301,228,hsa00513
+15,gl:G00014,gl:G00014,gl:G10770,gl:G10770,reaction,rn:R09319,irreversible,230,238,hsa00513
+16,gl:G00011,gl:G00011,gl:G10694,gl:G10694,reaction,rn:R06722,irreversible,270,280,hsa00513
+17,gl:G00014,gl:G00014,gl:G00015,gl:G00015,reaction,rn:R05985,irreversible,273,256,hsa00513
+18,gl:G00013,gl:G00013,gl:G00014,gl:G00014,reaction,rn:R05984,irreversible,272,273,hsa00513
+19,gl:G00012,gl:G00012,gl:G00013,gl:G00013,reaction,rn:R05983,irreversible,271,272,hsa00513
+20,gl:G10694,gl:G10694,gl:G00012,gl:G00012,reaction,rn:R12479,irreversible,280,271,hsa00513
+21,gl:G00011,gl:G00011,gl:G10694,gl:G10694,reaction,rn:R06722,irreversible,36,295,hsa00513
+22,gl:G00011,gl:G00011,gl:G10694,gl:G10694,reaction,rn:R06722,irreversible,167,298,hsa00513
+23,gl:G00011,gl:G00011,gl:G10694,gl:G10694,reaction,rn:R06722,irreversible,227,301,hsa00513
+24,gl:G00011,gl:G00011,gl:G10694,gl:G10694,reaction,rn:R06722,irreversible,154,304,hsa00513

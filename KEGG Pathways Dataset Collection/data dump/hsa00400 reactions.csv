@@ -1,0 +1,8 @@
+,head id,head name,tail id,tail name,link type,relation name,relation value,entry1,entry2,pathway
+0,cpd:C00166,cpd:C00166,cpd:C00079,cpd:C00079,reaction,rn:R00694,reversible,114,102,hsa00400
+1,cpd:C00079,cpd:C00079,cpd:C00166,cpd:C00166,reaction,rn:R00689,irreversible,102,114,hsa00400
+2,cpd:C00079,cpd:C00079,cpd:C00082,cpd:C00082,reaction,rn:R01795,irreversible,102,110,hsa00400
+3,cpd:C00082,cpd:C00082,cpd:C01179,cpd:C01179,reaction,rn:R00729,irreversible,110,111,hsa00400
+4,cpd:C00082,cpd:C00082,cpd:C01179,cpd:C01179,reaction,rn:R00734,reversible,110,111,hsa00400
+5,cpd:C00166,cpd:C00166,cpd:C00079,cpd:C00079,reaction,rn:R00694,reversible,114,102,hsa00400
+6,cpd:C00082,cpd:C00082,cpd:C01179,cpd:C01179,reaction,rn:R00734,reversible,110,111,hsa00400

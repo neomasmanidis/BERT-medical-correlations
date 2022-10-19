@@ -65,8 +65,8 @@ for index, entry in status:
             head_name = extract_glycan(r1.text)
             if head_name[0:3] == 'cpd':  # If this glycan is also a compound
                 r1 = requests.get('http://rest.kegg.jp/get/' + head_name)
-                # change head id to cpd
-                entry['head id'] = head_name
+                # change head id to cpd in all entries
+                df_final_data.loc[df_final_data["head id"] == entry['head id'], "head id"] = head_name
                 # find cpd name
                 head_name = extract_compound_name(r1.text)
             df_final_data.at[index, 'head full name'] = head_name
@@ -92,14 +92,14 @@ for index, entry in status:
             tail_name = extract_gene_name(r2.text)
             df_final_data.at[index, 'tail full name'] = tail_name
         elif entry['tail id'][0:2] == 'gl':
-            head_name = extract_glycan(r2.text)
-            if head_name[0:3] == 'cpd':
-                r2 = requests.get('http://rest.kegg.jp/get/' + head_name)
-                # change head id to cpd
-                entry['tail id'] = head_name
+            tail_name = extract_glycan(r2.text)
+            if tail_name[0:3] == 'cpd':
+                r2 = requests.get('http://rest.kegg.jp/get/' + tail_name)
+                # change tail id to cpd in all entries
+                df_final_data.loc[df_final_data["tail id"] == entry['tail id'], "tail id"] = tail_name
                 # find cpd name
-                head_name = extract_compound_name(r2.text)
-            df_final_data.at[index, 'tail full name'] = head_name
+                tail_name = extract_compound_name(r2.text)
+            df_final_data.at[index, 'tail full name'] = tail_name
         else:
             try:
                 tail_name = extract_compound_name(r2.text)

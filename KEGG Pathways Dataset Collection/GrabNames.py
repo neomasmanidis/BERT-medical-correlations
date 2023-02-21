@@ -42,7 +42,7 @@ def extract_glycan(text):
         return name
 
 
-df_final_data = pd.read_csv("All_relations-Curated-test2.csv")
+df_final_data = pd.read_csv("All_relations-Curated.csv")
 df_final_data['head full name'] = ''
 df_final_data['tail full name'] = ''
 found_names_dict = {}

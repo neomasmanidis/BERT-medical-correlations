@@ -2,6 +2,14 @@
 0,gl:G00157,gl:G00157,gl:G00162,gl:G00162,reaction,rn:R05930,irreversible,14,13,hsa00534
 1,gl:G00163,gl:G00163,gl:G00164,gl:G00164,reaction,rn:R05936,irreversible,12,11,hsa00534
 2,gl:G00162,gl:G00162,gl:G00163,gl:G00163,reaction,rn:R05935,irreversible,13,12,hsa00534
-3,gl:G00157,gl:G00157,gl:G00162,gl:G00162,reaction,rn:R05930,irreversible,14,13,hsa00534
-4,gl:G00162,gl:G00162,gl:G00163,gl:G00163,reaction,rn:R05935,irreversible,13,12,hsa00534
-5,gl:G00163,gl:G00163,gl:G00164,gl:G00164,reaction,rn:R05936,irreversible,12,11,hsa00534
+3,cpd:C02189,cpd:C02189,gl:G00154,gl:G00154,reaction,rn:R05925,irreversible,173,169,hsa00534
+4,gl:G00154,gl:G00154,gl:G00155,gl:G00155,reaction,rn:R05926,irreversible,169,168,hsa00534
+5,gl:G00155,gl:G00155,gl:G00156,gl:G00156,reaction,rn:R05927,irreversible,168,167,hsa00534
+6,gl:G00156,gl:G00156,gl:G00157,gl:G00157,reaction,rn:R05928,irreversible,167,14,hsa00534
+7,gl:G00157,gl:G00157,gl:G00162,gl:G00162,reaction,rn:R05930,irreversible,14,13,hsa00534
+8,gl:G00162,gl:G00162,gl:G00163,gl:G00163,reaction,rn:R05935,irreversible,13,12,hsa00534
+9,gl:G00163,gl:G00163,gl:G00164,gl:G00164,reaction,rn:R05936,irreversible,12,11,hsa00534
+10,gl:G00155,gl:G00155,gl:G00156,gl:G00156,reaction,rn:R05927,irreversible,168,167,hsa00534
+11,gl:G00154,gl:G00154,gl:G00155,gl:G00155,reaction,rn:R05926,irreversible,169,168,hsa00534
+12,cpd:C02189,cpd:C02189,gl:G00154,gl:G00154,reaction,rn:R05925,irreversible,173,169,hsa00534
+13,gl:G00156,gl:G00156,gl:G00157,gl:G00157,reaction,rn:R05928,irreversible,167,14,hsa00534

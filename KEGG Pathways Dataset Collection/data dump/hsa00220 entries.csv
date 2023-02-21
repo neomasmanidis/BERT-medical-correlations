@@ -18,7 +18,7 @@
 16,46,hsa:2752,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2752,"GLUL, GLNS, GS, PIG43, PIG59",rn:R00253
 17,47,ko:K00926,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00926,K00926,rn:R00150
 18,48,hsa:1373,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1373,"CPS1, CPSASE1, GATD6, PHN",rn:R00149
-19,49,hsa:5009,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5009,"OTC, OCTD, OTCD",rn:R01398
+19,49,hsa:5009,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5009,"OTC, OCTD, OTC1, OTCD, OTCase",rn:R01398
 20,50,hsa:445,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:445,"ASS1, ASS, CTLN1",rn:R01954
 21,51,path:hsa00250,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00250,"Alanine, aspartate and glutamate metabolism",
 22,52,hsa:435,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:435,"ASL, ASAL",rn:R01086
@@ -50,7 +50,7 @@
 48,85,cpd:C00026,compound,https://www.kegg.jp/dbget-bin/www_bget?C00026,C00026,
 49,87,path:hsa00020,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00020,Citrate cycle (TCA cycle),
 50,88,hsa:137362 hsa:2805 hsa:2806,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:137362+hsa:2805+hsa:2806,GOT1L1...,rn:R00355
-51,89,hsa:2875 hsa:84706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2875+hsa:84706,"GPT, AAT1, ALT1, GPT1...",rn:R00258
+51,89,hsa:2875 hsa:84706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2875+hsa:84706,"GPT, AAT1, ALT, ALT1, GPT1, SGPT...",rn:R00258
 52,90,cpd:C00437,compound,https://www.kegg.jp/dbget-bin/www_bget?C00437,C00437,
 53,91,path:hsa00220,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00220,TITLE:Arginine biosynthesis,
 54,96,cpd:C20948,compound,https://www.kegg.jp/dbget-bin/www_bget?C20948,C20948,

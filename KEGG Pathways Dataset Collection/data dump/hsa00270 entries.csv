@@ -18,8 +18,8 @@
 16,77,ko:K00832 ko:K00838,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00832+K00838,K00832...,rn:R07396
 17,78,hsa:6898,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6898,TAT,rn:R07396
 18,79,ko:K08966,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K08966,K08966,rn:R07394
-19,80,hsa:55256,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55256,"ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD",rn:R07364
-20,81,hsa:55256,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55256,"ADI1, APL1, ARD, Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD",rn:R07363
+19,80,hsa:55256,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55256,"ADI1, APL1, ARD, ARD', Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD",rn:R07364
+20,81,hsa:55256,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55256,"ADI1, APL1, ARD, ARD', Fe-ARD, HMFT1638, MTCBP1, Ni-ARD, SIPL, mtnD",rn:R07363
 21,82,ko:K08965,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K08965,K08965,rn:R07393
 22,83,hsa:51074,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51074,"APIP, APIP2, CGI-29, CGI29, MMRP19, hAPIP",rn:R07392
 23,84,hsa:84245,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:84245,"MRI1, M1Pi, MRDI, MTNA, Ypr118w",rn:R04420

@@ -110,6 +110,8 @@
 108,210,ko:K09788,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K09788,K09788,rn:R11264
 109,212,ko:K22214,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K22214,K22214,rn:R11773
 110,213,ko:K14729,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K14729,K14729,rn:R03045
-111,214,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R12356
+111,214,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R12356
 112,215,cpd:C00894,compound,https://www.kegg.jp/dbget-bin/www_bget?C00894,C00894,
 113,216,ko:K25571,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K25571,K25571,rn:R00908
+114,218,cpd:C00511,compound,https://www.kegg.jp/dbget-bin/www_bget?C00511,C00511,
+115,219,ko:K26355,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K26355,K26355,rn:R13136

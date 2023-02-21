@@ -58,6 +58,7 @@
 56,90,cpd:C21214,compound,https://www.kegg.jp/dbget-bin/www_bget?C21214,C21214,
 57,92,cpd:C00235,compound,https://www.kegg.jp/dbget-bin/www_bget?C00235,C00235,
 58,94,path:hsa00900,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00900,Terpenoid backbone biosynthesis,
-59,95,ko:K01515 ko:K12152 ko:K25520,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01515+K12152+K25520,K01515...,rn:R12896
+59,95,ko:K25520,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K25520,K25520,rn:R12896
 60,97,ko:K00878,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00878,K00878,rn:R12897
 61,98,cpd:C01390,compound,https://www.kegg.jp/dbget-bin/www_bget?C01390,C01390,
+62,99,ko:K01515 ko:K12152,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01515+K12152,K01515...,rn:R12896

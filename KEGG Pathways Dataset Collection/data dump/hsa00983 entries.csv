@@ -76,8 +76,8 @@
 74,128,hsa:10201 hsa:29922 hsa:4830 hsa:4831 hsa:4832 hsa:4833 hsa:654364,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10201+hsa:29922+hsa:4830+hsa:4831+hsa:4832+hsa:4833+hsa:654364,"NME6, IPIA-ALPHA, NDK_6, NM23-H6...",rn:R11894
 75,129,hsa:51727,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51727,"CMPK1, CK, CMK, CMPK, UMK, UMP-CMPK, UMPK",rn:R11892
 76,130,hsa:10201 hsa:29922 hsa:4830 hsa:4831 hsa:4832 hsa:4833 hsa:654364,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10201+hsa:29922+hsa:4830+hsa:4831+hsa:4832+hsa:4833+hsa:654364,"NME6, IPIA-ALPHA, NDK_6, NM23-H6...",rn:R11895
-77,132,hsa:50484 hsa:6240 hsa:6241,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:50484+hsa:6240+hsa:6241,"RRM2B, MTDPS8A, MTDPS8B, P53R2...",rn:R11893
-78,134,hsa:1854,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1854,"DUT, dUTPase",rn:R11896
+77,132,hsa:50484 hsa:6240 hsa:6241,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:50484+hsa:6240+hsa:6241,"RRM2B, MTDPS8A, MTDPS8B, P53R2, RCDFRD...",rn:R11893
+78,134,hsa:1854,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1854,"DUT, BMFDMS, dUTPase",rn:R11896
 79,135,hsa:1548 hsa:1549,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549,"CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...",rn:R08225
 80,137,cpd:C21754,compound,https://www.kegg.jp/dbget-bin/www_bget?C21754,C21754,
 81,139,ko:K03782,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03782,K03782,rn:R11906

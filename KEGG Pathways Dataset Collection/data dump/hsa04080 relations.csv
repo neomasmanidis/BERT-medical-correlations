@@ -101,3 +101,6 @@
 99,309,120,PPrel,-->,activation,hsa04080
 100,308,306,PPrel,-->,activation,hsa04080
 101,305,303,PPrel,-->,activation,hsa04080
+102,325,324,PCrel,-->,activation,hsa04080
+103,317,314,PCrel,-->,activation,hsa04080
+104,319,326,PCrel,-->,activation,hsa04080

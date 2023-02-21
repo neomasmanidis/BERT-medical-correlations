@@ -1,29 +1,29 @@
 ,head id,head name,tail id,tail name,link type,relation name,relation value,entry1,entry2,pathway
-0,dr:D04931 cpd:C02380,dr:D04931 cpd:C02380,cpd:C16614,cpd:C16614,reaction,rn:R08236,irreversible,47,41,hsa00983
+0,dr:D04931,dr:D04931 cpd:C02380,cpd:C16614,cpd:C16614,reaction,rn:R08236,irreversible,47,41,hsa00983
 1,cpd:C04646,cpd:C04646,cpd:C16615,cpd:C16615,reaction,rn:R08239,irreversible,14,42,hsa00983
 2,cpd:C16619,cpd:C16619,cpd:C16620,cpd:C16620,reaction,rn:R08246,irreversible,44,43,hsa00983
 3,cpd:C16614,cpd:C16614,cpd:C16615,cpd:C16615,reaction,rn:R08238,irreversible,41,42,hsa00983
-4,dr:D04931 cpd:C02380,dr:D04931 cpd:C02380,cpd:C04646,cpd:C04646,reaction,rn:R08237,irreversible,47,14,hsa00983
-5,dr:D08603 cpd:C07648,dr:D08603 cpd:C07648,cpd:C16619,cpd:C16619,reaction,rn:R08245,irreversible,45,44,hsa00983
+4,dr:D04931,dr:D04931 cpd:C02380,cpd:C04646,cpd:C04646,reaction,rn:R08237,irreversible,47,14,hsa00983
+5,dr:D08603,dr:D08603 cpd:C07648,cpd:C16619,cpd:C16619,reaction,rn:R08245,irreversible,45,44,hsa00983
 6,cpd:C16618,cpd:C16618,cpd:C16619,cpd:C16619,reaction,rn:R08244,irreversible,46,44,hsa00983
 7,cpd:C16617,cpd:C16617,cpd:C04646,cpd:C04646,reaction,rn:R08243,irreversible,51,14,hsa00983
-8,dr:D04931 cpd:C02380,dr:D04931 cpd:C02380,cpd:C16613,cpd:C16613,reaction,rn:R08235,irreversible,47,50,hsa00983
-9,dr:D00346 cpd:C07054,dr:D00346 cpd:C07054,cpd:C07585,cpd:C07585,reaction,rn:R08248,irreversible,9,55,hsa00983
+8,dr:D04931,dr:D04931 cpd:C02380,cpd:C16613,cpd:C16613,reaction,rn:R08235,irreversible,47,50,hsa00983
+9,dr:D00346,dr:D00346 cpd:C07054,cpd:C07585,cpd:C07585,reaction,rn:R08248,irreversible,9,55,hsa00983
 10,cpd:C07447,cpd:C07447,cpd:C16622,cpd:C16622,reaction,rn:R08250,irreversible,56,58,hsa00983
-11,dr:D00584 cpd:C07649,dr:D00584 cpd:C07649,cpd:C16633,cpd:C16633,reaction,rn:R08229,reversible,60,66,hsa00983
-12,dr:D00584 cpd:C07649,dr:D00584 cpd:C07649,dr:D04197 cpd:C11736,dr:D04197 cpd:C11736,reaction,rn:R08230,reversible,60,67,hsa00983
-13,dr:D00584 cpd:C07649,dr:D00584 cpd:C07649,cpd:C16630,cpd:C16630,reaction,rn:R08226,irreversible,60,62,hsa00983
+11,dr:D00584,dr:D00584 cpd:C07649,cpd:C16633,cpd:C16633,reaction,rn:R08229,reversible,60,66,hsa00983
+12,dr:D00584,dr:D00584 cpd:C07649,dr:D04197,dr:D04197 cpd:C11736,reaction,rn:R08230,reversible,60,67,hsa00983
+13,dr:D00584,dr:D00584 cpd:C07649,cpd:C16630,cpd:C16630,reaction,rn:R08226,irreversible,60,62,hsa00983
 14,cpd:C16630,cpd:C16630,cpd:C16631,cpd:C16631,reaction,rn:R08227,irreversible,62,63,hsa00983
 15,cpd:C16631,cpd:C16631,cpd:C16632,cpd:C16632,reaction,rn:R08228,irreversible,63,64,hsa00983
-16,dr:D00584 cpd:C07649,dr:D00584 cpd:C07649,cpd:C16634,cpd:C16634,reaction,rn:R08231,irreversible,60,65,hsa00983
+16,dr:D00584,dr:D00584 cpd:C07649,cpd:C16634,cpd:C16634,reaction,rn:R08231,irreversible,60,65,hsa00983
 17,cpd:C16633,cpd:C16633,cpd:C16634,cpd:C16634,reaction,rn:R08232,irreversible,66,65,hsa00983
-18,dr:D04197 cpd:C11736,dr:D04197 cpd:C11736,cpd:C04242,cpd:C04242,reaction,rn:R08233,irreversible,67,68,hsa00983
+18,dr:D04197,dr:D04197 cpd:C11736,cpd:C04242,cpd:C04242,reaction,rn:R08233,irreversible,67,68,hsa00983
 19,cpd:C04646,cpd:C04646,cpd:C16618,cpd:C16618,reaction,rn:R08240,irreversible,14,46,hsa00983
-20,dr:D01244 cpd:C12673,dr:D01244 cpd:C12673,dr:D00584 cpd:C07649,dr:D00584 cpd:C07649,reaction,rn:R08225,irreversible,61,60,hsa00983
-21,dr:D01309 cpd:C12739,dr:D01309 cpd:C12739,dr:D00584 cpd:C07649,dr:D00584 cpd:C07649,reaction,rn:R08222,irreversible,95,60,hsa00983
-22,cpd:C16635,cpd:C16635,dr:D01309 cpd:C12739,dr:D01309 cpd:C12739,reaction,rn:R08221,irreversible,98,95,hsa00983
-23,dr:D01223 cpd:C12650,dr:D01223 cpd:C12650,cpd:C16635,cpd:C16635,reaction,rn:R08220,irreversible,16,98,hsa00983
-24,dr:D08086 cpd:C16641,dr:D08086 cpd:C16641,cpd:C11173,cpd:C11173,reaction,rn:R08255,irreversible,106,109,hsa00983
+20,dr:D01244,dr:D01244 cpd:C12673,dr:D00584,dr:D00584 cpd:C07649,reaction,rn:R08225,irreversible,61,60,hsa00983
+21,dr:D01309,dr:D01309 cpd:C12739,dr:D00584,dr:D00584 cpd:C07649,reaction,rn:R08222,irreversible,95,60,hsa00983
+22,cpd:C16635,cpd:C16635,dr:D01309,dr:D01309 cpd:C12739,reaction,rn:R08221,irreversible,98,95,hsa00983
+23,dr:D01223,dr:D01223 cpd:C12650,cpd:C16635,cpd:C16635,reaction,rn:R08220,irreversible,16,98,hsa00983
+24,dr:D08086,dr:D08086 cpd:C16641,cpd:C11173,cpd:C11173,reaction,rn:R08255,irreversible,106,109,hsa00983
 25,cpd:C11173,cpd:C11173,cpd:C11376,cpd:C11376,reaction,rn:R08259,irreversible,109,110,hsa00983
 26,cpd:C11376,cpd:C11376,cpd:C11173,cpd:C11173,reaction,rn:R08260,irreversible,110,109,hsa00983
 27,cpd:C16543,cpd:C16543,cpd:C11173,cpd:C11173,reaction,rn:R08258,irreversible,108,109,hsa00983
@@ -33,11 +33,11 @@
 31,cpd:C04242,cpd:C04242,cpd:C21750,cpd:C21750,reaction,rn:R11892,irreversible,68,121,hsa00983
 32,cpd:C21750,cpd:C21750,cpd:C21751,cpd:C21751,reaction,rn:R11895,irreversible,121,122,hsa00983
 33,cpd:C21751,cpd:C21751,cpd:C04242,cpd:C04242,reaction,rn:R11896,irreversible,122,68,hsa00983
-34,dr:D00346 cpd:C07054,dr:D00346 cpd:C07054,cpd:C21754,cpd:C21754,reaction,rn:R11906,irreversible,9,137,hsa00983
+34,dr:D00346,dr:D00346 cpd:C07054,cpd:C21754,cpd:C21754,reaction,rn:R11906,irreversible,9,137,hsa00983
 35,cpd:C05361,cpd:C05361,cpd:C07447,cpd:C07447,reaction,rn:R11902,irreversible,59,56,hsa00983
 36,cpd:C07447,cpd:C07447,cpd:C21758,cpd:C21758,reaction,rn:R11904,irreversible,56,154,hsa00983
-37,dr:D00346 cpd:C07054,dr:D00346 cpd:C07054,cpd:C05361,cpd:C05361,reaction,rn:R08251,irreversible,9,59,hsa00983
-38,dr:D00346 cpd:C07054,dr:D00346 cpd:C07054,cpd:C07446,cpd:C07446,reaction,rn:R08251,irreversible,9,19,hsa00983
+37,dr:D00346,dr:D00346 cpd:C07054,cpd:C05361,cpd:C05361,reaction,rn:R08251,irreversible,9,59,hsa00983
+38,dr:D00346,dr:D00346 cpd:C07054,cpd:C07446,cpd:C07446,reaction,rn:R08251,irreversible,9,19,hsa00983
 39,cpd:C07585,cpd:C07585,cpd:C07446,cpd:C07446,reaction,rn:R08249,irreversible,55,19,hsa00983
 40,cpd:C07585,cpd:C07585,cpd:C07447,cpd:C07447,reaction,rn:R08249,irreversible,55,56,hsa00983
 41,cpd:C21758,cpd:C21758,cpd:C02320,cpd:C02320,reaction,rn:R11905,irreversible,154,163,hsa00983

@@ -38,7 +38,7 @@
 36,118,cpd:C00049,compound,https://www.kegg.jp/dbget-bin/www_bget?C00049,C00049,
 37,119,cpd:C00402,compound,https://www.kegg.jp/dbget-bin/www_bget?C00402,C00402,
 38,121,ko:K01779,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01779,K01779,rn:R00491
-39,123,hsa:8528,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8528,"DDO, DASOX, DDO-1, DDO-2",rn:R00359
+39,123,hsa:8528,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8528,"DDO, DASOX, DASPO, DDO-1, DDO-2",rn:R00359
 40,124,cpd:C00036,compound,https://www.kegg.jp/dbget-bin/www_bget?C00036,C00036,
 41,165,cpd:C00079,compound,https://www.kegg.jp/dbget-bin/www_bget?C00079,C00079,
 42,169,cpd:C05620,compound,https://www.kegg.jp/dbget-bin/www_bget?C05620,C05620,
@@ -140,3 +140,7 @@
 138,264,ko:K25316 ko:K25317,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K25316+K25317,K25316...,rn:R00460
 139,267,ko:K13877 ko:K19588,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K13877+K19588,K13877...,rn:R00264
 140,268,cpd:C00026,compound,https://www.kegg.jp/dbget-bin/www_bget?C00026,C00026,
+141,270,ko:K26272,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K26272,K26272,rn:R13096
+142,271,cpd:C22611,compound,https://www.kegg.jp/dbget-bin/www_bget?C22611,C22611,
+143,273,ko:K19802,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K19802,K19802,rn:R13097
+144,274,cpd:C00624,compound,https://www.kegg.jp/dbget-bin/www_bget?C00624,C00624,

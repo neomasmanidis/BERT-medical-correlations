@@ -1,46 +1,45 @@
 ,id,name,type,link,gene_names,reaction
 0,3,cpd:C00054,compound,https://www.kegg.jp/dbget-bin/www_bget?C00054,C00054,
 1,4,cpd:C00053,compound,https://www.kegg.jp/dbget-bin/www_bget?C00053,C00053,
-2,9,path:hsa00534,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,
-3,10,gl:G00160,compound,https://www.kegg.jp/dbget-bin/www_bget?G00160,G00160,
-4,11,gl:G00159,compound,https://www.kegg.jp/dbget-bin/www_bget?G00159,G00159,
-5,12,gl:G00158,compound,https://www.kegg.jp/dbget-bin/www_bget?G00158,G00158,
-6,13,gl:G00157,compound,https://www.kegg.jp/dbget-bin/www_bget?G00157,G00157,
-7,14,gl:G00156,compound,https://www.kegg.jp/dbget-bin/www_bget?G00156,G00156,
-8,15,gl:G00155,compound,https://www.kegg.jp/dbget-bin/www_bget?G00155,G00155,
-9,16,gl:G00154,compound,https://www.kegg.jp/dbget-bin/www_bget?G00154,G00154,
-10,17,hsa:26229,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:26229,"B3GAT3, GLCATI, JDSCD, glcUAT-I",rn:R05928
-11,18,hsa:64131 hsa:64132,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64131+hsa:64132,"XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...",rn:R05925
-12,19,hsa:11285,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11285,"B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1",rn:R05926
-13,20,path:hsa00532,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00532,TITLE:Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,
-14,21,cpd:C02189,compound,https://www.kegg.jp/dbget-bin/www_bget?C02189,C02189,
-15,22,cpd:C00401,compound,https://www.kegg.jp/dbget-bin/www_bget?C00401,C00401,
-16,23,hsa:22856 hsa:337876 hsa:55454 hsa:55790 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:55454+hsa:55790+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",rn:R05932
-17,24,hsa:22856 hsa:337876 hsa:54480 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",rn:R05931
-18,25,hsa:55454 hsa:55790,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55454+hsa:55790,"CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT...",rn:R05929
-19,26,hsa:26229,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:26229,"B3GAT3, GLCATI, JDSCD, glcUAT-I",rn:R05928
-20,27,hsa:126792,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:126792,"B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6",rn:R05927
-21,28,hsa:11285,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11285,"B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1",rn:R05926
-22,29,hsa:64131 hsa:64132,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64131+hsa:64132,"XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...",rn:R05925
-23,30,hsa:22856 hsa:337876 hsa:54480 hsa:55454 hsa:55790 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:55454+hsa:55790+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",
-24,31,hsa:22856 hsa:337876 hsa:54480 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",
-25,37,hsa:166012 hsa:50515 hsa:55501,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:166012+hsa:50515+hsa:55501,"CHST13, C4ST3...",
-26,47,hsa:56548 hsa:9469,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:56548+hsa:9469,"CHST7, C6ST-2, GST-5...",
-27,49,hsa:51363,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51363,"CHST15, BRAG, GALNAC4S-6ST",
-28,56,hsa:10090,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10090,"UST, 2OST",
-29,63,hsa:29940,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29940,"DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2",
-30,76,hsa:10090,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10090,"UST, 2OST",
-31,85,hsa:126792,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:126792,"B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6",rn:R05927
-32,89,hsa:55454 hsa:55790,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55454+hsa:55790,"CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT...",rn:R05929
-33,90,hsa:22856 hsa:337876 hsa:54480 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",rn:R05931
-34,91,hsa:22856 hsa:337876 hsa:55454 hsa:55790 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:55454+hsa:55790+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",rn:R05932
-35,97,cpd:C01490,compound,https://www.kegg.jp/dbget-bin/www_bget?C01490,C01490,
-36,98,hsa:29940,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29940,"DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2",rn:R04104
-37,100,path:hsa00531,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00531,Glycosaminoglycan degradation,
-38,103,hsa:10090,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10090,"UST, 2OST",
-39,115,hsa:51363,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51363,"CHST15, BRAG, GALNAC4S-6ST",
-40,118,hsa:113189,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:113189,"CHST14, ATCS, D4ST1, EDSMC1, HNK1ST",
-41,119,hsa:56548 hsa:9469,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:56548+hsa:9469,"CHST7, C6ST-2, GST-5...",
-42,122,cpd:C00054,compound,https://www.kegg.jp/dbget-bin/www_bget?C00054,C00054,
-43,123,cpd:C00053,compound,https://www.kegg.jp/dbget-bin/www_bget?C00053,C00053,
-44,128,hsa:55501,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55501,"CHST12, C4S-2, C4ST-2, C4ST2",
+2,10,gl:G00160,compound,https://www.kegg.jp/dbget-bin/www_bget?G00160,G00160,
+3,11,gl:G00159,compound,https://www.kegg.jp/dbget-bin/www_bget?G00159,G00159,
+4,12,gl:G00158,compound,https://www.kegg.jp/dbget-bin/www_bget?G00158,G00158,
+5,13,gl:G00157,compound,https://www.kegg.jp/dbget-bin/www_bget?G00157,G00157,
+6,14,gl:G00156,compound,https://www.kegg.jp/dbget-bin/www_bget?G00156,G00156,
+7,15,gl:G00155,compound,https://www.kegg.jp/dbget-bin/www_bget?G00155,G00155,
+8,16,gl:G00154,compound,https://www.kegg.jp/dbget-bin/www_bget?G00154,G00154,
+9,17,hsa:26229,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:26229,"B3GAT3, GLCATI, JDSCD, glcUAT-I",rn:R05928
+10,18,hsa:64131 hsa:64132,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64131+hsa:64132,"XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...",rn:R05925
+11,19,hsa:11285,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11285,"B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1",rn:R05926
+12,20,path:hsa00532,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00532,TITLE:Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,
+13,21,cpd:C02189,compound,https://www.kegg.jp/dbget-bin/www_bget?C02189,C02189,
+14,22,cpd:C00401,compound,https://www.kegg.jp/dbget-bin/www_bget?C00401,C00401,
+15,23,hsa:22856 hsa:337876 hsa:55454 hsa:55790 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:55454+hsa:55790+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",rn:R05932
+16,24,hsa:22856 hsa:337876 hsa:54480 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",rn:R05931
+17,25,hsa:55454 hsa:55790,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55454+hsa:55790,"CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT...",rn:R05929
+18,26,hsa:26229,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:26229,"B3GAT3, GLCATI, JDSCD, glcUAT-I",rn:R05928
+19,27,hsa:126792,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:126792,"B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6",rn:R05927
+20,28,hsa:11285,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11285,"B4GALT7, EDSP1, EDSSLA, EDSSPD1, XGALT1, XGPT, XGPT1",rn:R05926
+21,29,hsa:64131 hsa:64132,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64131+hsa:64132,"XYLT1, DBQD2, PXYLT1, XT-I, XT1, XTI, XYLTI, xylT-I...",rn:R05925
+22,30,hsa:22856 hsa:337876 hsa:54480 hsa:55454 hsa:55790 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:55454+hsa:55790+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",
+23,31,hsa:22856 hsa:337876 hsa:54480 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",
+24,37,hsa:166012 hsa:50515 hsa:55501,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:166012+hsa:50515+hsa:55501,"CHST13, C4ST3...",
+25,47,hsa:56548 hsa:9469,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:56548+hsa:9469,"CHST7, C6ST-2, GST-5...",
+26,49,hsa:51363,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51363,"CHST15, BRAG, GALNAC4S-6ST",
+27,56,hsa:10090,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10090,"UST, 2OST",
+28,63,hsa:29940 hsa:92126,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29940+hsa:92126,"DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2...",
+29,76,hsa:10090,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10090,"UST, 2OST",
+30,85,hsa:126792,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:126792,"B3GALT6, ALGAZ, EDSP2, EDSSPD2, SEMDJL1, beta3GalT6",rn:R05927
+31,89,hsa:55454 hsa:55790,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55454+hsa:55790,"CSGALNACT2, CHGN2, ChGn-2, GALNACT-2, GALNACT2, PRO0082, beta4GalNAcT...",rn:R05929
+32,90,hsa:22856 hsa:337876 hsa:54480 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:54480+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",rn:R05931
+33,91,hsa:22856 hsa:337876 hsa:55454 hsa:55790 hsa:79586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22856+hsa:337876+hsa:55454+hsa:55790+hsa:79586,"CHSY1, CHSY, CSS1, ChSy-1, TPBS...",rn:R05932
+34,97,cpd:C01490,compound,https://www.kegg.jp/dbget-bin/www_bget?C01490,C01490,
+35,98,hsa:29940 hsa:92126,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29940+hsa:92126,"DSE, DS-epi1, DSEP, DSEPI, EDSMC2, SART-2, SART2...",rn:R04104
+36,100,path:hsa00531,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00531,Glycosaminoglycan degradation,
+37,103,hsa:10090,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10090,"UST, 2OST",
+38,115,hsa:51363,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51363,"CHST15, BRAG, GALNAC4S-6ST",
+39,118,hsa:113189,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:113189,"CHST14, ATCS, D4ST1, EDSMC1, HNK1ST",
+40,119,hsa:56548 hsa:9469,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:56548+hsa:9469,"CHST7, C6ST-2, GST-5...",
+41,122,cpd:C00054,compound,https://www.kegg.jp/dbget-bin/www_bget?C00054,C00054,
+42,123,cpd:C00053,compound,https://www.kegg.jp/dbget-bin/www_bget?C00053,C00053,
+43,128,hsa:55501,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55501,"CHST12, C4S-2, C4ST-2, C4ST2",

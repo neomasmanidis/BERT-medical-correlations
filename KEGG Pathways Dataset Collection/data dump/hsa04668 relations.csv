@@ -22,40 +22,39 @@
 20,29,43,PPrel,-->,activation,hsa04668
 21,28,31,PPrel,-->,activation,hsa04668
 22,31,29,PPrel,+u,ubiquitination,hsa04668
-23,41,156,PPrel,+p,phosphorylation,hsa04668
-24,156,160,PPrel,--|,inhibition,hsa04668
-25,160,68,PPrel,--|,inhibition,hsa04668
-26,27,66,PPrel,-->,activation,hsa04668
-27,66,138,PPrel,-->,activation,hsa04668
-28,66,68,PPrel,-->,activation,hsa04668
-29,138,70,PPrel,-->,activation,hsa04668
-30,138,71,PPrel,-->,activation,hsa04668
-31,68,70,PPrel,-->,activation,hsa04668
-32,68,71,PPrel,-->,activation,hsa04668
-33,152,35,PPrel,-->,activation,hsa04668
-34,26,135,PPrel,-+-,dissociation,hsa04668
-35,74,133,PPrel,---,binding/association,hsa04668
-36,133,141,PPrel,+p,phosphorylation,hsa04668
-37,141,142,PPrel,-->,activation,hsa04668
-38,47,160,GErel,-->,expression,hsa04668
-39,115,116,PPrel,-->,activation,hsa04668
-40,116,120,PPrel,-->,activation,hsa04668
-41,120,124,PPrel,-->,activation,hsa04668
-42,120,128,PPrel,-->,activation,hsa04668
-43,128,130,PPrel,+p,phosphorylation,hsa04668
-44,130,170,PPrel,+p,phosphorylation,hsa04668
-45,170,169,PPrel,-+-,dissociation,hsa04668
-46,120,122,PPrel,-->,activation,hsa04668
-47,122,176,PPrel,-->,activation,hsa04668
-48,176,182,PPrel,-->,activation,hsa04668
-49,182,184,PPrel,+p,phosphorylation,hsa04668
-50,116,174,PPrel,-->,activation,hsa04668
-51,174,166,PPrel,..>,indirect effect,hsa04668
-52,166,172,PPrel,+p,phosphorylation,hsa04668
-53,206,207,GErel,-->,expression,hsa04668
-54,143,146,PPrel,-->,activation,hsa04668
-55,143,146,PPrel,-p,dephosphorylation,hsa04668
-56,124,126,PPrel,+p,phosphorylation,hsa04668
-57,124,126,PPrel,..>,indirect effect,hsa04668
-58,116,206,PPrel,-->,activation,hsa04668
-59,116,206,PPrel,..>,indirect effect,hsa04668
+23,152,35,PPrel,-->,activation,hsa04668
+24,26,135,PPrel,-+-,dissociation,hsa04668
+25,74,133,PPrel,---,binding/association,hsa04668
+26,133,141,PPrel,+p,phosphorylation,hsa04668
+27,141,142,PPrel,-->,activation,hsa04668
+28,115,116,PPrel,-->,activation,hsa04668
+29,116,120,PPrel,-->,activation,hsa04668
+30,120,124,PPrel,-->,activation,hsa04668
+31,120,128,PPrel,-->,activation,hsa04668
+32,128,130,PPrel,+p,phosphorylation,hsa04668
+33,130,170,PPrel,+p,phosphorylation,hsa04668
+34,170,169,PPrel,-+-,dissociation,hsa04668
+35,120,122,PPrel,-->,activation,hsa04668
+36,122,176,PPrel,-->,activation,hsa04668
+37,176,182,PPrel,-->,activation,hsa04668
+38,182,184,PPrel,+p,phosphorylation,hsa04668
+39,116,174,PPrel,-->,activation,hsa04668
+40,174,166,PPrel,..>,indirect effect,hsa04668
+41,166,172,PPrel,+p,phosphorylation,hsa04668
+42,206,207,GErel,-->,expression,hsa04668
+43,215,217,PPrel,-->,activation,hsa04668
+44,217,219,PPrel,-->,activation,hsa04668
+45,217,220,PPrel,-->,activation,hsa04668
+46,47,226,GErel,-->,expression,hsa04668
+47,226,217,PPrel,--|,inhibition,hsa04668
+48,225,226,PPrel,--|,inhibition,hsa04668
+49,143,146,PPrel,-->,activation,hsa04668
+50,143,146,PPrel,-p,dephosphorylation,hsa04668
+51,124,126,PPrel,+p,phosphorylation,hsa04668
+52,124,126,PPrel,..>,indirect effect,hsa04668
+53,116,206,PPrel,-->,activation,hsa04668
+54,116,206,PPrel,..>,indirect effect,hsa04668
+55,223,215,PPrel,-->,activation,hsa04668
+56,223,215,PPrel,+p,phosphorylation,hsa04668
+57,41,225,PPrel,-->,activation,hsa04668
+58,41,225,PPrel,+p,phosphorylation,hsa04668

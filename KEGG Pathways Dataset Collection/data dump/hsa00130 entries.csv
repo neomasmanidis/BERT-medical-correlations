@@ -77,7 +77,7 @@
 75,139,ko:K09833,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K09833,K09833,rn:R07500
 76,141,path:hsa00190,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00190,Oxidative phosphorylation,
 77,146,ko:K03185,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03185,K03185,rn:R12658
-78,147,hsa:84274,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:84274,COQ5,rn:R09737
+78,147,hsa:84274,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:84274,"COQ5, COQ10D9",rn:R09737
 79,148,hsa:10229,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10229,"COQ7, CAT5, CLK-1, CLK1, COQ10D8",rn:R12067
 80,149,ko:K12501,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K12501,K12501,rn:R08782
 81,150,path:hsa00900,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00900,Terpenoid backbone biosynthesis,

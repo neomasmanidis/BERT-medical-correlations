@@ -40,7 +40,7 @@
 38,cpd:C00264,cpd:C00264,cpd:C00640,cpd:C00640,reaction,rn:R01778,reversible,131,130,hsa00062
 39,cpd:C00640,cpd:C00640,cpd:C00658,cpd:C00658,reaction,rn:R02685,reversible,130,129,hsa00062
 40,cpd:C20878,cpd:C20878,cpd:C20879,cpd:C20879,reaction,rn:R10827,irreversible,112,111,hsa00062
-41,cpd:C20879,cpd:C20879,cpd:C02843 cpd:C20876,cpd:C02843 cpd:C20876,reaction,rn:R10828,irreversible,111,110,hsa00062
+41,cpd:C20879,cpd:C20879,cpd:C02843,cpd:C02843 cpd:C20876,reaction,rn:R10828,irreversible,111,110,hsa00062
 42,cpd:C20877,cpd:C20877,cpd:C20878,cpd:C20878,reaction,rn:R10826,irreversible,113,112,hsa00062
 43,cpd:C00154,cpd:C00154,cpd:C00249,cpd:C00249,reaction,rn:R01274,irreversible,128,143,hsa00062
 44,cpd:C02843,cpd:C02843,cpd:C00638,cpd:C00638,reaction,rn:R09450,irreversible,110,148,hsa00062

@@ -85,7 +85,7 @@
 83,394,hsa:6387,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6387,"CXCL12, IRH, PBSF, SCYB12, SDF1, TLSF, TPAR1, SDF1A, SDF1B",
 84,395,cpd:C00681,compound,https://www.kegg.jp/dbget-bin/www_bget?C00681,C00681,
 85,400,hsa:3827,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3827,"KNG1, BDK, BK, HAE6, HK, HMWK, KNG",
-86,401,hsa:729 hsa:730 hsa:731 hsa:732 hsa:733 hsa:735,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:729+hsa:730+hsa:731+hsa:732+hsa:733+hsa:735,C6...,
+86,401,hsa:727 hsa:729 hsa:730 hsa:731 hsa:732 hsa:733 hsa:735,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:727+hsa:729+hsa:730+hsa:731+hsa:732+hsa:733+hsa:735,"C5, C5D, C5a, C5b, CPAMD4, ECLZB...",
 87,402,hsa:10000 hsa:207 hsa:208,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10000+hsa:207+hsa:208,"AKT3, MPPH, MPPH2, PKB-GAMMA, PKBG, PRKBG, RAC-PK-gamma, RAC-gamma, STK-2...",
 88,403,hsa:28984,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:28984,"RGCC, C13orf15, RGC-32, RGC32, bA157L14.2",
 89,404,undefined,group,,,

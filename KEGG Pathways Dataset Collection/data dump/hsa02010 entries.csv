@@ -142,7 +142,7 @@
 140,180,hsa:64241,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64241,"ABCG8, GBD4, STSL, STSL1",
 141,181,hsa:64240,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64240,"ABCG5, STSL, STSL2",
 142,182,ko:K05682,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K05682,K05682,
-143,183,hsa:9429,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9429,"ABCG2, ABC15, ABCP, BCRP, BCRP1, BMDP, CD338, CDw338, EST157481, GOUT1, MRX, MXR, MXR-1, MXR1, UAQTL1",
+143,183,hsa:9429,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9429,"ABCG2, ABC15, ABCP, BCRP, BCRP1, BMDP, CD338, CDw338, CDw388, EST157481, GOUT1, MRX, MXR, MXR-1, MXR1, UAQTL1",
 144,184,hsa:64137,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64137,"ABCG4, WHITE2",
 145,185,hsa:9619,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9619,"ABCG1, ABC8, WHITE1",
 146,186,hsa:5826,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5826,"ABCD4, ABC41, EST352188, MAHCJ, P70R, P79R, PMP69, PXMP1L",

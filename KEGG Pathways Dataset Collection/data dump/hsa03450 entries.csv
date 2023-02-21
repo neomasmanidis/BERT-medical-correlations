@@ -15,7 +15,7 @@
 13,15,ko:K10868,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K10868,K10868,
 14,16,ko:K10979,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K10979,K10979,
 15,17,hsa:7520,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:7520,"XRCC5, KARP-1, KARP1, KU80, KUB2, Ku86, NFIV",
-16,18,hsa:7518,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:7518,"XRCC4, SSMED",
+16,18,hsa:7518,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:7518,"XRCC4, SSMED, hXRCC4",
 17,19,hsa:2547,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2547,"XRCC6, CTC75, CTCBF, G22P1, KU70, ML8, TLAA",
 18,20,hsa:2237,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2237,"FEN1, FEN-1, MF1, RAD2",
 19,21,hsa:79840,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:79840,"NHEJ1, XLF",

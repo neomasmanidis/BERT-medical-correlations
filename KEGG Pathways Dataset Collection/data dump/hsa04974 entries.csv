@@ -1,7 +1,7 @@
 ,id,name,type,link,gene_names,reaction
 0,41,path:hsa04974,map,https://www.kegg.jp/dbget-bin/www_bget?hsa04974,TITLE:Protein digestion and absorption,
 1,44,path:hsa04530,map,https://www.kegg.jp/dbget-bin/www_bget?hsa04530,Tight junction,
-2,65,hsa:6505,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6505,"SLC1A1, DCBXA, EAAC1, EAAT3, SCZD18",
+2,65,hsa:6505,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6505,"SLC1A1, DCBXA, EAAC1, EAAT3, SCZD18, hEAAC1",
 3,66,hsa:11136,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11136,"SLC7A9, BAT1, CSNU3",
 4,67,hsa:23428,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23428,"SLC7A8, LAT2, LPI-PC1",
 5,68,hsa:54407,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54407,"SLC38A2, ATA2, PRO1068, SAT2, SNAT2",

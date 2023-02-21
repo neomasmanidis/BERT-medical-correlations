@@ -46,7 +46,7 @@
 44,105,hsa:83667,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:83667,"SESN2, HI95, SES2, SEST2",
 45,106,cpd:C00123,compound,https://www.kegg.jp/dbget-bin/www_bget?C00123,C00123,
 46,107,hsa:127124 hsa:245973 hsa:51382 hsa:51606 hsa:523 hsa:525 hsa:526 hsa:528 hsa:529 hsa:534 hsa:90423 hsa:9296 hsa:9550,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:127124+hsa:245973+hsa:51382+hsa:51606+hsa:523+hsa:525+hsa:526+hsa:528+hsa:529+hsa:534+hsa:90423+hsa:9296+hsa:9550,"ATP6V1G3, ATP6G3, Vma10...",
-47,108,hsa:153129,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:153129,"SLC38A9, URLC11",
+47,108,hsa:153129,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:153129,"SLC38A9, SNAT9, URLC11",
 48,109,hsa:10542 hsa:28956 hsa:389541 hsa:55004 hsa:8649,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10542+hsa:28956+hsa:389541+hsa:55004+hsa:8649,"LAMTOR5, HBXIP, XIP...",
 49,110,hsa:1147,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1147,"CHUK, BPS2, IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16",
 50,115,hsa:3479 hsa:3630,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3479+hsa:3630,"IGF1, IGF, IGF-I, IGFI, MGF...",

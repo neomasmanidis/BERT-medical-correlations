@@ -97,7 +97,7 @@
 95,264,hsa:7416 hsa:7417 hsa:7419,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:7416+hsa:7417+hsa:7419,"VDAC1, PORIN, VDAC-1...",
 96,265,hsa:10948,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10948,"STARD3, CAB1, MLN64, es64",
 97,266,hsa:7416 hsa:7417 hsa:7419,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:7416+hsa:7417+hsa:7419,"VDAC1, PORIN, VDAC-1...",
-98,267,hsa:706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:706,"TSPO, BPBS, BZRP, DBI, IBP, MBR, PBR, PBS, PKBS, PTBR, mDRC, pk18",
+98,267,hsa:706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:706,"TSPO, BPBS, BZRP, DBI, IBP, MBR, PBR, PBS, PKBS, PTBR, TSPO1, mDRC, pk18",
 99,268,hsa:6646 hsa:8435,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6646+hsa:8435,"SOAT1, ACACT, ACAT, ACAT-1, ACAT1, SOAT, STAT...",
 100,269,hsa:6272,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6272,"SORT1, Gp95, LDLCQ6, NT3, NTR3",
 101,270,hsa:338,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:338,"APOB, FCHL2, FLDB, LDLCQ4, apoB-100, apoB-48",

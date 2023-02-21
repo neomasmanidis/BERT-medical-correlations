@@ -107,3 +107,8 @@
 105,177,ko:K19243,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K19243,K19243,rn:R10907
 106,179,ko:K00895 ko:K21071,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00895+K21071,K00895...,rn:R02073
 107,180,path:hsa00750,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00750,Vitamin B6 metabolism,
+108,183,ko:K21056,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K21056,K21056,rn:R11535
+109,184,ko:K26208,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K26208,K26208,rn:R13089
+110,185,cpd:C01182,compound,https://www.kegg.jp/dbget-bin/www_bget?C01182,C01182,
+111,187,ko:K18237,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K18237,K18237,rn:R10555
+112,189,path:hsa00630,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00630,Glyoxylate and dicarboxylate metabolism,

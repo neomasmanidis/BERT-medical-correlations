@@ -125,7 +125,7 @@
 123,266,ko:K00218,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00218,K00218,rn:R03845
 124,267,hsa:1352,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1352,"COX10, MC4DN3",rn:R07411
 125,268,hsa:2235,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2235,"FECH, EPP, EPP1, FCE",rn:R00310
-126,270,hsa:1356 hsa:2395 hsa:341208 hsa:9843,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1356+hsa:2395+hsa:341208+hsa:9843,"CP, CP-2...",rn:R00078
+126,270,hsa:1356 hsa:2395 hsa:341208 hsa:9843,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1356+hsa:2395+hsa:341208+hsa:9843,"CP, AB073614, CP-2...",rn:R00078
 127,271,ko:K03428,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03428,K03428,rn:R04237
 128,272,ko:K03403 ko:K03404 ko:K03405,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03403+K03404+K03405,K03403...,rn:R03877
 129,273,hsa:5498,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5498,"PPOX, PPO, V290M, VP",rn:R03222

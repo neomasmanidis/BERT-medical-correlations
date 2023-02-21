@@ -226,7 +226,7 @@
 224,287,cpd:C00049,compound,https://www.kegg.jp/dbget-bin/www_bget?C00049,C00049,
 225,288,hsa:137362 hsa:2805 hsa:2806,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:137362+hsa:2805+hsa:2806,GOT1L1...,rn:R00355
 226,289,cpd:C00041,compound,https://www.kegg.jp/dbget-bin/www_bget?C00041,C00041,
-227,290,hsa:2875 hsa:84706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2875+hsa:84706,"GPT, AAT1, ALT1, GPT1...",rn:R00258
+227,290,hsa:2875 hsa:84706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2875+hsa:84706,"GPT, AAT1, ALT, ALT1, GPT1, SGPT...",rn:R00258
 228,291,ko:K01610,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01610,K01610,rn:R00341
 229,292,hsa:35,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:35,"ACADS, ACAD3, SCAD",rn:R01175
 230,293,cpd:C00227,compound,https://www.kegg.jp/dbget-bin/www_bget?C00227,C00227,
@@ -250,7 +250,7 @@
 248,311,cpd:C00025,compound,https://www.kegg.jp/dbget-bin/www_bget?C00025,C00025,
 249,312,cpd:C03618,compound,https://www.kegg.jp/dbget-bin/www_bget?C03618,C03618,
 250,313,cpd:C01732,compound,https://www.kegg.jp/dbget-bin/www_bget?C01732,C01732,
-251,314,hsa:2746 hsa:2747,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2746+hsa:2747,"GLUD1, GDH, GDH1, GLUD...",rn:R00248
+251,314,hsa:2746 hsa:2747,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2746+hsa:2747,"GLUD1, GDH, GDH1, GLUD, hGDH1...",rn:R00248
 252,315,ko:K19268 ko:K01846,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K19268+K01846,K19268...,rn:R00262
 253,316,ko:K04835,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K04835,K04835,rn:R03696
 254,317,ko:K19280,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K19280,K19280,rn:R10904

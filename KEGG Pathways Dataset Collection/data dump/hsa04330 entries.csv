@@ -1,7 +1,7 @@
 ,id,name,type,link,gene_names,reaction
 0,9,hsa:23385,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:23385,"NCSTN, ATAG1874",
 1,10,hsa:51107 hsa:83464,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51107+hsa:83464,"APH1A, 6530402N02Rik, APH-1, APH-1A, CGI-78...",
-2,11,hsa:5663 hsa:5664,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5663+hsa:5664,"PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, S182...",
+2,11,hsa:5663 hsa:5664,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5663+hsa:5664,"PSEN1, ACNINV3, AD3, FAD, PS-1, PS1, PSNL1, S182...",
 3,12,path:hsa04010,map,https://www.kegg.jp/dbget-bin/www_bget?hsa04010,MAPK signaling pathway,
 4,13,hsa:3065 hsa:3066,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3065+hsa:3066,"HDAC1, GON-10, HD1, KDAC1, RPD3, RPD3L1...",
 5,14,hsa:9541,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9541,"CIR1, CIR",

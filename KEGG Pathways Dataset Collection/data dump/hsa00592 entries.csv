@@ -3,8 +3,8 @@
 1,27,ko:K10527,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K10527,K10527,rn:R07893 rn:R07894
 2,28,ko:K10527,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K10527,K10527,rn:R07889 rn:R07890
 3,29,ko:K10528,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K10528,K10528,rn:R07870
-4,30,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R07896
-5,31,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R07892
+4,30,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R07896
+5,31,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R07892
 6,32,hsa:30,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:30,"ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO",rn:R07899
 7,33,hsa:30,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:30,"ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO",rn:R07895
 8,34,ko:K01723,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01723,K01723,rn:R07863
@@ -36,7 +36,7 @@
 34,61,cpd:C16311,compound,https://www.kegg.jp/dbget-bin/www_bget?C16311,C16311,
 35,62,cpd:C16316,compound,https://www.kegg.jp/dbget-bin/www_bget?C16316,C16316,
 36,63,hsa:30,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:30,"ACAA1, ACAA, Lnc-Myd88, PTHIO, THIO",rn:R07891
-37,64,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R07888
+37,64,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R07888
 38,65,cpd:C16322,compound,https://www.kegg.jp/dbget-bin/www_bget?C16322,C16322,
 39,67,path:hsa00592,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00592,TITLE:alpha-Linolenic acid metabolism,
 40,68,ko:K10525,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K10525,K10525,rn:R03402

@@ -171,7 +171,7 @@
 169,183,ko:K02110,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K02110,K02110,
 170,184,ko:K02108,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K02108,K02108,
 171,185,ko:K02109,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K02109,K02109,
-172,186,hsa:506,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:506,"ATP5F1B, ATP5B, ATPMB, ATPSB, HEL-S-271",
+172,186,hsa:506,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:506,"ATP5F1B, ATP5B, ATPMB, ATPSB, HEL-S-271, HUMOP2",
 173,187,hsa:498,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:498,"ATP5F1A, ATP5A, ATP5A1, ATP5AL2, ATPM, COXPD22, HEL-S-123m, MC5DN4, MOM2, OMR, ORM, hATP1",
 174,188,hsa:509,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:509,"ATP5F1C, ATP5C, ATP5C1, ATP5CL1",
 175,189,hsa:539,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:539,"ATP5PO, ATP5O, ATPO, HMC08D05, OSCP",

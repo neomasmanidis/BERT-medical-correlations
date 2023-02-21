@@ -11,7 +11,7 @@
 9,45,hsa:196051 hsa:23175 hsa:64900 hsa:84513 hsa:8611 hsa:8612 hsa:8613 hsa:9663,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:196051+hsa:23175+hsa:64900+hsa:84513+hsa:8611+hsa:8612+hsa:8613+hsa:9663,"PLPP4, DPPL2, PPAPDC1, PPAPDC1A...",rn:R02239
 10,46,hsa:116255 hsa:346606 hsa:80168,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:116255+hsa:346606+hsa:80168,"MOGAT1, DGAT2L, DGAT2L1, MGAT1...",rn:R03755 rn:R03756
 11,47,hsa:1056 hsa:119548 hsa:3990 hsa:5406 hsa:5407 hsa:5408 hsa:57104 hsa:80339 hsa:8513 hsa:9388,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1056+hsa:119548+hsa:3990+hsa:5406+hsa:5407+hsa:5408+hsa:57104+hsa:80339+hsa:8513+hsa:9388,"CEL, BAL, BSDL, BSSL, CELL, CEase, FAP, FAPP, LIPA, MODY8...",rn:R02687
-12,48,hsa:10554 hsa:10555 hsa:129642 hsa:154141 hsa:253558 hsa:55326 hsa:56894 hsa:56895,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10554+hsa:10555+hsa:129642+hsa:154141+hsa:253558+hsa:55326+hsa:56894+hsa:56895,"AGPAT1, 1-AGPAT1, G15, LPAAT-alpha, LPAATA...",rn:R02241
+12,48,hsa:10554 hsa:10555 hsa:129642 hsa:154141 hsa:253558 hsa:55326 hsa:56894 hsa:56895,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10554+hsa:10555+hsa:129642+hsa:154141+hsa:253558+hsa:55326+hsa:56894+hsa:56895,"AGPAT1, 1-AGPAT1, G15, LPAAT-alpha, LPAATA, LPLAT1...",rn:R02241
 13,49,path:hsa00010,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00010,Glycolysis / Gluconeogenesis,
 14,50,hsa:55750,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55750,"AGK, CATC5, CTRCT38, MTDPS10, MULK",rn:R02757
 15,51,hsa:11343 hsa:7920,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11343+hsa:7920,"MGLL, HU-K5, HUK5, MAGL, MGL...",rn:R01351

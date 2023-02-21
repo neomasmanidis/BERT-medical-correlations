@@ -32,10 +32,10 @@
 30,67,hsa:10390 hsa:56994,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10390+hsa:56994,CEPT1...,rn:R07389
 31,69,hsa:5048 hsa:5049 hsa:5050 hsa:5051 hsa:7941,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5048+hsa:5049+hsa:5050+hsa:5051+hsa:7941,"PAFAH1B1, LIS1, LIS2, MDCR, MDS, NudF, PAFAH...",rn:R04452
 32,70,hsa:100137049 hsa:11145 hsa:123745 hsa:151056 hsa:255189 hsa:26279 hsa:283748 hsa:30814 hsa:391013 hsa:50487 hsa:5319 hsa:5320 hsa:5321 hsa:5322 hsa:54979 hsa:64600 hsa:81579 hsa:8398 hsa:8399 hsa:84647 hsa:8605 hsa:8681,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:100137049+hsa:11145+hsa:123745+hsa:151056+hsa:255189+hsa:26279+hsa:283748+hsa:30814+hsa:391013+hsa:50487+hsa:5319+hsa:5320+hsa:5321+hsa:5322+hsa:54979+hsa:64600+hsa:81579+hsa:8398+hsa:8399+hsa:84647+hsa:8605+hsa:8681,"PLA2G4B, HsT16992, cPLA2-beta...",rn:R07387
-33,71,hsa:54947 hsa:79888,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54947+hsa:79888,"LPCAT2, AGPAT11, AYTL1, LysoPAFAT...",rn:R03438
-34,72,hsa:254531 hsa:54947 hsa:79888,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:254531+hsa:54947+hsa:79888,"LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2...",rn:R03437
+33,71,hsa:54947 hsa:79888,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:54947+hsa:79888,"LPCAT2, AGPAT11, AYTL1, LPLAT9, LysoPAFAT...",rn:R03438
+34,72,hsa:254531 hsa:54947 hsa:79888,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:254531+hsa:54947+hsa:79888,"LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2, LPLAT10...",rn:R03437
 35,73,hsa:100137049 hsa:11145 hsa:123745 hsa:151056 hsa:255189 hsa:26279 hsa:283748 hsa:30814 hsa:391013 hsa:50487 hsa:5319 hsa:5320 hsa:5321 hsa:5322 hsa:54979 hsa:64600 hsa:81579 hsa:8398 hsa:8399 hsa:84647 hsa:8605 hsa:8681,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:100137049+hsa:11145+hsa:123745+hsa:151056+hsa:255189+hsa:26279+hsa:283748+hsa:30814+hsa:391013+hsa:50487+hsa:5319+hsa:5320+hsa:5321+hsa:5322+hsa:54979+hsa:64600+hsa:81579+hsa:8398+hsa:8399+hsa:84647+hsa:8605+hsa:8681,"PLA2G4B, HsT16992, cPLA2-beta...",rn:R07379
-36,74,hsa:254531,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:254531,"LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2",rn:R04413
+36,74,hsa:254531,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:254531,"LPCAT4, AGPAT7, AYTL3, LPAAT-eta, LPEAT2, LPLAT10",rn:R04413
 37,75,hsa:387521 hsa:387522,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:387521+hsa:387522,"PEDS1, CarF, KUA, TMEM189...",rn:R04571
 38,76,hsa:255043,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:255043,TMEM86B,rn:R03415
 39,77,hsa:10390 hsa:85465,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10390+hsa:85465,CEPT1...,rn:R07384

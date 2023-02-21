@@ -46,7 +46,7 @@
 44,103,hsa:27231 hsa:54981,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:27231+hsa:54981,"NMRK2, ITGB1BP3, MIBP, NRK2...",rn:R02324
 45,105,hsa:4860,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4860,"PNP, NP, PRO1837, PUNP",rn:R02294
 46,107,hsa:10135,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10135,"NAMPT, 1110035O14Rik, PBEF, PBEF1, VF, VISFATIN",rn:R01271
-47,108,hsa:683 hsa:952,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:683+hsa:952,"BST1, CD157...",rn:R00102
+47,108,hsa:683 hsa:952,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:683+hsa:952,"BST1, CD157, cADPR2...",rn:R00102
 48,109,ko:K18153 ko:K19980,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K18153+K19980,K18153...,rn:R00102
 49,110,hsa:4837,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4837,NNMT,rn:R01269
 50,111,hsa:133686 hsa:65220,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:133686+hsa:65220,"NADK2, C5orf33, DECRD, MNADK, NADKD1...",rn:R00104
@@ -107,7 +107,7 @@
 105,191,ko:K01240,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01240,K01240,rn:R10046
 106,192,ko:K01240,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01240,K01240,rn:R01273
 107,193,ko:K18029 ko:K18030,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K18029+K18030,K18029...,rn:R09473
-108,194,hsa:683 hsa:952,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:683+hsa:952,"BST1, CD157...",rn:R00119
+108,194,hsa:683 hsa:952,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:683+hsa:952,"BST1, CD157, cADPR2...",rn:R00119
 109,196,ko:K19190,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K19190,K19190,rn:R10131 rn:R10132
 110,197,cpd:C20381,compound,https://www.kegg.jp/dbget-bin/www_bget?C20381,C20381,
 111,199,ko:K19191,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K19191,K19191,rn:R10102
@@ -116,7 +116,7 @@
 114,203,cpd:C15987,compound,https://www.kegg.jp/dbget-bin/www_bget?C15987,C15987,
 115,204,hsa:100526794 hsa:22978 hsa:284958 hsa:30833 hsa:4907 hsa:56953 hsa:84618 hsa:93034,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:100526794+hsa:22978+hsa:284958+hsa:30833+hsa:4907+hsa:56953+hsa:84618+hsa:93034,"NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...",rn:R02323
 116,205,hsa:100526794 hsa:22978 hsa:284958 hsa:30833 hsa:4907 hsa:56953 hsa:84618 hsa:93034,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:100526794+hsa:22978+hsa:284958+hsa:30833+hsa:4907+hsa:56953+hsa:84618+hsa:93034,"NT5C1B-RDH14, AIRP, NT5C1B, cN-IB, cN1B...",rn:R03346
-117,207,ko:K20170 ko:K20169,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K20170+K20169,K20170...,rn:R11175
+117,207,ko:K20169,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K20169,K20169,rn:R11175
 118,208,cpd:C20361,compound,https://www.kegg.jp/dbget-bin/www_bget?C20361,C20361,
 119,210,cpd:C19569,compound,https://www.kegg.jp/dbget-bin/www_bget?C19569,C19569,
 120,211,ko:K20170,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K20170,K20170,rn:R11178

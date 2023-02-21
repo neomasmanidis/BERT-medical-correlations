@@ -109,10 +109,14 @@ for m in status:
 
                 for j in range(0, len(substrate_list)):
                     for k in range(0, len(product_list)):
-                        # print(substrate_list[j]['@name'] + ' -> ' + product_list[k]['@name'])
-                        temp = pd.DataFrame({'head id': substrate_list[j]['@name'],
+                        # If multiple similar ids separated by space, keep the 1st
+                        ls = substrate_list[j]['@name'].split(" ")
+                        head_id = ls[0]
+                        ls = product_list[k]['@name'].split(" ")
+                        tail_id = ls[0]
+                        temp = pd.DataFrame({'head id': head_id,
                                              'head name': substrate_list[j]['@name'],
-                                             'tail id': product_list[k]['@name'],
+                                             'tail id': tail_id,
                                              'tail name': product_list[k]['@name'], 'link type': 'reaction',
                                              'relation name': df_reactions['@name'][i],
                                              'relation value': df_reactions['@type'][i],
@@ -120,6 +124,7 @@ for m in status:
                                              'entry2': product_list[k]['@id'],
                                              'pathway': 'hsa'+m},
                                             index=[0])
+
                         df_reactions_relations = pd.concat([df_reactions_relations, temp], ignore_index=True)
 
             df_reactions_relations.to_csv('data dump/hsa' + m + ' reactions.csv')

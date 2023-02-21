@@ -56,7 +56,7 @@
 54,93,hsa:7841,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:7841,"MOGS, CDG2B, CWH41, DER7, GCS1",rn:R05979
 55,94,hsa:440138,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:440138,"ALG11, CDG1P, GT8",rn:R06128
 56,95,hsa:201595 hsa:3703,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:201595+hsa:3703,"STT3B, CDG1X, SIMP, STT3-B...",rn:R05976
-57,96,hsa:29880,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29880,"ALG5, bA421P11.2",rn:R01005
+57,96,hsa:29880,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:29880,"ALG5, PKD7, bA421P11.2",rn:R01005
 58,98,hsa:85365,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:85365,"ALG2, CDG1I, CDGIi, CMS14, CMSTA3, NET38, hALPG2",rn:R05973
 59,99,hsa:56052,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:56052,"ALG1, CDG1K, HMAT1, HMT-1, HMT1, MT-1, Mat-1, hMat-1",rn:R05972
 60,100,hsa:79868,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:79868,"ALG13, CDG1S, CXorf45, DEE36, EIEE36, GLT28D1, MDS031, TDRD13, YGL047W",rn:R05970
@@ -114,7 +114,7 @@
 112,196,hsa:4245,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4245,"MGAT1, GLCNAC-TI, GLCT1, GLYT1, GNT-1, GNT-I, GnTI, MGAT",rn:R05983
 113,197,path:hsa00520,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00520,Amino sugar and nucleotide sugar metabolism,
 114,199,path:hsa00515,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00515,Mannose type O-glycan biosynthesis,
-115,202,hsa:79644,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:79644,"SRD5A3, CDG1P, CDG1Q, KRIZI, SRD5A2L, SRD5A2L1",rn:R12299
+115,202,hsa:79644,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:79644,"SRD5A3, CDG1P, CDG1Q, KRIZI, S5AR, S5AR_3, SRD5A2L, SRD5A2L1",rn:R12299
 116,204,cpd:C06081,compound,https://www.kegg.jp/dbget-bin/www_bget?C06081,C06081,
 117,205,path:hsa00900,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00900,Terpenoid backbone biosynthesis,
 118,206,gl:G10694,compound,https://www.kegg.jp/dbget-bin/www_bget?G10694,G10694,

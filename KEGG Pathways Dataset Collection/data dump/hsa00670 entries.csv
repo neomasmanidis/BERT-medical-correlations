@@ -5,8 +5,8 @@
 3,21,hsa:2618,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2618,"GART, AIRS, GARS, GARTF, PAIS, PGFT, PRGS",rn:R04326
 4,22,hsa:10841,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10841,"FTCD, LCHC1",rn:R02302
 5,23,hsa:10797 hsa:441024,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10797+hsa:441024,"MTHFD2, NMDMC...",rn:R01218
-6,24,hsa:1719 hsa:200895,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1719+hsa:200895,"DHFR, DHFRP1, DYR...",rn:R00936 rn:R00939
-7,25,hsa:1719 hsa:200895,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1719+hsa:200895,"DHFR, DHFRP1, DYR...",rn:R02235 rn:R02236
+6,24,hsa:1719 hsa:200895,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1719+hsa:200895,"DHFR, DHFR1, DHFRP1, DYR...",rn:R00936 rn:R00939
+7,25,hsa:1719 hsa:200895,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1719+hsa:200895,"DHFR, DHFR1, DHFRP1, DYR...",rn:R02235 rn:R02236
 8,26,hsa:10841,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10841,"FTCD, LCHC1",rn:R03189
 9,27,ko:K00297 ko:K25007 ko:K25008 ko:K24042,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00297+K25007+K25008+K24042,K00297...,rn:R07168
 10,29,hsa:10797 hsa:441024 hsa:4522,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10797+hsa:441024+hsa:4522,"MTHFD2, NMDMC...",rn:R01655
@@ -31,10 +31,10 @@
 29,65,hsa:275,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:275,"AMT, GCE, GCST, GCVT, NKH",rn:R04125
 30,69,cpd:C00234,compound,https://www.kegg.jp/dbget-bin/www_bget?C00234,C00234,
 31,71,cpd:C00445,compound,https://www.kegg.jp/dbget-bin/www_bget?C00445,C00445,
-32,73,hsa:1719 hsa:200895,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1719+hsa:200895,"DHFR, DHFRP1, DYR...",rn:R00937 rn:R00940
+32,73,hsa:1719 hsa:200895,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1719+hsa:200895,"DHFR, DHFR1, DHFRP1, DYR...",rn:R00937 rn:R00940
 33,75,hsa:4524,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4524,MTHFR,rn:R01224
 34,76,ko:K25009,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K25009,K25009,rn:R01224 rn:R07168
 35,78,ko:K25221,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K25221,K25221,rn:R02289
-36,53,hsa:7298,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:7298,"TYMS, HST422, TMS, TS",rn:R02101
+36,53,hsa:7298,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:7298,"TYMS, DKCD, HST422, TMS, TS",rn:R02101
 37,74,cpd:C00101,compound,https://www.kegg.jp/dbget-bin/www_bget?C00101,C00101,
 38,79,ko:K25915,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K25915,K25915,rn:R02289

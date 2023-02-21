@@ -57,13 +57,13 @@
 55,109,hsa:2180 hsa:2181 hsa:2182 hsa:23205 hsa:23305 hsa:51703 hsa:81616,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2180+hsa:2181+hsa:2182+hsa:23205+hsa:23305+hsa:51703+hsa:81616,"ACSL1, ACS1, FACL1, FACL2, LACS, LACS1, LACS2...",rn:R01280
 56,110,hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3030,"HADHA, ECHA, GBP, HADH, LCEH, LCHAD, MTPA, TP-ALPHA",rn:R04737
 57,112,hsa:33,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:33,"ACADL, ACAD4, LCAD",rn:R01279
-58,115,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R01175
-59,116,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R04751
-60,117,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R03777
-61,118,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R04754
-62,119,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R03857
-63,120,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R03990
-64,121,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, MITCH, PALMCOX, SCOX...",rn:R01279
+58,115,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R01175
+59,116,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R04751
+60,117,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R03777
+61,118,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R04754
+62,119,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R03857
+63,120,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R03990
+64,121,hsa:51 hsa:8310,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51+hsa:8310,"ACOX1, ACOX, AOX, MITCH, PALMCOX, SCOX...",rn:R01279
 65,122,ko:K00529,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00529,K00529,rn:R02000
 66,123,ko:K00530,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00530,K00530,rn:R02000 rn:R02002
 67,124,cpd:C02990,compound,https://www.kegg.jp/dbget-bin/www_bget?C02990,C02990,

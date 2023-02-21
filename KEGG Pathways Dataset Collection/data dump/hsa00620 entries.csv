@@ -117,3 +117,6 @@
 115,215,ko:K04022,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K04022,K04022,rn:R00754
 116,216,ko:K00114,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00114,K00114,rn:R05198
 117,217,ko:K22473 ko:K22474,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K22473+K22474,K22473...,rn:R09479
+118,218,ko:K26113 ko:K26114 ko:K26115,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K26113+K26114+K26115,K26113...,rn:R13049
+119,219,ko:K26113 ko:K26114 ko:K26115,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K26113+K26114+K26115,K26113...,rn:R13050
+120,220,ko:K26318,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K26318,K26318,rn:R13137

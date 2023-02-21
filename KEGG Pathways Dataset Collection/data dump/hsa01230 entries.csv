@@ -94,7 +94,7 @@
 92,96,cpd:C03283,compound,https://www.kegg.jp/dbget-bin/www_bget?C03283,C03283,
 93,97,ko:K00651 ko:K00641,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00651+K00641,K00651...,rn:R01777
 94,98,ko:K01739,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01739,K01739,rn:R03260
-95,99,hsa:1491,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1491,"CTH, CSE",rn:R01001
+95,99,hsa:1491,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1491,"CTH, CGL, CSE",rn:R01001
 96,100,ko:K01760 ko:K14155,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01760+K14155,K01760...,rn:R01286
 97,101,hsa:4548,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4548,"MTR, HMAG, MS, cblG",rn:R00946 rn:R04405
 98,102,hsa:1431,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1431,CS,rn:R00351
@@ -158,7 +158,7 @@
 156,163,ko:K00290,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00290,K00290,rn:R00715
 157,164,cpd:C20258,compound,https://www.kegg.jp/dbget-bin/www_bget?C20258,C20258,
 158,165,ko:K01714,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01714,K01714,rn:R10147
-159,166,hsa:2875 hsa:84706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2875+hsa:84706,"GPT, AAT1, ALT1, GPT1...",rn:R00258
+159,166,hsa:2875 hsa:84706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2875+hsa:84706,"GPT, AAT1, ALT, ALT1, GPT1, SGPT...",rn:R00258
 160,167,cpd:C00041,compound,https://www.kegg.jp/dbget-bin/www_bget?C00041,C00041,
 161,168,ko:K09758,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K09758,K09758,rn:R00397
 162,169,cpd:C00064,compound,https://www.kegg.jp/dbget-bin/www_bget?C00064,C00064,

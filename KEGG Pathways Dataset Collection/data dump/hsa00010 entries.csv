@@ -10,8 +10,8 @@
 8,49,hsa:10327,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10327,"AKR1A1, ALDR1, ALR, ARM, DD3, HEL-S-6",rn:R00746
 9,50,hsa:124 hsa:125 hsa:126 hsa:127 hsa:128 hsa:130 hsa:131,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:124+hsa:125+hsa:126+hsa:127+hsa:128+hsa:130+hsa:131,"ADH1A, ADH1...",rn:R00754
 10,51,ko:K01568,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01568,K01568,rn:R00014
-11,52,hsa:5160 hsa:5161 hsa:5162,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5160+hsa:5161+hsa:5162,"PDHA1, PDHA, PDHAD, PDHCE1A, PHE1A...",rn:R00014
-12,53,hsa:5160 hsa:5161 hsa:5162,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5160+hsa:5161+hsa:5162,"PDHA1, PDHA, PDHAD, PDHCE1A, PHE1A...",rn:R03270
+11,52,hsa:5160 hsa:5161 hsa:5162,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5160+hsa:5161+hsa:5162,"PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...",rn:R00014
+12,53,hsa:5160 hsa:5161 hsa:5162,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5160+hsa:5161+hsa:5162,"PDHA1, E1alpha, PDHA, PDHAD, PDHCE1A, PHE1A...",rn:R03270
 13,54,hsa:1737,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1737,"DLAT, DLTA, E2, PBC, PDC-E2, PDCE2",rn:R02569
 14,55,hsa:160287 hsa:3939 hsa:3945 hsa:3948 hsa:92483,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:160287+hsa:3939+hsa:3945+hsa:3948+hsa:92483,"LDHAL6A, LDH6A...",rn:R00703
 15,56,path:hsa00620,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00620,Pyruvate metabolism,
@@ -93,7 +93,7 @@
 91,146,cpd:C00068,compound,https://www.kegg.jp/dbget-bin/www_bget?C00068,C00068,
 92,147,ko:K15633 ko:K15635,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K15633+K15635,K15633...,rn:R01518
 93,148,ko:K00138,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00138,K00138,rn:R00711
-94,150,hsa:9562,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9562,"MINPP1, HIPER1, MINPP2, MIPP",rn:R09532
+94,150,hsa:9562,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9562,"MINPP1, HIPER1, MINPP2, MIPP, PCH16",rn:R09532
 95,151,path:map00710,map,https://www.kegg.jp/dbget-bin/www_bget?map00710,Carbon fixation in photosynthetic organisms,
 96,152,ko:K18978,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K18978,K18978,rn:R01058 rn:R10860
 97,154,ko:K00174 ko:K00175,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00174+K00175,K00174...,rn:R01196

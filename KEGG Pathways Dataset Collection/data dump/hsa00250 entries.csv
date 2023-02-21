@@ -22,7 +22,7 @@
 20,47,hsa:259307,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:259307,"IL4I1, FIG1, LAAO, LAO, hIL4I1",rn:R00357
 21,48,ko:K00278,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00278,K00278,rn:R00357
 22,49,hsa:137362 hsa:2805 hsa:2806,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:137362+hsa:2805+hsa:2806,GOT1L1...,rn:R00355
-23,50,hsa:8528,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8528,"DDO, DASOX, DDO-1, DDO-2",rn:R00359
+23,50,hsa:8528,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:8528,"DDO, DASOX, DASPO, DDO-1, DDO-2",rn:R00359
 24,53,cpd:C03794,compound,https://www.kegg.jp/dbget-bin/www_bget?C03794,C03794,
 25,54,cpd:C03406,compound,https://www.kegg.jp/dbget-bin/www_bget?C03406,C03406,
 26,55,hsa:445,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:445,"ASS1, ASS, CTLN1",rn:R01954
@@ -31,8 +31,8 @@
 29,58,hsa:435,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:435,"ASL, ASAL",rn:R01086
 30,59,hsa:158,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:158,"ADSL, AMPS, ASASE, ASL",rn:R01083
 31,60,cpd:C00022,compound,https://www.kegg.jp/dbget-bin/www_bget?C00022,C00022,
-32,61,hsa:189 hsa:64902,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:189+hsa:64902,"AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, TLH6...",rn:R00369
-33,63,hsa:2875 hsa:84706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2875+hsa:84706,"GPT, AAT1, ALT1, GPT1...",rn:R00258
+32,61,hsa:189 hsa:64902,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:189+hsa:64902,"AGXT, AGT, AGT1, AGXT1, PH1, SPAT, SPT, Ser-PyrAT, TLH6...",rn:R00369
+33,63,hsa:2875 hsa:84706,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2875+hsa:84706,"GPT, AAT1, ALT, ALT1, GPT1, SGPT...",rn:R00258
 34,66,ko:K00259 ko:K19244,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00259+K19244,K00259...,rn:R00396
 35,68,path:hsa00470,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00470,D-Amino acid metabolism,
 36,70,cpd:C00438,compound,https://www.kegg.jp/dbget-bin/www_bget?C00438,C00438,
@@ -54,7 +54,7 @@
 52,89,ko:K00265 ko:K00266,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00265+K00266,K00265...,rn:R00114
 53,90,ko:K00264,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00264,K00264,rn:R00093
 54,92,ko:K00260 ko:K15371,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00260+K15371,K00260...,rn:R00243
-55,93,hsa:2746 hsa:2747,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2746+hsa:2747,"GLUD1, GDH, GDH1, GLUD...",rn:R00243 rn:R00248
+55,93,hsa:2746 hsa:2747,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2746+hsa:2747,"GLUD1, GDH, GDH1, GLUD, hGDH1...",rn:R00243 rn:R00248
 56,94,ko:K00262,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00262,K00262,rn:R00248
 57,95,cpd:C00334,compound,https://www.kegg.jp/dbget-bin/www_bget?C00334,C00334,
 58,97,hsa:18,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:18,"ABAT, GABA-AT, GABAT, NPD009",rn:R01648
@@ -83,7 +83,7 @@
 81,134,path:hsa00910,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00910,Nitrogen metabolism,
 82,135,path:hsa00470,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00470,D-Amino acid metabolism,
 83,136,path:hsa00480,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00480,Glutathione metabolism,
-84,137,path:hsa00860,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00860,Porphyrin and chlorophyll metabolism,
+84,137,path:hsa00860,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00860,Porphyrin metabolism,
 85,138,path:map00460,map,https://www.kegg.jp/dbget-bin/www_bget?map00460,Cyanoamino acid metabolism,
 86,139,path:hsa00650,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00650,Butanoate metabolism,
 87,140,path:map00660,map,https://www.kegg.jp/dbget-bin/www_bget?map00660,C5-Branched dibasic acid metabolism,
@@ -96,8 +96,8 @@
 94,165,cpd:C12270,compound,https://www.kegg.jp/dbget-bin/www_bget?C12270,C12270,
 95,167,cpd:C20776,compound,https://www.kegg.jp/dbget-bin/www_bget?C20776,C20776,
 96,168,hsa:284716,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:284716,"RIMKLA, FAM80A, NAAGS, NAAGS-II, NAAGS2",rn:R10693
-97,170,hsa:2346,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2346,"FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP",rn:R10687
-98,172,hsa:2346,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2346,"FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, NAALAdase, PSM, PSMA, mGCP",rn:R10688
+97,170,hsa:2346,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2346,"FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, PSM, PSMA, mGCP",rn:R10687
+98,172,hsa:2346,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2346,"FOLH1, FGCP, FOLH, GCP2, GCPII, NAALAD1, PSM, PSMA, mGCP",rn:R10688
 99,173,cpd:C00158,compound,https://www.kegg.jp/dbget-bin/www_bget?C00158,C00158,
 100,175,hsa:57494,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:57494,"RIMKLB, FAM80B, NAAGS, NAAGS-I",rn:R10677
 101,176,cpd:C20775,compound,https://www.kegg.jp/dbget-bin/www_bget?C20775,C20775,

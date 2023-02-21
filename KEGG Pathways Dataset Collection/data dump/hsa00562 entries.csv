@@ -6,7 +6,7 @@
 4,50,hsa:253430,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:253430,IPMK,rn:R05800
 5,51,hsa:253430,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:253430,IPMK,rn:R05801
 6,52,hsa:5728,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5728,"PTEN, 10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC1, PTEN1, PTENbeta, TEP1",rn:R04513
-7,53,hsa:9562,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9562,"MINPP1, HIPER1, MINPP2, MIPP",rn:R03434
+7,53,hsa:9562,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9562,"MINPP1, HIPER1, MINPP2, MIPP, PCH16",rn:R03434
 8,54,hsa:27124 hsa:3632 hsa:51763,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:27124+hsa:3632+hsa:51763,"INPP5J, INPP5, PIB5PA, PIPP...",rn:R03430
 9,55,hsa:3706 hsa:3707 hsa:80271,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3706+hsa:3707+hsa:80271,"ITPKA, IP3-3KA, IP3KA...",rn:R03433
 10,56,hsa:3705,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3705,"ITPK1, ITRPK1",rn:R03428
@@ -19,25 +19,25 @@
 17,63,hsa:3628,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3628,INPP1,rn:R03427
 18,64,hsa:3628,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3628,INPP1,rn:R03393
 19,65,hsa:3631 hsa:8821,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3631+hsa:8821,"INPP4A, INPP4, TVAS1...",rn:R04372
-20,66,hsa:4534,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4534,"MTM1, CNM, MTMX, XLMTM",rn:R03330
+20,66,hsa:4534,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4534,"MTM1, CNM, CNMX, MTMX, XLMTM",rn:R03330
 21,67,path:hsa00562,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00562,TITLE:Inositol phosphate metabolism,
 22,68,hsa:51477,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51477,"ISYNA1, INO1, INOS, IPS, IPS_1, IPS-1",rn:R07324
 23,69,hsa:3612 hsa:3613,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3612+hsa:3613,"IMPA1, IMP, IMPA, MRT59...",rn:R01186
 24,70,hsa:3612 hsa:3613,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3612+hsa:3613,"IMPA1, IMP, IMPA, MRT59...",rn:R01187
 25,71,hsa:55586,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:55586,"MIOX, ALDRL6",rn:R01184
 26,72,ko:K19517,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K19517,K19517,rn:R07279
-27,73,hsa:5297 hsa:5298 hsa:55300 hsa:55361,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5297+hsa:5298+hsa:55300+hsa:55361,"PI4KA, PI4K-ALPHA, PIK4CA, PMGYCHA, pi4K230...",rn:R03361
+27,73,hsa:5297 hsa:5298 hsa:55300 hsa:55361,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5297+hsa:5298+hsa:55300+hsa:55361,"PI4KA, GIDID2, PI4K-ALPHA, PIK4CA, PMGYCHA, SPG84, pi4K230...",rn:R03361
 28,74,ko:K01114 ko:K16619,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01114+K16619,K01114...,rn:R03332
 29,75,hsa:138429 hsa:23396 hsa:8394 hsa:8395,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:138429+hsa:23396+hsa:8394+hsa:8395,"PIP5KL1, PIPKH...",rn:R03469
 30,76,hsa:5289,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5289,"PIK3C3, VPS34, hVps34",rn:R03362
-31,77,hsa:4534 hsa:55613 hsa:64419 hsa:8776 hsa:8897 hsa:8898 hsa:9107 hsa:9108 hsa:9110,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4534+hsa:55613+hsa:64419+hsa:8776+hsa:8897+hsa:8898+hsa:9107+hsa:9108+hsa:9110,"MTM1, CNM, MTMX, XLMTM...",rn:R03363
+31,77,hsa:4534 hsa:55613 hsa:64419 hsa:8776 hsa:8897 hsa:8898 hsa:9107 hsa:9108 hsa:9110,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4534+hsa:55613+hsa:64419+hsa:8776+hsa:8897+hsa:8898+hsa:9107+hsa:9108+hsa:9110,"MTM1, CNM, CNMX, MTMX, XLMTM...",rn:R03363
 32,78,path:hsa00040,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00040,Pentose and glucuronate interconversions,
 33,79,path:hsa00564,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00564,Glycerophospholipid metabolism,
 34,80,hsa:3612 hsa:3613,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3612+hsa:3613,"IMPA1, IMP, IMPA, MRT59...",rn:R01185
 35,81,hsa:113026 hsa:23007 hsa:23236 hsa:51196 hsa:5330 hsa:5331 hsa:5332 hsa:5333 hsa:5335 hsa:5336 hsa:84812 hsa:89869 hsa:9651,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:113026+hsa:23007+hsa:23236+hsa:51196+hsa:5330+hsa:5331+hsa:5332+hsa:5333+hsa:5335+hsa:5336+hsa:84812+hsa:89869+hsa:9651,"PLCD3, PLC-delta-3...",rn:R03435
 36,82,ko:K01771,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01771,K01771,rn:R03332
 37,85,hsa:64768,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64768,"IPPK, C9orf12, INSP5K2, IP5K, IPK1, bA476B13.1",rn:R05202
-38,86,hsa:5290 hsa:5291 hsa:5293 hsa:5294,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5290+hsa:5291+hsa:5293+hsa:5294,"PIK3CA, CLAPO, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha...",rn:R04545
+38,86,hsa:5290 hsa:5291 hsa:5293 hsa:5294,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5290+hsa:5291+hsa:5293+hsa:5294,"PIK3CA, CCM4, CLAPO, CLOVE, CWS5, MCAP, MCM, MCMTC, PI3K, PI3K-alpha, p110-alpha...",rn:R04545
 39,87,ko:K00010,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00010,K00010,rn:R01183
 40,88,ko:K03335,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03335,K03335,rn:R02782
 41,89,cpd:C01272,compound,https://www.kegg.jp/dbget-bin/www_bget?C01272,C01272,
@@ -99,7 +99,7 @@
 97,162,cpd:C19794,compound,https://www.kegg.jp/dbget-bin/www_bget?C19794,C19794,
 98,164,ko:K23992 ko:K07291,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K23992+K07291,K23992...,rn:R09670
 99,165,cpd:C19799,compound,https://www.kegg.jp/dbget-bin/www_bget?C19799,C19799,
-100,167,hsa:4534 hsa:55613 hsa:64419 hsa:8776 hsa:8897 hsa:8898 hsa:9107 hsa:9108 hsa:9110,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4534+hsa:55613+hsa:64419+hsa:8776+hsa:8897+hsa:8898+hsa:9107+hsa:9108+hsa:9110,"MTM1, CNM, MTMX, XLMTM...",rn:R10928
+100,167,hsa:4534 hsa:55613 hsa:64419 hsa:8776 hsa:8897 hsa:8898 hsa:9107 hsa:9108 hsa:9110,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4534+hsa:55613+hsa:64419+hsa:8776+hsa:8897+hsa:8898+hsa:9107+hsa:9108+hsa:9110,"MTM1, CNM, CNMX, MTMX, XLMTM...",rn:R10928
 101,169,hsa:22876 hsa:22908,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:22876+hsa:22908,"INPP5F, MSTP007, MSTPO47, SAC2, hSAC2...",rn:R11680
 102,171,cpd:C00691,compound,https://www.kegg.jp/dbget-bin/www_bget?C00691,C00691,
 103,172,ko:K22231,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K22231,K22231,rn:R11770

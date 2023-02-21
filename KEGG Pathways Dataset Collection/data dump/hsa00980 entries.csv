@@ -77,7 +77,7 @@
 75,124,hsa:1544,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1544,"CYP1A2, CP12, CYPIA2, P3-450, P450(PA)",rn:R09405
 76,126,hsa:2052,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2052,"EPHX1, EPHX, EPOX, HYL1, MEH",rn:R09410
 77,127,cpd:C19588,compound,https://www.kegg.jp/dbget-bin/www_bget?C19588,C19588,
-78,129,hsa:1576 hsa:1577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576+hsa:1577,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1...",rn:R09404
+78,129,hsa:1576 hsa:1577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576+hsa:1577,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3...",rn:R09404
 79,131,hsa:1544,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1544,"CYP1A2, CP12, CYPIA2, P3-450, P450(PA)",rn:R09407
 80,134,hsa:1553,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1553,"CYP2A13, CPAD, CYP2A, CYPIIA13",rn:R09406
 81,135,cpd:C19594,compound,https://www.kegg.jp/dbget-bin/www_bget?C19594,C19594,
@@ -113,7 +113,7 @@
 111,183,hsa:1545,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1545,"CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1",rn:R09416
 112,184,cpd:C19604,compound,https://www.kegg.jp/dbget-bin/www_bget?C19604,C19604,
 113,186,hsa:2052,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2052,"EPHX1, EPHX, EPOX, HYL1, MEH",rn:R09417
-114,189,hsa:6822,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6822,"SULT2A1, DHEA-ST, DHEAS, HST, ST2, ST2A1, ST2A3, STD, hSTa",rn:R09444
+114,189,hsa:6822,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6822,"SULT2A1, DHEA-ST, DHEA-ST8, DHEAS, HST, ST2, ST2A1, ST2A3, STD, SULT2A3, hSTa",rn:R09444
 115,190,cpd:C19561,compound,https://www.kegg.jp/dbget-bin/www_bget?C19561,C19561,
 116,191,cpd:C19489,compound,https://www.kegg.jp/dbget-bin/www_bget?C19489,C19489,
 117,192,cpd:C19490,compound,https://www.kegg.jp/dbget-bin/www_bget?C19490,C19490,
@@ -182,27 +182,27 @@
 180,304,cpd:C14859,compound,https://www.kegg.jp/dbget-bin/www_bget?C14859,C14859,
 181,306,cpd:C06790,compound,https://www.kegg.jp/dbget-bin/www_bget?C06790,C06790,
 182,307,hsa:1571,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1571,"CYP2E1, CPE1, CYP2E, P450-J, P450C2E",rn:R07098
-183,309,hsa:1576 hsa:1577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576+hsa:1577,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1...",rn:R09408
+183,309,hsa:1576 hsa:1577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576+hsa:1577,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3...",rn:R09408
 184,310,hsa:1548 hsa:1549,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549,"CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...",rn:R09408
 185,311,hsa:1553,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1553,"CYP2A13, CPAD, CYP2A, CYPIIA13",rn:R09424
 186,312,hsa:1553,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1553,"CYP2A13, CPAD, CYP2A, CYPIIA13",rn:R09425
 187,313,hsa:107987478 hsa:107987479 hsa:1564 hsa:1565,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:107987478+hsa:107987479+hsa:1564+hsa:1565,107987478...,rn:R09421
 188,314,hsa:1571,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1571,"CYP2E1, CPE1, CYP2E, P450-J, P450C2E",rn:R09421
 189,315,hsa:1548 hsa:1549,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549,"CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...",rn:R09423
-190,316,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1",rn:R09423
+190,316,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3",rn:R09423
 191,317,hsa:1553,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1553,"CYP2A13, CPAD, CYP2A, CYPIIA13",rn:R09421
 192,318,hsa:1553,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1553,"CYP2A13, CPAD, CYP2A, CYPIIA13",rn:R09423
 193,319,hsa:1553,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1553,"CYP2A13, CPAD, CYP2A, CYPIIA13",rn:R09408
-194,320,hsa:1559,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1559,"CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9",rn:R07079 rn:R07080 rn:R07081
-195,321,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1",rn:R07079 rn:R07080 rn:R07081
+194,320,hsa:1559,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1559,"CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450-2C9, P450IIC9",rn:R07079 rn:R07080 rn:R07081
+195,321,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3",rn:R07079 rn:R07080 rn:R07081
 196,322,hsa:1545,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1545,"CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1",rn:R07079 rn:R07080 rn:R07081
-197,323,hsa:1559,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1559,"CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9",rn:R07087
-198,324,hsa:1559,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1559,"CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450IIC9",rn:R07085
-199,325,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1",rn:R07085
+197,323,hsa:1559,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1559,"CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450-2C9, P450IIC9",rn:R07087
+198,324,hsa:1559,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1559,"CYP2C9, CPC9, CYP2C, CYP2C10, CYPIIC9, P450-2C9, P450IIC9",rn:R07085
+199,325,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3",rn:R07085
 200,326,hsa:1545,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1545,"CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1",rn:R07085
-201,327,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1",rn:R07087
+201,327,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3",rn:R07087
 202,328,hsa:1545,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1545,"CYP1B1, ASGD6, CP1B, CYPIB1, GLC3A, P4501B1",rn:R07087
-203,329,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1",rn:R07000 rn:R07001
+203,329,hsa:1576,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1576,"CYP3A4, CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1, VDDR3",rn:R07000 rn:R07001
 204,330,hsa:1548 hsa:1549 hsa:1555 hsa:1571 hsa:1572 hsa:29785,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1548+hsa:1549+hsa:1555+hsa:1571+hsa:1572+hsa:29785,"CYP2A6, CPA6, CYP2A, CYP2A3, CYPIIA6, P450C2A, P450PB...",rn:R07000 rn:R07001
 205,331,hsa:1543 hsa:1544,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1544,"CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...",rn:R07098
 206,332,hsa:1543 hsa:1544,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1543+hsa:1544,"CYP1A1, AHH, AHRR, CP11, CYP1, CYPIA1, P1-450, P450-C, P450DX...",rn:R07099

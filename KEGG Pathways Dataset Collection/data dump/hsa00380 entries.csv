@@ -19,7 +19,7 @@
 17,94,ko:K14265 ko:K00838,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K14265+K00838,K14265...,rn:R00684
 18,98,hsa:125061,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:125061,"AFMID, FKF, KF, KFA",rn:R01959
 19,101,hsa:38 hsa:39,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:38+hsa:39,"ACAT1, ACAT, MAT, T2, THIL...",rn:R00238
-20,102,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH...",rn:R03026
+20,102,hsa:1892 hsa:1962 hsa:3030,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1892+hsa:1962+hsa:3030,"ECHS1, ECHS1D, SCEH, mECH, mECH1...",rn:R03026
 21,103,hsa:2639,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2639,"GCDH, ACAD5, GCD",rn:R02488
 22,104,hsa:1738 hsa:1743 hsa:55526,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1738+hsa:1743+hsa:55526,"DLD, DLDD, DLDH, E3, GCSL, LAD, OGDC-E3, PHE3...",rn:R01933
 23,105,hsa:64577,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64577,"ALDH8A1, ALDH12, DJ352A20.2",rn:R03889

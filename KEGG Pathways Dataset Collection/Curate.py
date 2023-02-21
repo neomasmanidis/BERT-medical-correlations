@@ -48,9 +48,13 @@ for m in status:
             entry1_name = entries_table.loc[entries_table['id'] == entry1]['gene_names'].to_list()[0]
             ls = entry1_name.split(",")
             entry1_name = ls[0]  # Keep only 1st Alias as the entry name
+            ls = entry1_name.split(" ")
+            entry1_name = ls[0]
 
             entry2_name = entries_table.loc[entries_table['id'] == entry2]['gene_names'].to_list()[0]
             ls = entry2_name.split(",")
+            entry2_name = ls[0]
+            ls = entry2_name.split(" ")
             entry2_name = ls[0]
 
             if relation['name'] == 'compound':

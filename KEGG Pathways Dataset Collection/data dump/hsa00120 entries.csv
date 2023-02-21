@@ -12,10 +12,10 @@
 10,47,hsa:9023,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:9023,"CH25H, C25H",rn:R07218
 11,49,hsa:1581,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1581,"CYP7A1, CP7A, CYP7, CYPVII",rn:R01463
 12,50,hsa:3295,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:3295,"HSD17B4, DBP, MFE-2, MFP-2, MPF-2, PRLTS1, SDR8C1",rn:R04813
-13,52,hsa:6342,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6342,"SCP2, NLTP, NSL-TP, SCP-2, SCP-CHI, SCP-X, SCPX",rn:R03719
-14,54,hsa:6342,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6342,"SCP2, NLTP, NSL-TP, SCP-2, SCP-CHI, SCP-X, SCPX",rn:R04811
+13,52,hsa:6342,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6342,"SCP2, NLTP, NSL-TP, SCOX, SCP-2, SCP-CHI, SCP-X, SCPX",rn:R03719
+14,54,hsa:6342,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:6342,"SCP2, NLTP, NSL-TP, SCOX, SCP-2, SCP-CHI, SCP-X, SCPX",rn:R04811
 15,60,hsa:10998,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10998,"SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2",rn:R08743
-16,61,hsa:570,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:570,"BAAT, BACAT, BAT",rn:R08744
+16,61,hsa:570,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:570,"BAAT, BACAT, BACD1, BAT, HCHO",rn:R08744
 17,62,ko:K01442,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01442,K01442,rn:R03975
 18,63,hsa:1593,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1593,"CYP27A1, CP27, CTX, CYP27",rn:R08759
 19,64,hsa:1593,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1593,"CYP27A1, CP27, CTX, CYP27",rn:R08761
@@ -24,12 +24,12 @@
 22,69,hsa:80270,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:80270,"HSD3B7, CBAS1, PFIC4, SDR11E3",rn:R08724
 23,70,hsa:80270,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:80270,"HSD3B7, CBAS1, PFIC4, SDR11E3",rn:R04263
 24,71,hsa:80270,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:80270,"HSD3B7, CBAS1, PFIC4, SDR11E3",rn:R08723
-25,73,hsa:570,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:570,"BAAT, BACAT, BAT",rn:R08745
+25,73,hsa:570,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:570,"BAAT, BACAT, BACD1, BAT, HCHO",rn:R08745
 26,81,hsa:10998,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10998,"SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2",rn:R02794
-27,82,hsa:570,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:570,"BAAT, BACAT, BAT",rn:R03718
+27,82,hsa:570,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:570,"BAAT, BACAT, BACD1, BAT, HCHO",rn:R03718
 28,83,ko:K01442,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01442,K01442,rn:R05835
 29,84,ko:K01442,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K01442,K01442,rn:R02797
-30,86,hsa:570,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:570,"BAAT, BACAT, BAT",rn:R03720
+30,86,hsa:570,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:570,"BAAT, BACAT, BACD1, BAT, HCHO",rn:R03720
 31,90,hsa:1582,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1582,"CYP8B1, CP8B, CYP12",rn:R04826
 32,91,hsa:51302,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:51302,CYP39A1,rn:R07208
 33,92,hsa:10998,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:10998,"SLC27A5, ACSB, ACSVL6, BACS, BAL, FACVL3, FATP-5, FATP5, VLACSR, VLCS-H2, VLCSH2",rn:R08738

@@ -14,7 +14,7 @@
 12,32,ko:K19823,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K19823,K19823,rn:R10388 rn:R10389
 13,34,ko:K05601 ko:K15864,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K05601+K15864,K05601...,rn:R00143
 14,35,ko:K03385 ko:K15876,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K03385+K15876,K03385...,rn:R05712
-15,36,ko:K17877,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K17877,K17877,rn:R00787 rn:R00789
+15,36,ko:K17877 ko:K26139 ko:K26138 ko:K00361,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K17877+K26139+K26138+K00361,K17877...,rn:R00787 rn:R00789
 16,37,ko:K00366,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00366,K00366,rn:R00790
 17,38,ko:K00368 ko:K15864,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00368+K15864,K00368...,rn:R00783 rn:R00785
 18,39,ko:K02586 ko:K02591 ko:K02588 ko:K00531,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K02586+K02591+K02588+K00531,K02586...,rn:R05185
@@ -41,7 +41,7 @@
 39,69,hsa:11238 hsa:23632 hsa:377677 hsa:759 hsa:760 hsa:761 hsa:762 hsa:763 hsa:765 hsa:766 hsa:767 hsa:768 hsa:771,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:11238+hsa:23632+hsa:377677+hsa:759+hsa:760+hsa:761+hsa:762+hsa:763+hsa:765+hsa:766+hsa:767+hsa:768+hsa:771,"CA5B, CA-VB, CAVB...",rn:R10092
 40,70,ko:K00926,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00926,K00926,rn:R01395
 41,71,cpd:C00169,compound,https://www.kegg.jp/dbget-bin/www_bget?C00169,C00169,
-42,72,hsa:1373,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1373,"CPS1, CPSASE1, PHN",rn:R00149
+42,72,hsa:1373,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:1373,"CPS1, CPSASE1, GATD6, PHN",rn:R00149
 43,74,path:hsa00220,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00220,Arginine biosynthesis,
 44,76,ko:K02575,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K02575,K02575,
 45,77,cpd:C00244,compound,https://www.kegg.jp/dbget-bin/www_bget?C00244,C00244,
@@ -56,7 +56,7 @@
 54,89,ko:K00284,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00284,K00284,rn:R00021
 55,90,path:hsa00250,map,https://www.kegg.jp/dbget-bin/www_bget?hsa00250,"Alanine, aspartate and glutamate metabolism",
 56,92,ko:K00260 ko:K15371,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00260+K15371,K00260...,rn:R00243
-57,93,hsa:2746 hsa:2747,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2746+hsa:2747,"GLUD1, GDH, GDH1, GLUD...",rn:R00243 rn:R00248
+57,93,hsa:2746 hsa:2747,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:2746+hsa:2747,"GLUD1, GDH, GDH1, GLUD, hGDH1...",rn:R00243 rn:R00248
 58,94,ko:K00262,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K00262,K00262,rn:R00248
 59,99,cpd:C00244,compound,https://www.kegg.jp/dbget-bin/www_bget?C00244,C00244,
 60,100,cpd:C00088,compound,https://www.kegg.jp/dbget-bin/www_bget?C00088,C00088,
@@ -112,3 +112,4 @@
 110,165,cpd:C05361,compound,https://www.kegg.jp/dbget-bin/www_bget?C05361,C05361,
 111,166,ko:K22896 ko:K22897 ko:K22898 ko:K22899,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K22896+K22897+K22898+K22899,K22896...,rn:R12084
 112,167,ko:K22896 ko:K22897 ko:K22898 ko:K22899,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K22896+K22897+K22898+K22899,K22896...,rn:R12084
+113,169,ko:K26139 ko:K26138 ko:K00361,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K26139+K26138+K00361,K26139...,rn:R00787 rn:R00789

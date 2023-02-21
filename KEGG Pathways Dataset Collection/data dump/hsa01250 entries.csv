@@ -158,7 +158,7 @@
 156,324,ko:K21130,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K21130,K21130,rn:R10420 rn:R10421
 157,330,hsa:4351,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:4351,"MPI, CDG1B, PMI, PMI1",rn:R01819
 158,331,cpd:C00352,compound,https://www.kegg.jp/dbget-bin/www_bget?C00352,C00352,
-159,332,hsa:64841,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64841,"GNPNAT1, GNA1, GNPNAT, Gpnat1",rn:R02058
+159,332,hsa:64841,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:64841,"GNPNAT1, GNA1, GNPNAT, Gpnat1, RHZDAN",rn:R02058
 160,333,hsa:5238,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:5238,"PGM3, AGM1, IMD23, PAGM, PGM_3",rn:R08193
 161,334,cpd:C06156,compound,https://www.kegg.jp/dbget-bin/www_bget?C06156,C06156,
 162,335,cpd:C00357,compound,https://www.kegg.jp/dbget-bin/www_bget?C00357,C00357,
@@ -332,7 +332,7 @@
 330,533,ko:K12451,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K12451,K12451,rn:R08705
 331,534,cpd:C17328,compound,https://www.kegg.jp/dbget-bin/www_bget?C17328,C17328,
 332,535,cpd:C02199,compound,https://www.kegg.jp/dbget-bin/www_bget?C02199,C02199,
-333,536,hsa:80146,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:80146,"UXS1, SDR6E1, UGD",rn:R01384
+333,536,hsa:80146,gene,https://www.kegg.jp/dbget-bin/www_bget?hsa:80146,"UXS1, SDR6E1, UGD, hUXS, hUXS1",rn:R01384
 334,537,cpd:C00190,compound,https://www.kegg.jp/dbget-bin/www_bget?C00190,C00190,
 335,538,ko:K08679,ortholog,https://www.kegg.jp/dbget-bin/www_bget?K08679,K08679,rn:R01385
 336,540,cpd:C01623,compound,https://www.kegg.jp/dbget-bin/www_bget?C01623,C01623,
